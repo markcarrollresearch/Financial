@@ -19,7 +19,8 @@
     "build:portable": "npm run build && node scripts/build-portable.mjs && python scripts/package-portable.py",
     "build:windows": "npm run build:portable && node scripts/build-windows.mjs && python scripts/package-portable.py",
     "test:portable": "playwright test --config playwright.portable.config.ts",
-    "package:source": "python scripts/package-source.py"
+    "package:source": "python scripts/package-source.py",
+    "build:site": "npm run build && node scripts/build-site.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.577.0",

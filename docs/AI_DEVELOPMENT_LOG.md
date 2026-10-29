@@ -63,3 +63,7 @@ The user showed Windows reporting that `py` was not installed and requested an i
 - Added four launcher tests for embedded content, spaces/Unicode paths, cache reuse/repair, browser hand-off and error propagation. Native Windows execution and actual Samsung device testing remain unverified; a Linux cross-compiled PE file is not represented as a Windows-tested installer.
 
 The user had already authorized uploading the application and ZIP to the existing GitHub delivery branch. The portable release is a continuation of that approved delivery; no website deployment is involved.
+
+## Browser hosting preparation
+
+After the user reported Windows Security blocking the download and requested a cloud web app, the agent checked the available preview/publishing tools. This session offers no permanent ChatGPT-hosted web URL. The agent prepared a GitHub Pages build in `docs/`, retaining the original source, branding and documentation, and documented the publication steps in `docs/HOSTING.md`. This is a tested static-site preparation, not a claim that a public site has been deployed. Public hosting requires the user's approval separately from the earlier source/ZIP upload permission.
