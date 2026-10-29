@@ -5,6 +5,7 @@ import {
   ChartNoAxesCombined,
   CircleHelp,
   FileCheck2,
+  FileText,
   Landmark,
   LayoutDashboard,
   LoaderCircle,
@@ -95,6 +96,11 @@ export default function App() {
     requestAnimationFrame(() => heading.current?.focus());
   };
   const active = pages.find((p) => p.id === page) ?? pages[0];
+  const guideHref =
+    window.location.protocol === "file:" ||
+    document.getElementById("financial-lab-data")
+      ? "https://markcarrollresearch.github.io/Financial/Financial-Lab-Interview-Guide.pdf"
+      : `${import.meta.env.BASE_URL}Financial-Lab-Interview-Guide.pdf`;
   if (error)
     return (
       <main className="load-state">
@@ -206,9 +212,21 @@ export default function App() {
               <span className="breadcrumb-divider">/</span>
               <span>{active.label}</span>
             </div>
-            <div className="local-status">
-              <span />
-              SYNTHETIC DATA · INTERVIEW CONCEPT
+            <div className="topbar-actions">
+              <div className="local-status">
+                <span />
+                SYNTHETIC DATA · INTERVIEW CONCEPT
+              </div>
+              <a
+                className="guide-link"
+                href={guideHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Open printable interview guide (PDF)"
+              >
+                <FileText size={15} />
+                Interview guide (PDF)
+              </a>
             </div>
           </div>
           <main id="main-content">

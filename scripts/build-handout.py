@@ -214,5 +214,6 @@ for number, page in enumerate(pages,1):
 c.save()
 (ROOT / 'downloads').mkdir(exist_ok=True)
 shutil.copyfile(OUT, ROOT / 'downloads' / OUT.name)
+shutil.copyfile(OUT, ROOT / 'public' / OUT.name)
 (CAPTURES/'layout.json').write_text(json.dumps(para_records,indent=2)+'\n')
 print(f'Built {OUT.name}: 4 landscape Letter pages, {OUT.stat().st_size:,} bytes.')

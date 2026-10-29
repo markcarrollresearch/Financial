@@ -1,6 +1,6 @@
 # Interview handout
 
-The four-page PDF is `../Financial-Lab-Interview-Guide.pdf`. It is also available in the repository's `downloads/` folder.
+The four-page PDF is `../Financial-Lab-Interview-Guide.pdf`. It is also available in the repository's `downloads/` folder and through **Interview guide (PDF)** at the top of every application page.
 
 ## Print
 
