@@ -1,0 +1,134 @@
+{
+  "captureSource": "Unmodified production website build in docs/, rendered through an internal local HTTP server. Public site direct access is blocked from this cloud session.",
+  "allDivisions": true,
+  "facts": {
+    "asOf": "2026-09-30",
+    "budget": 961536731,
+    "actual": 968693197,
+    "variance": -7156466,
+    "variancePct": 0.7442738035142206,
+    "exceptionCount": 10,
+    "underReview": 18889283,
+    "gross": 3335308408,
+    "retained": 627180554,
+    "passThrough": 2708127854,
+    "retainedPct": 18.804274666044616,
+    "bankGap": 1244644,
+    "glGap": 14500639,
+    "openAR": 40769596,
+    "overdue": 24250780,
+    "overduePct": 59.48251240949261,
+    "ar90": 11524839,
+    "baseline": 11587644,
+    "scenario": 15045096,
+    "incremental": 3457452,
+    "rates": {
+      "1–30": 80,
+      "31–60": 60,
+      "61–90": 40,
+      "90+": 50
+    }
+  },
+  "shots": [
+    {
+      "id": "executive",
+      "filename": "executive-handout.png",
+      "pins": [
+        {
+          "number": 1,
+          "x": 511.75,
+          "y": 219.78125
+        },
+        {
+          "number": 2,
+          "x": 896.65625,
+          "y": 460.421875
+        },
+        {
+          "number": 3,
+          "x": 1390,
+          "y": 219.78125
+        }
+      ],
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "id": "revenue",
+      "filename": "revenue-handout.png",
+      "pins": [
+        {
+          "number": 1,
+          "x": 896.65625,
+          "y": 378.421875
+        },
+        {
+          "number": 2,
+          "x": 1389.984375,
+          "y": 378.421875
+        },
+        {
+          "number": 3,
+          "x": 1390,
+          "y": 655.8125
+        }
+      ],
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "id": "receivables",
+      "filename": "receivables-handout.png",
+      "pins": [
+        {
+          "number": 1,
+          "x": 511.75,
+          "y": 219.78125
+        },
+        {
+          "number": 2,
+          "x": 896.65625,
+          "y": 378.421875
+        },
+        {
+          "number": 3,
+          "x": 1390,
+          "y": 739.8125
+        }
+      ],
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "id": "decision",
+      "filename": "decision-handout.png",
+      "pins": [
+        {
+          "number": 1,
+          "x": 750.359375,
+          "y": 464.421875
+        },
+        {
+          "number": 2,
+          "x": 1097.25,
+          "y": 305.78125
+        },
+        {
+          "number": 3,
+          "x": 1390,
+          "y": 305.78125
+        }
+      ],
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      }
+    }
+  ]
+}

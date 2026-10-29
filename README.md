@@ -2,6 +2,10 @@
 
 A standalone, local React + TypeScript application for an independent interview demonstration. All financial transactions and customer records are synthetic. **Not produced by, endorsed by, or an official report of Douglas County.** No Power BI files are read or modified. No online API, AI model, Microsoft account, database, or credentials are required at runtime.
 
+## Printable interview guide
+
+[Download the four-page landscape handout](https://github.com/markcarrollresearch/Financial/raw/refs/heads/financial-lab-delivery/downloads/Financial-Lab-Interview-Guide.pdf). It includes an authentic screenshot of each experience, numbered explanations, leadership takeaways, financial guardrails and a QR code for the live app. Print on **Letter paper, Landscape, Actual size**; for two sheets, use double-sided printing with **short-edge flipping**. See [handout notes](docs/handout/README.md) for presenter cues and assumptions.
+
 ## Use the website — recommended
 
 The browser-hosted version is prepared for GitHub Pages. Follow the [nontechnical setup guide](docs/GITHUB_PAGES_GUIDE.md) to enable the one-time Pages setting in your GitHub account. Select **Deploy from a branch → financial-lab-delivery → /docs → Save**.

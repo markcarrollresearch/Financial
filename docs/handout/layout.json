@@ -1,0 +1,258 @@
+[
+  {
+    "page": 1,
+    "x": 598,
+    "top": 477,
+    "width": 155,
+    "height": 12.5,
+    "text": "Compare the same period"
+  },
+  {
+    "page": 1,
+    "x": 578,
+    "top": 450.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "Jan\u2013Sep plan: $9,615,367.31.\nExpenses: $9,686,931.97.\nThe annual budget is a separate baseline."
+  },
+  {
+    "page": 1,
+    "x": 598,
+    "top": 367,
+    "width": 155,
+    "height": 12.5,
+    "text": "Find the pressure points"
+  },
+  {
+    "page": 1,
+    "x": 578,
+    "top": 340.5,
+    "width": 174,
+    "height": 37.5,
+    "text": "Expenses are $71,564.66 (0.74%) above plan. Monthly trends and division filters help focus investigation."
+  },
+  {
+    "page": 1,
+    "x": 598,
+    "top": 257,
+    "width": 155,
+    "height": 12.5,
+    "text": "Prioritize the follow-up"
+  },
+  {
+    "page": 1,
+    "x": 578,
+    "top": 230.5,
+    "width": 174,
+    "height": 37.5,
+    "text": "10 open issues cover $188,892.83 under review. Open an issue for its source, owner and required action."
+  },
+  {
+    "page": 1,
+    "x": 40,
+    "top": 109,
+    "width": 331,
+    "height": 25.6,
+    "text": "Identify which divisions drive the variance, then distinguish timing effects from recurring cost pressure."
+  },
+  {
+    "page": 1,
+    "x": 413,
+    "top": 109,
+    "width": 339,
+    "height": 25.6,
+    "text": "Budget minus expenses is the variance. Under-review amounts are not established losses."
+  },
+  {
+    "page": 2,
+    "x": 598,
+    "top": 477,
+    "width": 155,
+    "height": 12.5,
+    "text": "Separate ownership"
+  },
+  {
+    "page": 2,
+    "x": 578,
+    "top": 450.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "County retained: 18.8% of gross receipts. Agency pass-through funds belong to other agencies; they are not County revenue."
+  },
+  {
+    "page": 2,
+    "x": 598,
+    "top": 367,
+    "width": 155,
+    "height": 12.5,
+    "text": "Read each control stage"
+  },
+  {
+    "page": 2,
+    "x": 578,
+    "top": 340.5,
+    "width": 174,
+    "height": 37.5,
+    "text": "Bank absolute gaps: $12,446.44.\nGL clearing: $145,006.39.\nThese stages are not additive."
+  },
+  {
+    "page": 2,
+    "x": 598,
+    "top": 257,
+    "width": 155,
+    "height": 12.5,
+    "text": "Move from gap to evidence"
+  },
+  {
+    "page": 2,
+    "x": 578,
+    "top": 230.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "Open a batch to inspect its receipts, banked amount and GL postings. The exception queue provides the accountable owner and follow-up."
+  },
+  {
+    "page": 2,
+    "x": 40,
+    "top": 109,
+    "width": 331,
+    "height": 25.6,
+    "text": "Trace the discrepancy to source records and assign reconciliation follow-up before drawing a conclusion."
+  },
+  {
+    "page": 2,
+    "x": 413,
+    "top": 109,
+    "width": 339,
+    "height": 25.6,
+    "text": "Pending Not Due bank items are excluded. GL maturity uses an illustrative two-calendar-day buffer."
+  },
+  {
+    "page": 3,
+    "x": 598,
+    "top": 477,
+    "width": 155,
+    "height": 12.5,
+    "text": "Start with an as-of balance"
+  },
+  {
+    "page": 3,
+    "x": 578,
+    "top": 450.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "Open receivables: $407,695.96. Each invoice is reduced only by payment applications dated on or before September 30."
+  },
+  {
+    "page": 3,
+    "x": 598,
+    "top": 367,
+    "width": 155,
+    "height": 12.5,
+    "text": "Rank the aging exposure"
+  },
+  {
+    "page": 3,
+    "x": 578,
+    "top": 340.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "Past due: $242,507.80 (59.5% of open A/R).\nMore than 90 days overdue: $115,248.39. Select a bucket to focus."
+  },
+  {
+    "page": 3,
+    "x": 598,
+    "top": 257,
+    "width": 155,
+    "height": 12.5,
+    "text": "Inspect the payment trail"
+  },
+  {
+    "page": 3,
+    "x": 578,
+    "top": 230.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "Search, sort and open an invoice to see dated applications and partial payments. The remaining balance drives collection priority."
+  },
+  {
+    "page": 3,
+    "x": 40,
+    "top": 109,
+    "width": 331,
+    "height": 25.6,
+    "text": "Use the aging and invoice evidence to decide which account owner or simulated customer needs the next contact."
+  },
+  {
+    "page": 3,
+    "x": 413,
+    "top": 109,
+    "width": 339,
+    "height": 25.6,
+    "text": "Do not add monthly A/R snapshots. A 90+ balance means more than 90 days past due, not a creditworthiness judgment."
+  },
+  {
+    "page": 4,
+    "x": 598,
+    "top": 477,
+    "width": 155,
+    "height": 12.5,
+    "text": "Make assumptions visible"
+  },
+  {
+    "page": 4,
+    "x": 578,
+    "top": 450.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "Example shown: raise the 90+ collection assumption from 20% to 50%. Hold the other assumed rates at 80%, 60% and 40%."
+  },
+  {
+    "page": 4,
+    "x": 598,
+    "top": 367,
+    "width": 155,
+    "height": 12.5,
+    "text": "Compare with a baseline"
+  },
+  {
+    "page": 4,
+    "x": 578,
+    "top": 340.5,
+    "width": 174,
+    "height": 37.5,
+    "text": "Assumed baseline: $115,876.44.\nScenario recovery: $150,450.96.\nSource A/R balances stay unchanged."
+  },
+  {
+    "page": 4,
+    "x": 598,
+    "top": 257,
+    "width": 155,
+    "height": 12.5,
+    "text": "See the incremental effect"
+  },
+  {
+    "page": 4,
+    "x": 578,
+    "top": 230.5,
+    "width": 174,
+    "height": 50.0,
+    "text": "This example adds $34,574.52 in modeled recovery. Bucket balance \u00d7 assumed rate produces each segment's result."
+  },
+  {
+    "page": 4,
+    "x": 40,
+    "top": 109,
+    "width": 331,
+    "height": 25.6,
+    "text": "Compare collection assumptions and use the source-grounded next actions to plan outreach. This is not a verified forecast."
+  },
+  {
+    "page": 4,
+    "x": 413,
+    "top": 109,
+    "width": 339,
+    "height": 25.6,
+    "text": "Human-defined rules; AI-built software. 43 source checks and 38 financial tests passed. Human judgment governs use."
+  }
+]
