@@ -67,3 +67,7 @@ The user had already authorized uploading the application and ZIP to the existin
 ## Browser hosting preparation
 
 After the user reported Windows Security blocking the download and requested a cloud web app, the agent checked the available preview/publishing tools. This session offers no permanent ChatGPT-hosted web URL. The agent prepared a GitHub Pages build in `docs/`, retaining the original source, branding and documentation, and documented the publication steps in `docs/HOSTING.md`. This is a tested static-site preparation, not a claim that a public site has been deployed. Public hosting requires the user's approval separately from the earlier source/ZIP upload permission.
+
+## GitHub Pages selected and nontechnical guide
+
+The user selected GitHub Pages after the separate public-hosting permission question and asked for a nontechnical guide. The agent checked existing authentication names only, reused the injected GitHub CLI binding, and attempted read-only repository/Pages API requests. Both returned `Forbidden`; no credentials were exposed or requested. Native Git reads/pushes remain usable. The agent wrote `docs/GITHUB_PAGES_GUIDE.md` with the direct settings link and exact branch/folder choices, updated the hosting notes, and prepared to upload the website files. Enabling Pages in the user's account and verifying the live address remain distinct from a successful Git upload.

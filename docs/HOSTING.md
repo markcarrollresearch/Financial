@@ -8,11 +8,13 @@ The existing repository can serve this application through GitHub Pages without 
 
 The intended address, once Pages has been enabled and deployment has completed, is `https://markcarrollresearch.github.io/Financial/`. This address is a deployment target, not a claim that the site is live. The site uses relative asset URLs and hash navigation, so the repository subpath and page refreshes work without a custom server.
 
-## Publication prerequisite
+## Publication authorization and account setting
 
-The user previously approved uploading source and ZIPs to GitHub. Public website hosting is a separate action under the original instruction not to publish the application without permission. The prepared site must not be pushed to an active Pages source or enabled for public hosting until that permission is supplied.
+The user selected GitHub Pages after the agent asked permission to publish a public website. The prepared website can therefore be uploaded to the existing delivery branch. Read [the nontechnical Pages guide](GITHUB_PAGES_GUIDE.md) for the exact account setting.
 
-After approval and upload, a repository administrator can enable GitHub Pages in Settings → Pages, choose Deploy from a branch, select `financial-lab-delivery`, choose `/docs`, and save. The native Git proxy has been verified for reads and pushes; this does not prove access to the GitHub administration API. If the available tools cannot enable the Pages setting, that single account setting must be completed by the user. Never ask for a GitHub token in chat.
+The native Git proxy has been verified for reads and pushes. An existing `GH_TOKEN` binding was present, but supported `gh api` requests to the repository and Pages endpoints returned `Forbidden` from this session. No credential values were printed or copied. This does not establish that a new token is needed: the remaining action can be performed in the user's signed-in GitHub settings without sharing credentials.
+
+A repository administrator enables GitHub Pages in Settings → Pages, chooses Deploy from a branch, selects `financial-lab-delivery` and `/docs`, and saves. Until that setting is applied and a public check succeeds, the site must be described as prepared/uploaded, not live.
 
 After GitHub reports deployment complete, verify the actual public URL loads, the unfiltered budget is $9,615,367.31, all four views work, source drawers resolve, and the scenario inputs update results. Do not report the website as live until this is checked. On a tablet, the same HTTPS address can be opened in its normal browser and bookmarked.
 

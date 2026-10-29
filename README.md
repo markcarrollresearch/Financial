@@ -2,7 +2,13 @@
 
 A standalone, local React + TypeScript application for an independent interview demonstration. All financial transactions and customer records are synthetic. **Not produced by, endorsed by, or an official report of Douglas County.** No Power BI files are read or modified. No online API, AI model, Microsoft account, database, or credentials are required at runtime.
 
-## Open the portable application — recommended
+## Use the website — recommended
+
+The browser-hosted version is prepared for GitHub Pages. Follow the [nontechnical setup guide](docs/GITHUB_PAGES_GUIDE.md) to enable the one-time Pages setting in your GitHub account. Select **Deploy from a branch → financial-lab-delivery → /docs → Save**.
+
+After GitHub finishes publishing, the intended address is **https://markcarrollresearch.github.io/Financial/**. Open it on your computer or Samsung tablet; no download, Python, terminal, or software installation is required. Until Pages is enabled and verified, this is the intended address rather than a claim that the site is already live. The hosted version is public and needs internet access.
+
+## Optional portable copy
 
 [Download the portable ZIP](https://github.com/markcarrollresearch/Financial/raw/refs/heads/financial-lab-delivery/downloads/financial-lab-portable.zip).
 
