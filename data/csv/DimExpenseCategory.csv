@@ -1,0 +1,6 @@
+﻿ExpenseCategoryID,ExpenseCategory,Grouping,RecordClass
+E5100,Personnel & Benefits,Personnel,SYNTHETIC category allocation
+E5200,Operating Supplies,Operating,SYNTHETIC category allocation
+E5300,Technology & Systems,Operating,SYNTHETIC category allocation
+E5400,Contracted Services,Operating,SYNTHETIC category allocation
+E5500,Facilities & Equipment,Operating,SYNTHETIC category allocation

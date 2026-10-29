@@ -1,0 +1,8 @@
+﻿ServiceMetricID,ServiceMetric,DivisionID,Unit,MetricFamily,AdditiveAcrossMetrics,DataOrigin
+S01,Motor Vehicle transactions,D03,transactions,Distinct service measure,No,Reference: 2025 reported annual volume; monthly values synthetic
+S02,Kiosk registration renewals,D03,renewals,Distinct service measure,No,Reference: 2025 reported annual volume; monthly values synthetic
+S03,Motor Vehicle customer calls,D03,calls,Distinct service measure,No,Reference: 2025 reported annual volume; monthly values synthetic
+S04,Motor Vehicle live chats,D03,chats,Distinct service measure,No,Reference: 2025 reported annual volume; monthly values synthetic
+S05,Document pages recorded,D02,pages,Distinct service measure,No,Reference: 2025 reported annual volume; monthly values synthetic
+S06,Marriage licenses issued,D02,licenses,Distinct service measure,No,Reference: 2025 reported annual volume; monthly values synthetic
+S07,Passport application appointments,D02,appointments,Distinct service measure,No,Reference: 2025 reported annual volume; monthly values synthetic

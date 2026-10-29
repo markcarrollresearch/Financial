@@ -1,0 +1,1198 @@
+﻿InvoiceID,InvoiceDate,DueDate,DivisionID,CustomerCode,CustomerClass,InvoiceType,InvoiceAmount,SourceSystem,RecordClass
+AR000001,2025-01-06,2025-02-05,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,609.47,SIM-AR,SYNTHETIC - no real customers
+AR000002,2025-01-16,2025-02-15,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,1456.62,SIM-AR,SYNTHETIC - no real customers
+AR000003,2025-01-13,2025-02-12,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,243.94,SIM-AR,SYNTHETIC - no real customers
+AR000004,2025-01-21,2025-02-20,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,1322.17,SIM-AR,SYNTHETIC - no real customers
+AR000005,2025-01-16,2025-02-15,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1288.96,SIM-AR,SYNTHETIC - no real customers
+AR000006,2025-01-20,2025-02-19,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,1516.12,SIM-AR,SYNTHETIC - no real customers
+AR000007,2025-01-31,2025-03-02,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1374.31,SIM-AR,SYNTHETIC - no real customers
+AR000008,2025-01-10,2025-02-09,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,218.95,SIM-AR,SYNTHETIC - no real customers
+AR000009,2025-01-16,2025-02-15,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1243.58,SIM-AR,SYNTHETIC - no real customers
+AR000010,2025-01-17,2025-03-03,D04,SIM-D04-ACCOUNT-029,Intergovernmental Agency,Agency Reimbursement,4077.93,SIM-AR,SYNTHETIC - no real customers
+AR000011,2025-01-23,2025-02-22,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,1421.94,SIM-AR,SYNTHETIC - no real customers
+AR000012,2025-01-22,2025-02-21,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,1566.86,SIM-AR,SYNTHETIC - no real customers
+AR000013,2025-01-22,2025-02-21,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,184.02,SIM-AR,SYNTHETIC - no real customers
+AR000014,2025-01-31,2025-03-02,D01,SIM-D01-ACCOUNT-003,Administrative Partner,Billed Government Service,1435.78,SIM-AR,SYNTHETIC - no real customers
+AR000015,2025-01-03,2025-02-02,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,846.62,SIM-AR,SYNTHETIC - no real customers
+AR000016,2025-01-24,2025-02-23,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,952.44,SIM-AR,SYNTHETIC - no real customers
+AR000017,2025-01-16,2025-03-02,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,10669.30,SIM-AR,SYNTHETIC - no real customers
+AR000018,2025-01-31,2025-03-02,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,1428.81,SIM-AR,SYNTHETIC - no real customers
+AR000019,2025-01-20,2025-02-19,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,1543.46,SIM-AR,SYNTHETIC - no real customers
+AR000020,2025-01-14,2025-02-13,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1055.75,SIM-AR,SYNTHETIC - no real customers
+AR000021,2025-01-15,2025-02-14,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,320.41,SIM-AR,SYNTHETIC - no real customers
+AR000022,2025-01-07,2025-02-06,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,693.28,SIM-AR,SYNTHETIC - no real customers
+AR000023,2025-01-10,2025-02-09,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1103.13,SIM-AR,SYNTHETIC - no real customers
+AR000024,2025-01-21,2025-02-20,D01,SIM-D01-ACCOUNT-005,Administrative Partner,Billed Government Service,1164.60,SIM-AR,SYNTHETIC - no real customers
+AR000025,2025-01-14,2025-02-13,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1556.61,SIM-AR,SYNTHETIC - no real customers
+AR000026,2025-01-30,2025-03-01,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,557.28,SIM-AR,SYNTHETIC - no real customers
+AR000027,2025-01-31,2025-03-02,D01,SIM-D01-ACCOUNT-005,Administrative Partner,Billed Government Service,1366.20,SIM-AR,SYNTHETIC - no real customers
+AR000028,2025-01-07,2025-02-06,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,1574.27,SIM-AR,SYNTHETIC - no real customers
+AR000029,2025-01-14,2025-02-28,D04,SIM-D04-ACCOUNT-010,Intergovernmental Agency,Agency Reimbursement,2042.05,SIM-AR,SYNTHETIC - no real customers
+AR000030,2025-01-06,2025-02-05,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,1565.35,SIM-AR,SYNTHETIC - no real customers
+AR000031,2025-01-20,2025-02-19,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,200.90,SIM-AR,SYNTHETIC - no real customers
+AR000032,2025-01-28,2025-02-27,D03,SIM-D03-ACCOUNT-009,Agency Account,Billed Government Service,870.64,SIM-AR,SYNTHETIC - no real customers
+AR000033,2025-01-31,2025-03-17,D04,SIM-D04-ACCOUNT-013,Intergovernmental Agency,Agency Reimbursement,14381.18,SIM-AR,SYNTHETIC - no real customers
+AR000034,2025-01-17,2025-02-16,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,252.19,SIM-AR,SYNTHETIC - no real customers
+AR000035,2025-01-01,2025-02-15,D04,SIM-D04-ACCOUNT-010,Intergovernmental Agency,Agency Reimbursement,14386.58,SIM-AR,SYNTHETIC - no real customers
+AR000036,2025-01-01,2025-01-31,D03,SIM-D03-ACCOUNT-002,Agency Account,Billed Government Service,1360.84,SIM-AR,SYNTHETIC - no real customers
+AR000037,2025-01-28,2025-02-27,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,463.62,SIM-AR,SYNTHETIC - no real customers
+AR000038,2025-01-16,2025-02-15,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,718.82,SIM-AR,SYNTHETIC - no real customers
+AR000039,2025-01-02,2025-02-01,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,510.12,SIM-AR,SYNTHETIC - no real customers
+AR000040,2025-01-07,2025-02-06,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,889.02,SIM-AR,SYNTHETIC - no real customers
+AR000041,2025-01-02,2025-02-01,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1085.66,SIM-AR,SYNTHETIC - no real customers
+AR000042,2025-01-24,2025-02-23,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,1686.66,SIM-AR,SYNTHETIC - no real customers
+AR000043,2025-01-06,2025-02-05,D01,SIM-D01-ACCOUNT-004,Administrative Partner,Billed Government Service,1029.48,SIM-AR,SYNTHETIC - no real customers
+AR000044,2025-01-06,2025-02-05,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1696.07,SIM-AR,SYNTHETIC - no real customers
+AR000045,2025-01-20,2025-02-19,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,824.62,SIM-AR,SYNTHETIC - no real customers
+AR000046,2025-01-29,2025-02-28,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,1665.34,SIM-AR,SYNTHETIC - no real customers
+AR000047,2025-01-09,2025-02-08,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1592.71,SIM-AR,SYNTHETIC - no real customers
+AR000048,2025-02-17,2025-03-19,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,1438.95,SIM-AR,SYNTHETIC - no real customers
+AR000049,2025-02-18,2025-03-20,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,1503.78,SIM-AR,SYNTHETIC - no real customers
+AR000050,2025-02-27,2025-04-13,D04,SIM-D04-ACCOUNT-004,Intergovernmental Agency,Agency Reimbursement,6364.17,SIM-AR,SYNTHETIC - no real customers
+AR000051,2025-02-06,2025-03-08,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,1591.53,SIM-AR,SYNTHETIC - no real customers
+AR000052,2025-02-27,2025-03-29,D06,SIM-D06-ACCOUNT-019,E-Recording Business Account,Billed Government Service,1514.03,SIM-AR,SYNTHETIC - no real customers
+AR000053,2025-02-26,2025-03-28,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,1150.05,SIM-AR,SYNTHETIC - no real customers
+AR000054,2025-02-21,2025-03-23,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,356.13,SIM-AR,SYNTHETIC - no real customers
+AR000055,2025-02-03,2025-03-05,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,255.66,SIM-AR,SYNTHETIC - no real customers
+AR000056,2025-02-19,2025-03-21,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,121.70,SIM-AR,SYNTHETIC - no real customers
+AR000057,2025-02-19,2025-03-21,D01,SIM-D01-ACCOUNT-026,Administrative Partner,Billed Government Service,236.05,SIM-AR,SYNTHETIC - no real customers
+AR000058,2025-02-13,2025-03-30,D04,SIM-D04-ACCOUNT-014,Intergovernmental Agency,Agency Reimbursement,12836.74,SIM-AR,SYNTHETIC - no real customers
+AR000059,2025-02-06,2025-03-23,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,4173.18,SIM-AR,SYNTHETIC - no real customers
+AR000060,2025-02-12,2025-03-14,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1122.16,SIM-AR,SYNTHETIC - no real customers
+AR000061,2025-02-19,2025-03-21,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,705.67,SIM-AR,SYNTHETIC - no real customers
+AR000062,2025-02-10,2025-03-27,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,9887.65,SIM-AR,SYNTHETIC - no real customers
+AR000063,2025-02-26,2025-03-28,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,512.80,SIM-AR,SYNTHETIC - no real customers
+AR000064,2025-02-21,2025-03-23,D03,SIM-D03-ACCOUNT-004,Agency Account,Billed Government Service,327.42,SIM-AR,SYNTHETIC - no real customers
+AR000065,2025-02-10,2025-03-12,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1100.58,SIM-AR,SYNTHETIC - no real customers
+AR000066,2025-02-14,2025-03-16,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,1119.55,SIM-AR,SYNTHETIC - no real customers
+AR000067,2025-02-07,2025-03-09,D01,SIM-D01-ACCOUNT-027,Administrative Partner,Billed Government Service,1218.42,SIM-AR,SYNTHETIC - no real customers
+AR000068,2025-02-06,2025-03-08,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,733.46,SIM-AR,SYNTHETIC - no real customers
+AR000069,2025-02-13,2025-03-15,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1397.21,SIM-AR,SYNTHETIC - no real customers
+AR000070,2025-02-05,2025-03-07,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,555.87,SIM-AR,SYNTHETIC - no real customers
+AR000071,2025-02-13,2025-03-15,D01,SIM-D01-ACCOUNT-004,Administrative Partner,Billed Government Service,658.54,SIM-AR,SYNTHETIC - no real customers
+AR000072,2025-02-03,2025-03-05,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,1604.65,SIM-AR,SYNTHETIC - no real customers
+AR000073,2025-02-13,2025-03-15,D03,SIM-D03-ACCOUNT-008,Agency Account,Billed Government Service,1189.91,SIM-AR,SYNTHETIC - no real customers
+AR000074,2025-02-06,2025-03-08,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,248.21,SIM-AR,SYNTHETIC - no real customers
+AR000075,2025-02-19,2025-03-21,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,910.14,SIM-AR,SYNTHETIC - no real customers
+AR000076,2025-02-24,2025-03-26,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,1256.19,SIM-AR,SYNTHETIC - no real customers
+AR000077,2025-02-10,2025-03-12,D03,SIM-D03-ACCOUNT-012,Agency Account,Billed Government Service,663.48,SIM-AR,SYNTHETIC - no real customers
+AR000078,2025-02-27,2025-03-29,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,1505.39,SIM-AR,SYNTHETIC - no real customers
+AR000079,2025-02-06,2025-03-08,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,1238.34,SIM-AR,SYNTHETIC - no real customers
+AR000080,2025-02-24,2025-03-26,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,1488.71,SIM-AR,SYNTHETIC - no real customers
+AR000081,2025-02-18,2025-03-20,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,1330.98,SIM-AR,SYNTHETIC - no real customers
+AR000082,2025-02-14,2025-03-16,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,554.38,SIM-AR,SYNTHETIC - no real customers
+AR000083,2025-02-19,2025-03-21,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,433.34,SIM-AR,SYNTHETIC - no real customers
+AR000084,2025-02-05,2025-03-07,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,225.81,SIM-AR,SYNTHETIC - no real customers
+AR000085,2025-02-12,2025-03-14,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,1605.89,SIM-AR,SYNTHETIC - no real customers
+AR000086,2025-02-05,2025-03-07,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,661.04,SIM-AR,SYNTHETIC - no real customers
+AR000087,2025-02-12,2025-03-14,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1416.25,SIM-AR,SYNTHETIC - no real customers
+AR000088,2025-02-13,2025-03-15,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,1536.99,SIM-AR,SYNTHETIC - no real customers
+AR000089,2025-02-06,2025-03-23,D04,SIM-D04-ACCOUNT-025,Intergovernmental Agency,Agency Reimbursement,7157.09,SIM-AR,SYNTHETIC - no real customers
+AR000090,2025-02-03,2025-03-05,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,101.00,SIM-AR,SYNTHETIC - no real customers
+AR000091,2025-02-20,2025-03-22,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1202.54,SIM-AR,SYNTHETIC - no real customers
+AR000092,2025-02-06,2025-03-23,D04,SIM-D04-ACCOUNT-020,Intergovernmental Agency,Agency Reimbursement,7425.12,SIM-AR,SYNTHETIC - no real customers
+AR000093,2025-02-24,2025-03-26,D01,SIM-D01-ACCOUNT-023,Administrative Partner,Billed Government Service,1677.25,SIM-AR,SYNTHETIC - no real customers
+AR000094,2025-02-27,2025-04-13,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,1356.32,SIM-AR,SYNTHETIC - no real customers
+AR000095,2025-03-25,2025-04-24,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,1460.26,SIM-AR,SYNTHETIC - no real customers
+AR000096,2025-03-05,2025-04-04,D01,SIM-D01-ACCOUNT-012,Administrative Partner,Billed Government Service,519.07,SIM-AR,SYNTHETIC - no real customers
+AR000097,2025-03-19,2025-04-18,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,148.76,SIM-AR,SYNTHETIC - no real customers
+AR000098,2025-03-03,2025-04-02,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,1588.08,SIM-AR,SYNTHETIC - no real customers
+AR000099,2025-03-06,2025-04-05,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,1406.20,SIM-AR,SYNTHETIC - no real customers
+AR000100,2025-03-31,2025-04-30,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,179.41,SIM-AR,SYNTHETIC - no real customers
+AR000101,2025-03-11,2025-04-10,D01,SIM-D01-ACCOUNT-015,Administrative Partner,Billed Government Service,593.37,SIM-AR,SYNTHETIC - no real customers
+AR000102,2025-03-31,2025-05-15,D04,SIM-D04-ACCOUNT-028,Intergovernmental Agency,Agency Reimbursement,4770.73,SIM-AR,SYNTHETIC - no real customers
+AR000103,2025-03-12,2025-04-11,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,543.04,SIM-AR,SYNTHETIC - no real customers
+AR000104,2025-03-28,2025-05-12,D04,SIM-D04-ACCOUNT-010,Intergovernmental Agency,Agency Reimbursement,14183.47,SIM-AR,SYNTHETIC - no real customers
+AR000105,2025-03-21,2025-04-20,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,515.60,SIM-AR,SYNTHETIC - no real customers
+AR000106,2025-03-13,2025-04-12,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,832.72,SIM-AR,SYNTHETIC - no real customers
+AR000107,2025-03-28,2025-04-27,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,750.41,SIM-AR,SYNTHETIC - no real customers
+AR000108,2025-03-05,2025-04-04,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,642.99,SIM-AR,SYNTHETIC - no real customers
+AR000109,2025-03-07,2025-04-06,D03,SIM-D03-ACCOUNT-030,Agency Account,Billed Government Service,933.89,SIM-AR,SYNTHETIC - no real customers
+AR000110,2025-03-19,2025-04-18,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,947.80,SIM-AR,SYNTHETIC - no real customers
+AR000111,2025-03-21,2025-04-20,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,226.78,SIM-AR,SYNTHETIC - no real customers
+AR000112,2025-03-07,2025-04-06,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,687.15,SIM-AR,SYNTHETIC - no real customers
+AR000113,2025-03-24,2025-04-23,D01,SIM-D01-ACCOUNT-019,Administrative Partner,Billed Government Service,954.96,SIM-AR,SYNTHETIC - no real customers
+AR000114,2025-03-18,2025-04-17,D01,SIM-D01-ACCOUNT-023,Administrative Partner,Billed Government Service,775.98,SIM-AR,SYNTHETIC - no real customers
+AR000115,2025-03-14,2025-04-13,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,327.64,SIM-AR,SYNTHETIC - no real customers
+AR000116,2025-03-20,2025-05-04,D04,SIM-D04-ACCOUNT-023,Intergovernmental Agency,Agency Reimbursement,12851.17,SIM-AR,SYNTHETIC - no real customers
+AR000117,2025-03-14,2025-04-13,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,354.49,SIM-AR,SYNTHETIC - no real customers
+AR000118,2025-03-03,2025-04-02,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,967.93,SIM-AR,SYNTHETIC - no real customers
+AR000119,2025-03-27,2025-04-26,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,1510.43,SIM-AR,SYNTHETIC - no real customers
+AR000120,2025-03-19,2025-04-18,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,1408.52,SIM-AR,SYNTHETIC - no real customers
+AR000121,2025-03-28,2025-04-27,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,1528.26,SIM-AR,SYNTHETIC - no real customers
+AR000122,2025-03-11,2025-04-25,D04,SIM-D04-ACCOUNT-006,Intergovernmental Agency,Agency Reimbursement,12282.38,SIM-AR,SYNTHETIC - no real customers
+AR000123,2025-03-10,2025-04-09,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,470.08,SIM-AR,SYNTHETIC - no real customers
+AR000124,2025-03-31,2025-04-30,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,272.85,SIM-AR,SYNTHETIC - no real customers
+AR000125,2025-03-27,2025-04-26,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,958.97,SIM-AR,SYNTHETIC - no real customers
+AR000126,2025-03-25,2025-04-24,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,945.83,SIM-AR,SYNTHETIC - no real customers
+AR000127,2025-03-04,2025-04-03,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,497.36,SIM-AR,SYNTHETIC - no real customers
+AR000128,2025-03-25,2025-04-24,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,716.95,SIM-AR,SYNTHETIC - no real customers
+AR000129,2025-03-21,2025-04-20,D03,SIM-D03-ACCOUNT-008,Agency Account,Billed Government Service,1015.92,SIM-AR,SYNTHETIC - no real customers
+AR000130,2025-03-28,2025-04-27,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,334.59,SIM-AR,SYNTHETIC - no real customers
+AR000131,2025-03-18,2025-04-17,D01,SIM-D01-ACCOUNT-022,Administrative Partner,Billed Government Service,164.74,SIM-AR,SYNTHETIC - no real customers
+AR000132,2025-03-05,2025-04-19,D04,SIM-D04-ACCOUNT-011,Intergovernmental Agency,Agency Reimbursement,4954.36,SIM-AR,SYNTHETIC - no real customers
+AR000133,2025-03-17,2025-04-16,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1265.62,SIM-AR,SYNTHETIC - no real customers
+AR000134,2025-03-18,2025-04-17,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1251.87,SIM-AR,SYNTHETIC - no real customers
+AR000135,2025-03-10,2025-04-09,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,265.62,SIM-AR,SYNTHETIC - no real customers
+AR000136,2025-03-28,2025-05-12,D04,SIM-D04-ACCOUNT-020,Intergovernmental Agency,Agency Reimbursement,9344.02,SIM-AR,SYNTHETIC - no real customers
+AR000137,2025-03-27,2025-04-26,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,1277.17,SIM-AR,SYNTHETIC - no real customers
+AR000138,2025-03-31,2025-04-30,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,1212.52,SIM-AR,SYNTHETIC - no real customers
+AR000139,2025-03-25,2025-04-24,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,130.17,SIM-AR,SYNTHETIC - no real customers
+AR000140,2025-03-25,2025-04-24,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,578.56,SIM-AR,SYNTHETIC - no real customers
+AR000141,2025-03-07,2025-04-06,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,705.64,SIM-AR,SYNTHETIC - no real customers
+AR000142,2025-04-21,2025-05-21,D03,SIM-D03-ACCOUNT-019,Agency Account,Billed Government Service,1256.73,SIM-AR,SYNTHETIC - no real customers
+AR000143,2025-04-08,2025-05-08,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,1133.90,SIM-AR,SYNTHETIC - no real customers
+AR000144,2025-04-15,2025-05-15,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,1545.08,SIM-AR,SYNTHETIC - no real customers
+AR000145,2025-04-24,2025-05-24,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,747.57,SIM-AR,SYNTHETIC - no real customers
+AR000146,2025-04-18,2025-05-18,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,1314.91,SIM-AR,SYNTHETIC - no real customers
+AR000147,2025-04-08,2025-05-08,D03,SIM-D03-ACCOUNT-018,Agency Account,Billed Government Service,848.32,SIM-AR,SYNTHETIC - no real customers
+AR000148,2025-04-03,2025-05-03,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1431.63,SIM-AR,SYNTHETIC - no real customers
+AR000149,2025-04-08,2025-05-08,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,1533.94,SIM-AR,SYNTHETIC - no real customers
+AR000150,2025-04-08,2025-05-08,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,421.48,SIM-AR,SYNTHETIC - no real customers
+AR000151,2025-04-08,2025-05-08,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,957.79,SIM-AR,SYNTHETIC - no real customers
+AR000152,2025-04-17,2025-05-17,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,839.99,SIM-AR,SYNTHETIC - no real customers
+AR000153,2025-04-24,2025-06-08,D04,SIM-D04-ACCOUNT-021,Intergovernmental Agency,Agency Reimbursement,10293.14,SIM-AR,SYNTHETIC - no real customers
+AR000154,2025-04-07,2025-05-22,D04,SIM-D04-ACCOUNT-008,Intergovernmental Agency,Agency Reimbursement,14202.68,SIM-AR,SYNTHETIC - no real customers
+AR000155,2025-04-15,2025-05-15,D01,SIM-D01-ACCOUNT-005,Administrative Partner,Billed Government Service,1285.31,SIM-AR,SYNTHETIC - no real customers
+AR000156,2025-04-04,2025-05-19,D04,SIM-D04-ACCOUNT-009,Intergovernmental Agency,Agency Reimbursement,5836.33,SIM-AR,SYNTHETIC - no real customers
+AR000157,2025-04-29,2025-05-29,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,1151.98,SIM-AR,SYNTHETIC - no real customers
+AR000158,2025-04-14,2025-05-14,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,523.66,SIM-AR,SYNTHETIC - no real customers
+AR000159,2025-04-14,2025-05-14,D03,SIM-D03-ACCOUNT-024,Agency Account,Billed Government Service,1249.50,SIM-AR,SYNTHETIC - no real customers
+AR000160,2025-04-30,2025-05-30,D01,SIM-D01-ACCOUNT-021,Administrative Partner,Billed Government Service,1187.78,SIM-AR,SYNTHETIC - no real customers
+AR000161,2025-04-28,2025-05-28,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,1513.11,SIM-AR,SYNTHETIC - no real customers
+AR000162,2025-04-21,2025-05-21,D06,SIM-D06-ACCOUNT-019,E-Recording Business Account,Billed Government Service,983.74,SIM-AR,SYNTHETIC - no real customers
+AR000163,2025-04-14,2025-05-14,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1640.75,SIM-AR,SYNTHETIC - no real customers
+AR000164,2025-04-11,2025-05-11,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,1088.82,SIM-AR,SYNTHETIC - no real customers
+AR000165,2025-04-10,2025-05-10,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,339.67,SIM-AR,SYNTHETIC - no real customers
+AR000166,2025-04-23,2025-05-23,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1368.76,SIM-AR,SYNTHETIC - no real customers
+AR000167,2025-04-30,2025-06-14,D04,SIM-D04-ACCOUNT-006,Intergovernmental Agency,Agency Reimbursement,3162.17,SIM-AR,SYNTHETIC - no real customers
+AR000168,2025-04-14,2025-05-14,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1159.05,SIM-AR,SYNTHETIC - no real customers
+AR000169,2025-04-30,2025-05-30,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,1120.64,SIM-AR,SYNTHETIC - no real customers
+AR000170,2025-04-14,2025-05-14,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,1282.79,SIM-AR,SYNTHETIC - no real customers
+AR000171,2025-04-11,2025-05-11,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,1594.43,SIM-AR,SYNTHETIC - no real customers
+AR000172,2025-04-07,2025-05-22,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,8987.86,SIM-AR,SYNTHETIC - no real customers
+AR000173,2025-04-22,2025-05-22,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1698.07,SIM-AR,SYNTHETIC - no real customers
+AR000174,2025-04-25,2025-06-09,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,10715.76,SIM-AR,SYNTHETIC - no real customers
+AR000175,2025-04-21,2025-05-21,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,718.22,SIM-AR,SYNTHETIC - no real customers
+AR000176,2025-04-11,2025-05-11,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1164.27,SIM-AR,SYNTHETIC - no real customers
+AR000177,2025-04-22,2025-05-22,D01,SIM-D01-ACCOUNT-008,Administrative Partner,Billed Government Service,1118.28,SIM-AR,SYNTHETIC - no real customers
+AR000178,2025-04-14,2025-05-14,D03,SIM-D03-ACCOUNT-001,Agency Account,Billed Government Service,750.44,SIM-AR,SYNTHETIC - no real customers
+AR000179,2025-04-08,2025-05-08,D01,SIM-D01-ACCOUNT-010,Administrative Partner,Billed Government Service,1138.34,SIM-AR,SYNTHETIC - no real customers
+AR000180,2025-04-24,2025-05-24,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,1194.02,SIM-AR,SYNTHETIC - no real customers
+AR000181,2025-04-18,2025-05-18,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,1024.21,SIM-AR,SYNTHETIC - no real customers
+AR000182,2025-04-23,2025-05-23,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1115.01,SIM-AR,SYNTHETIC - no real customers
+AR000183,2025-04-11,2025-05-11,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,218.79,SIM-AR,SYNTHETIC - no real customers
+AR000184,2025-04-16,2025-05-16,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,1675.18,SIM-AR,SYNTHETIC - no real customers
+AR000185,2025-04-09,2025-05-09,D03,SIM-D03-ACCOUNT-014,Agency Account,Billed Government Service,371.61,SIM-AR,SYNTHETIC - no real customers
+AR000186,2025-04-17,2025-05-17,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,1538.01,SIM-AR,SYNTHETIC - no real customers
+AR000187,2025-04-02,2025-05-02,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,1621.36,SIM-AR,SYNTHETIC - no real customers
+AR000188,2025-04-09,2025-05-09,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,417.95,SIM-AR,SYNTHETIC - no real customers
+AR000189,2025-05-07,2025-06-06,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,1490.09,SIM-AR,SYNTHETIC - no real customers
+AR000190,2025-05-29,2025-06-28,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,579.91,SIM-AR,SYNTHETIC - no real customers
+AR000191,2025-05-20,2025-06-19,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,1062.29,SIM-AR,SYNTHETIC - no real customers
+AR000192,2025-05-07,2025-06-21,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,10651.62,SIM-AR,SYNTHETIC - no real customers
+AR000193,2025-05-14,2025-06-28,D04,SIM-D04-ACCOUNT-003,Intergovernmental Agency,Agency Reimbursement,4535.00,SIM-AR,SYNTHETIC - no real customers
+AR000194,2025-05-30,2025-06-29,D06,SIM-D06-ACCOUNT-026,E-Recording Business Account,Billed Government Service,1287.90,SIM-AR,SYNTHETIC - no real customers
+AR000195,2025-05-06,2025-06-05,D03,SIM-D03-ACCOUNT-019,Agency Account,Billed Government Service,1499.12,SIM-AR,SYNTHETIC - no real customers
+AR000196,2025-05-15,2025-06-14,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,447.78,SIM-AR,SYNTHETIC - no real customers
+AR000197,2025-05-26,2025-06-25,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1245.34,SIM-AR,SYNTHETIC - no real customers
+AR000198,2025-05-09,2025-06-08,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,280.32,SIM-AR,SYNTHETIC - no real customers
+AR000199,2025-05-13,2025-06-12,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,931.44,SIM-AR,SYNTHETIC - no real customers
+AR000200,2025-05-13,2025-06-12,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,717.91,SIM-AR,SYNTHETIC - no real customers
+AR000201,2025-05-20,2025-06-19,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,1301.44,SIM-AR,SYNTHETIC - no real customers
+AR000202,2025-05-30,2025-06-29,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,731.99,SIM-AR,SYNTHETIC - no real customers
+AR000203,2025-05-12,2025-06-11,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,382.87,SIM-AR,SYNTHETIC - no real customers
+AR000204,2025-05-09,2025-06-08,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,498.20,SIM-AR,SYNTHETIC - no real customers
+AR000205,2025-05-14,2025-06-28,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,7629.03,SIM-AR,SYNTHETIC - no real customers
+AR000206,2025-05-12,2025-06-11,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,1440.81,SIM-AR,SYNTHETIC - no real customers
+AR000207,2025-05-08,2025-06-22,D04,SIM-D04-ACCOUNT-011,Intergovernmental Agency,Agency Reimbursement,11735.40,SIM-AR,SYNTHETIC - no real customers
+AR000208,2025-05-08,2025-06-07,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,868.06,SIM-AR,SYNTHETIC - no real customers
+AR000209,2025-05-28,2025-06-27,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,420.70,SIM-AR,SYNTHETIC - no real customers
+AR000210,2025-05-27,2025-07-11,D04,SIM-D04-ACCOUNT-006,Intergovernmental Agency,Agency Reimbursement,12664.94,SIM-AR,SYNTHETIC - no real customers
+AR000211,2025-05-27,2025-06-26,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1046.68,SIM-AR,SYNTHETIC - no real customers
+AR000212,2025-05-02,2025-06-16,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,8594.03,SIM-AR,SYNTHETIC - no real customers
+AR000213,2025-05-14,2025-06-28,D04,SIM-D04-ACCOUNT-020,Intergovernmental Agency,Agency Reimbursement,5050.75,SIM-AR,SYNTHETIC - no real customers
+AR000214,2025-05-15,2025-06-14,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,1363.28,SIM-AR,SYNTHETIC - no real customers
+AR000215,2025-05-06,2025-06-20,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,11312.18,SIM-AR,SYNTHETIC - no real customers
+AR000216,2025-05-22,2025-06-21,D06,SIM-D06-ACCOUNT-019,E-Recording Business Account,Billed Government Service,1035.30,SIM-AR,SYNTHETIC - no real customers
+AR000217,2025-05-14,2025-06-13,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,1567.19,SIM-AR,SYNTHETIC - no real customers
+AR000218,2025-05-02,2025-06-01,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,237.85,SIM-AR,SYNTHETIC - no real customers
+AR000219,2025-05-09,2025-06-08,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,681.71,SIM-AR,SYNTHETIC - no real customers
+AR000220,2025-05-29,2025-06-28,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,1657.51,SIM-AR,SYNTHETIC - no real customers
+AR000221,2025-05-23,2025-06-22,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,165.54,SIM-AR,SYNTHETIC - no real customers
+AR000222,2025-05-13,2025-06-12,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1368.04,SIM-AR,SYNTHETIC - no real customers
+AR000223,2025-05-14,2025-06-13,D03,SIM-D03-ACCOUNT-029,Agency Account,Billed Government Service,1114.05,SIM-AR,SYNTHETIC - no real customers
+AR000224,2025-05-01,2025-05-31,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,316.06,SIM-AR,SYNTHETIC - no real customers
+AR000225,2025-05-30,2025-06-29,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,589.37,SIM-AR,SYNTHETIC - no real customers
+AR000226,2025-05-07,2025-06-06,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,555.08,SIM-AR,SYNTHETIC - no real customers
+AR000227,2025-05-21,2025-06-20,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,569.47,SIM-AR,SYNTHETIC - no real customers
+AR000228,2025-05-20,2025-06-19,D01,SIM-D01-ACCOUNT-019,Administrative Partner,Billed Government Service,669.55,SIM-AR,SYNTHETIC - no real customers
+AR000229,2025-05-08,2025-06-07,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,81.83,SIM-AR,SYNTHETIC - no real customers
+AR000230,2025-05-26,2025-06-25,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,292.71,SIM-AR,SYNTHETIC - no real customers
+AR000231,2025-05-01,2025-05-31,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,138.20,SIM-AR,SYNTHETIC - no real customers
+AR000232,2025-05-06,2025-06-05,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,388.27,SIM-AR,SYNTHETIC - no real customers
+AR000233,2025-05-15,2025-06-14,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,1153.15,SIM-AR,SYNTHETIC - no real customers
+AR000234,2025-05-15,2025-06-14,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,620.47,SIM-AR,SYNTHETIC - no real customers
+AR000235,2025-05-12,2025-06-26,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,13356.12,SIM-AR,SYNTHETIC - no real customers
+AR000236,2025-06-12,2025-07-12,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,1273.95,SIM-AR,SYNTHETIC - no real customers
+AR000237,2025-06-16,2025-07-16,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,1531.15,SIM-AR,SYNTHETIC - no real customers
+AR000238,2025-06-23,2025-08-07,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,4060.13,SIM-AR,SYNTHETIC - no real customers
+AR000239,2025-06-20,2025-07-20,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,776.80,SIM-AR,SYNTHETIC - no real customers
+AR000240,2025-06-20,2025-07-20,D01,SIM-D01-ACCOUNT-008,Administrative Partner,Billed Government Service,608.57,SIM-AR,SYNTHETIC - no real customers
+AR000241,2025-06-04,2025-07-04,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,780.10,SIM-AR,SYNTHETIC - no real customers
+AR000242,2025-06-20,2025-08-04,D04,SIM-D04-ACCOUNT-023,Intergovernmental Agency,Agency Reimbursement,2113.55,SIM-AR,SYNTHETIC - no real customers
+AR000243,2025-06-13,2025-07-13,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,831.05,SIM-AR,SYNTHETIC - no real customers
+AR000244,2025-06-10,2025-07-10,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,1206.82,SIM-AR,SYNTHETIC - no real customers
+AR000245,2025-06-18,2025-07-18,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,516.43,SIM-AR,SYNTHETIC - no real customers
+AR000246,2025-06-05,2025-07-05,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,1273.78,SIM-AR,SYNTHETIC - no real customers
+AR000247,2025-06-02,2025-07-02,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,758.91,SIM-AR,SYNTHETIC - no real customers
+AR000248,2025-06-18,2025-07-18,D03,SIM-D03-ACCOUNT-005,Agency Account,Billed Government Service,736.39,SIM-AR,SYNTHETIC - no real customers
+AR000249,2025-06-17,2025-07-17,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,153.54,SIM-AR,SYNTHETIC - no real customers
+AR000250,2025-06-26,2025-07-26,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,681.48,SIM-AR,SYNTHETIC - no real customers
+AR000251,2025-06-11,2025-07-11,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,628.31,SIM-AR,SYNTHETIC - no real customers
+AR000252,2025-06-03,2025-07-18,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,8320.34,SIM-AR,SYNTHETIC - no real customers
+AR000253,2025-06-02,2025-07-02,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,646.97,SIM-AR,SYNTHETIC - no real customers
+AR000254,2025-06-06,2025-07-06,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,1609.67,SIM-AR,SYNTHETIC - no real customers
+AR000255,2025-06-10,2025-07-10,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,773.87,SIM-AR,SYNTHETIC - no real customers
+AR000256,2025-06-18,2025-07-18,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,824.54,SIM-AR,SYNTHETIC - no real customers
+AR000257,2025-06-10,2025-07-10,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1267.40,SIM-AR,SYNTHETIC - no real customers
+AR000258,2025-06-23,2025-08-07,D04,SIM-D04-ACCOUNT-020,Intergovernmental Agency,Agency Reimbursement,2841.97,SIM-AR,SYNTHETIC - no real customers
+AR000259,2025-06-26,2025-07-26,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1081.97,SIM-AR,SYNTHETIC - no real customers
+AR000260,2025-06-04,2025-07-04,D03,SIM-D03-ACCOUNT-009,Agency Account,Billed Government Service,1682.46,SIM-AR,SYNTHETIC - no real customers
+AR000261,2025-06-23,2025-07-23,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1279.41,SIM-AR,SYNTHETIC - no real customers
+AR000262,2025-06-09,2025-07-09,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,1540.97,SIM-AR,SYNTHETIC - no real customers
+AR000263,2025-06-19,2025-07-19,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,1473.47,SIM-AR,SYNTHETIC - no real customers
+AR000264,2025-06-11,2025-07-11,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,518.50,SIM-AR,SYNTHETIC - no real customers
+AR000265,2025-06-06,2025-07-06,D01,SIM-D01-ACCOUNT-027,Administrative Partner,Billed Government Service,327.99,SIM-AR,SYNTHETIC - no real customers
+AR000266,2025-06-23,2025-07-23,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,738.04,SIM-AR,SYNTHETIC - no real customers
+AR000267,2025-06-12,2025-07-27,D04,SIM-D04-ACCOUNT-019,Intergovernmental Agency,Agency Reimbursement,8738.93,SIM-AR,SYNTHETIC - no real customers
+AR000268,2025-06-03,2025-07-03,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,1269.89,SIM-AR,SYNTHETIC - no real customers
+AR000269,2025-06-02,2025-07-02,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,1302.88,SIM-AR,SYNTHETIC - no real customers
+AR000270,2025-06-20,2025-08-04,D04,SIM-D04-ACCOUNT-007,Intergovernmental Agency,Agency Reimbursement,1863.43,SIM-AR,SYNTHETIC - no real customers
+AR000271,2025-06-02,2025-07-17,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,11884.96,SIM-AR,SYNTHETIC - no real customers
+AR000272,2025-06-20,2025-07-20,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,299.53,SIM-AR,SYNTHETIC - no real customers
+AR000273,2025-06-11,2025-07-11,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,367.70,SIM-AR,SYNTHETIC - no real customers
+AR000274,2025-06-03,2025-07-03,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,644.93,SIM-AR,SYNTHETIC - no real customers
+AR000275,2025-06-23,2025-07-23,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,125.85,SIM-AR,SYNTHETIC - no real customers
+AR000276,2025-06-19,2025-07-19,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,1327.27,SIM-AR,SYNTHETIC - no real customers
+AR000277,2025-06-24,2025-07-24,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,1335.10,SIM-AR,SYNTHETIC - no real customers
+AR000278,2025-06-12,2025-07-12,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,531.89,SIM-AR,SYNTHETIC - no real customers
+AR000279,2025-06-24,2025-07-24,D01,SIM-D01-ACCOUNT-011,Administrative Partner,Billed Government Service,1556.32,SIM-AR,SYNTHETIC - no real customers
+AR000280,2025-06-17,2025-07-17,D03,SIM-D03-ACCOUNT-028,Agency Account,Billed Government Service,1515.47,SIM-AR,SYNTHETIC - no real customers
+AR000281,2025-06-17,2025-07-17,D03,SIM-D03-ACCOUNT-004,Agency Account,Billed Government Service,288.46,SIM-AR,SYNTHETIC - no real customers
+AR000282,2025-06-03,2025-07-03,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1106.81,SIM-AR,SYNTHETIC - no real customers
+AR000283,2025-07-30,2025-08-29,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,695.02,SIM-AR,SYNTHETIC - no real customers
+AR000284,2025-07-30,2025-08-29,D01,SIM-D01-ACCOUNT-015,Administrative Partner,Billed Government Service,1439.95,SIM-AR,SYNTHETIC - no real customers
+AR000285,2025-07-22,2025-08-21,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,1366.30,SIM-AR,SYNTHETIC - no real customers
+AR000286,2025-07-08,2025-08-07,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,937.42,SIM-AR,SYNTHETIC - no real customers
+AR000287,2025-07-02,2025-08-16,D04,SIM-D04-ACCOUNT-011,Intergovernmental Agency,Agency Reimbursement,5057.56,SIM-AR,SYNTHETIC - no real customers
+AR000288,2025-07-14,2025-08-28,D04,SIM-D04-ACCOUNT-010,Intergovernmental Agency,Agency Reimbursement,5680.02,SIM-AR,SYNTHETIC - no real customers
+AR000289,2025-07-28,2025-08-27,D01,SIM-D01-ACCOUNT-012,Administrative Partner,Billed Government Service,808.01,SIM-AR,SYNTHETIC - no real customers
+AR000290,2025-07-01,2025-07-31,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,723.82,SIM-AR,SYNTHETIC - no real customers
+AR000291,2025-07-30,2025-08-29,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1521.16,SIM-AR,SYNTHETIC - no real customers
+AR000292,2025-07-29,2025-08-28,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,988.91,SIM-AR,SYNTHETIC - no real customers
+AR000293,2025-07-14,2025-08-13,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,963.69,SIM-AR,SYNTHETIC - no real customers
+AR000294,2025-07-23,2025-08-22,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,1697.85,SIM-AR,SYNTHETIC - no real customers
+AR000295,2025-07-31,2025-08-30,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,263.65,SIM-AR,SYNTHETIC - no real customers
+AR000296,2025-07-29,2025-08-28,D02,SIM-D02-ACCOUNT-021,Recording Business Account,Billed Government Service,1460.22,SIM-AR,SYNTHETIC - no real customers
+AR000297,2025-07-01,2025-07-31,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,404.80,SIM-AR,SYNTHETIC - no real customers
+AR000298,2025-07-31,2025-08-30,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1491.87,SIM-AR,SYNTHETIC - no real customers
+AR000299,2025-07-31,2025-08-30,D01,SIM-D01-ACCOUNT-010,Administrative Partner,Billed Government Service,1429.82,SIM-AR,SYNTHETIC - no real customers
+AR000300,2025-07-10,2025-08-09,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,913.47,SIM-AR,SYNTHETIC - no real customers
+AR000301,2025-07-04,2025-08-03,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,528.70,SIM-AR,SYNTHETIC - no real customers
+AR000302,2025-07-29,2025-08-28,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,973.33,SIM-AR,SYNTHETIC - no real customers
+AR000303,2025-07-28,2025-08-27,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,757.10,SIM-AR,SYNTHETIC - no real customers
+AR000304,2025-07-04,2025-08-03,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,519.13,SIM-AR,SYNTHETIC - no real customers
+AR000305,2025-07-31,2025-08-30,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,725.40,SIM-AR,SYNTHETIC - no real customers
+AR000306,2025-07-02,2025-08-01,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1577.81,SIM-AR,SYNTHETIC - no real customers
+AR000307,2025-07-24,2025-08-23,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,818.83,SIM-AR,SYNTHETIC - no real customers
+AR000308,2025-07-18,2025-08-17,D01,SIM-D01-ACCOUNT-023,Administrative Partner,Billed Government Service,1092.05,SIM-AR,SYNTHETIC - no real customers
+AR000309,2025-07-14,2025-08-28,D04,SIM-D04-ACCOUNT-001,Intergovernmental Agency,Agency Reimbursement,12448.03,SIM-AR,SYNTHETIC - no real customers
+AR000310,2025-07-28,2025-08-27,D01,SIM-D01-ACCOUNT-026,Administrative Partner,Billed Government Service,849.52,SIM-AR,SYNTHETIC - no real customers
+AR000311,2025-07-08,2025-08-07,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,1600.53,SIM-AR,SYNTHETIC - no real customers
+AR000312,2025-07-04,2025-08-03,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,407.37,SIM-AR,SYNTHETIC - no real customers
+AR000313,2025-07-03,2025-08-02,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,1475.91,SIM-AR,SYNTHETIC - no real customers
+AR000314,2025-07-10,2025-08-09,D01,SIM-D01-ACCOUNT-011,Administrative Partner,Billed Government Service,354.47,SIM-AR,SYNTHETIC - no real customers
+AR000315,2025-07-14,2025-08-13,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1181.51,SIM-AR,SYNTHETIC - no real customers
+AR000316,2025-07-18,2025-08-17,D01,SIM-D01-ACCOUNT-023,Administrative Partner,Billed Government Service,1116.43,SIM-AR,SYNTHETIC - no real customers
+AR000317,2025-07-03,2025-08-02,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1085.68,SIM-AR,SYNTHETIC - no real customers
+AR000318,2025-07-01,2025-07-31,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1452.65,SIM-AR,SYNTHETIC - no real customers
+AR000319,2025-07-25,2025-08-24,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,596.17,SIM-AR,SYNTHETIC - no real customers
+AR000320,2025-07-23,2025-08-22,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,1092.76,SIM-AR,SYNTHETIC - no real customers
+AR000321,2025-07-17,2025-08-16,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,1595.12,SIM-AR,SYNTHETIC - no real customers
+AR000322,2025-07-25,2025-08-24,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1609.44,SIM-AR,SYNTHETIC - no real customers
+AR000323,2025-07-23,2025-08-22,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,475.24,SIM-AR,SYNTHETIC - no real customers
+AR000324,2025-07-02,2025-08-01,D01,SIM-D01-ACCOUNT-018,Administrative Partner,Billed Government Service,140.88,SIM-AR,SYNTHETIC - no real customers
+AR000325,2025-07-31,2025-08-30,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,973.08,SIM-AR,SYNTHETIC - no real customers
+AR000326,2025-07-31,2025-08-30,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,1097.33,SIM-AR,SYNTHETIC - no real customers
+AR000327,2025-07-07,2025-08-06,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,640.78,SIM-AR,SYNTHETIC - no real customers
+AR000328,2025-07-11,2025-08-10,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,305.47,SIM-AR,SYNTHETIC - no real customers
+AR000329,2025-07-28,2025-08-27,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,637.67,SIM-AR,SYNTHETIC - no real customers
+AR000330,2025-08-06,2025-09-20,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,2694.31,SIM-AR,SYNTHETIC - no real customers
+AR000331,2025-08-29,2025-09-28,D03,SIM-D03-ACCOUNT-015,Agency Account,Billed Government Service,807.92,SIM-AR,SYNTHETIC - no real customers
+AR000332,2025-08-06,2025-09-05,D01,SIM-D01-ACCOUNT-012,Administrative Partner,Billed Government Service,1252.64,SIM-AR,SYNTHETIC - no real customers
+AR000333,2025-08-20,2025-09-19,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,261.66,SIM-AR,SYNTHETIC - no real customers
+AR000334,2025-08-01,2025-08-31,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,1482.80,SIM-AR,SYNTHETIC - no real customers
+AR000335,2025-08-28,2025-09-27,D01,SIM-D01-ACCOUNT-018,Administrative Partner,Billed Government Service,1377.75,SIM-AR,SYNTHETIC - no real customers
+AR000336,2025-08-05,2025-09-04,D01,SIM-D01-ACCOUNT-003,Administrative Partner,Billed Government Service,1349.89,SIM-AR,SYNTHETIC - no real customers
+AR000337,2025-08-25,2025-09-24,D01,SIM-D01-ACCOUNT-016,Administrative Partner,Billed Government Service,766.87,SIM-AR,SYNTHETIC - no real customers
+AR000338,2025-08-18,2025-09-17,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,496.88,SIM-AR,SYNTHETIC - no real customers
+AR000339,2025-08-05,2025-09-04,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,322.38,SIM-AR,SYNTHETIC - no real customers
+AR000340,2025-08-12,2025-09-11,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1485.53,SIM-AR,SYNTHETIC - no real customers
+AR000341,2025-08-01,2025-08-31,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,365.25,SIM-AR,SYNTHETIC - no real customers
+AR000342,2025-08-15,2025-09-14,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,1288.86,SIM-AR,SYNTHETIC - no real customers
+AR000343,2025-08-22,2025-09-21,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,368.11,SIM-AR,SYNTHETIC - no real customers
+AR000344,2025-08-25,2025-09-24,D01,SIM-D01-ACCOUNT-026,Administrative Partner,Billed Government Service,763.84,SIM-AR,SYNTHETIC - no real customers
+AR000345,2025-08-28,2025-09-27,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,1110.64,SIM-AR,SYNTHETIC - no real customers
+AR000346,2025-08-06,2025-09-05,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,729.36,SIM-AR,SYNTHETIC - no real customers
+AR000347,2025-08-13,2025-09-12,D01,SIM-D01-ACCOUNT-019,Administrative Partner,Billed Government Service,813.26,SIM-AR,SYNTHETIC - no real customers
+AR000348,2025-08-28,2025-09-27,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,1332.00,SIM-AR,SYNTHETIC - no real customers
+AR000349,2025-08-07,2025-09-21,D04,SIM-D04-ACCOUNT-016,Intergovernmental Agency,Agency Reimbursement,11194.25,SIM-AR,SYNTHETIC - no real customers
+AR000350,2025-08-01,2025-08-31,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,1225.10,SIM-AR,SYNTHETIC - no real customers
+AR000351,2025-08-19,2025-09-18,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,1612.50,SIM-AR,SYNTHETIC - no real customers
+AR000352,2025-08-29,2025-09-28,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,746.43,SIM-AR,SYNTHETIC - no real customers
+AR000353,2025-08-13,2025-09-12,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,532.53,SIM-AR,SYNTHETIC - no real customers
+AR000354,2025-08-07,2025-09-21,D04,SIM-D04-ACCOUNT-028,Intergovernmental Agency,Agency Reimbursement,13496.04,SIM-AR,SYNTHETIC - no real customers
+AR000355,2025-08-15,2025-09-14,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,875.78,SIM-AR,SYNTHETIC - no real customers
+AR000356,2025-08-25,2025-09-24,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,593.53,SIM-AR,SYNTHETIC - no real customers
+AR000357,2025-08-11,2025-09-10,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,859.37,SIM-AR,SYNTHETIC - no real customers
+AR000358,2025-08-28,2025-09-27,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1110.10,SIM-AR,SYNTHETIC - no real customers
+AR000359,2025-08-05,2025-09-04,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,833.49,SIM-AR,SYNTHETIC - no real customers
+AR000360,2025-08-29,2025-09-28,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1145.55,SIM-AR,SYNTHETIC - no real customers
+AR000361,2025-08-25,2025-09-24,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,1122.98,SIM-AR,SYNTHETIC - no real customers
+AR000362,2025-08-01,2025-08-31,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,1490.66,SIM-AR,SYNTHETIC - no real customers
+AR000363,2025-08-20,2025-10-04,D04,SIM-D04-ACCOUNT-004,Intergovernmental Agency,Agency Reimbursement,3770.04,SIM-AR,SYNTHETIC - no real customers
+AR000364,2025-08-19,2025-09-18,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,725.86,SIM-AR,SYNTHETIC - no real customers
+AR000365,2025-08-08,2025-09-07,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,347.54,SIM-AR,SYNTHETIC - no real customers
+AR000366,2025-08-18,2025-09-17,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,329.18,SIM-AR,SYNTHETIC - no real customers
+AR000367,2025-08-25,2025-09-24,D01,SIM-D01-ACCOUNT-017,Administrative Partner,Billed Government Service,927.22,SIM-AR,SYNTHETIC - no real customers
+AR000368,2025-08-04,2025-09-03,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,1043.64,SIM-AR,SYNTHETIC - no real customers
+AR000369,2025-08-07,2025-09-21,D04,SIM-D04-ACCOUNT-014,Intergovernmental Agency,Agency Reimbursement,7071.97,SIM-AR,SYNTHETIC - no real customers
+AR000370,2025-08-13,2025-09-12,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1188.42,SIM-AR,SYNTHETIC - no real customers
+AR000371,2025-08-15,2025-09-14,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1023.79,SIM-AR,SYNTHETIC - no real customers
+AR000372,2025-08-22,2025-09-21,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1612.14,SIM-AR,SYNTHETIC - no real customers
+AR000373,2025-08-01,2025-08-31,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1668.04,SIM-AR,SYNTHETIC - no real customers
+AR000374,2025-08-28,2025-09-27,D03,SIM-D03-ACCOUNT-003,Agency Account,Billed Government Service,459.63,SIM-AR,SYNTHETIC - no real customers
+AR000375,2025-08-26,2025-09-25,D01,SIM-D01-ACCOUNT-001,Administrative Partner,Billed Government Service,595.41,SIM-AR,SYNTHETIC - no real customers
+AR000376,2025-08-20,2025-10-04,D04,SIM-D04-ACCOUNT-023,Intergovernmental Agency,Agency Reimbursement,7676.67,SIM-AR,SYNTHETIC - no real customers
+AR000377,2025-09-30,2025-10-30,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1009.91,SIM-AR,SYNTHETIC - no real customers
+AR000378,2025-09-22,2025-10-22,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,82.49,SIM-AR,SYNTHETIC - no real customers
+AR000379,2025-09-16,2025-10-16,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1323.16,SIM-AR,SYNTHETIC - no real customers
+AR000380,2025-09-15,2025-10-15,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,1329.52,SIM-AR,SYNTHETIC - no real customers
+AR000381,2025-09-10,2025-10-10,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,854.14,SIM-AR,SYNTHETIC - no real customers
+AR000382,2025-09-02,2025-10-02,D01,SIM-D01-ACCOUNT-027,Administrative Partner,Billed Government Service,1381.78,SIM-AR,SYNTHETIC - no real customers
+AR000383,2025-09-24,2025-11-08,D04,SIM-D04-ACCOUNT-020,Intergovernmental Agency,Agency Reimbursement,10605.36,SIM-AR,SYNTHETIC - no real customers
+AR000384,2025-09-19,2025-10-19,D03,SIM-D03-ACCOUNT-028,Agency Account,Billed Government Service,1197.06,SIM-AR,SYNTHETIC - no real customers
+AR000385,2025-09-25,2025-10-25,D06,SIM-D06-ACCOUNT-026,E-Recording Business Account,Billed Government Service,1007.12,SIM-AR,SYNTHETIC - no real customers
+AR000386,2025-09-29,2025-10-29,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,1470.51,SIM-AR,SYNTHETIC - no real customers
+AR000387,2025-09-24,2025-10-24,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,850.41,SIM-AR,SYNTHETIC - no real customers
+AR000388,2025-09-17,2025-10-17,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,870.96,SIM-AR,SYNTHETIC - no real customers
+AR000389,2025-09-09,2025-10-09,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1005.08,SIM-AR,SYNTHETIC - no real customers
+AR000390,2025-09-02,2025-10-02,D03,SIM-D03-ACCOUNT-001,Agency Account,Billed Government Service,600.17,SIM-AR,SYNTHETIC - no real customers
+AR000391,2025-09-23,2025-10-23,D01,SIM-D01-ACCOUNT-019,Administrative Partner,Billed Government Service,1556.07,SIM-AR,SYNTHETIC - no real customers
+AR000392,2025-09-16,2025-10-31,D04,SIM-D04-ACCOUNT-010,Intergovernmental Agency,Agency Reimbursement,5219.40,SIM-AR,SYNTHETIC - no real customers
+AR000393,2025-09-01,2025-10-01,D01,SIM-D01-ACCOUNT-019,Administrative Partner,Billed Government Service,1488.01,SIM-AR,SYNTHETIC - no real customers
+AR000394,2025-09-02,2025-10-02,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,551.01,SIM-AR,SYNTHETIC - no real customers
+AR000395,2025-09-12,2025-10-12,D06,SIM-D06-ACCOUNT-019,E-Recording Business Account,Billed Government Service,251.29,SIM-AR,SYNTHETIC - no real customers
+AR000396,2025-09-01,2025-10-01,D01,SIM-D01-ACCOUNT-026,Administrative Partner,Billed Government Service,1164.93,SIM-AR,SYNTHETIC - no real customers
+AR000397,2025-09-04,2025-10-04,D03,SIM-D03-ACCOUNT-003,Agency Account,Billed Government Service,1646.36,SIM-AR,SYNTHETIC - no real customers
+AR000398,2025-09-02,2025-10-02,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,326.80,SIM-AR,SYNTHETIC - no real customers
+AR000399,2025-09-03,2025-10-03,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,661.57,SIM-AR,SYNTHETIC - no real customers
+AR000400,2025-09-24,2025-10-24,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1351.38,SIM-AR,SYNTHETIC - no real customers
+AR000401,2025-09-17,2025-10-17,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1592.61,SIM-AR,SYNTHETIC - no real customers
+AR000402,2025-09-25,2025-10-25,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1443.28,SIM-AR,SYNTHETIC - no real customers
+AR000403,2025-09-01,2025-10-01,D01,SIM-D01-ACCOUNT-025,Administrative Partner,Billed Government Service,995.54,SIM-AR,SYNTHETIC - no real customers
+AR000404,2025-09-16,2025-10-16,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,760.60,SIM-AR,SYNTHETIC - no real customers
+AR000405,2025-09-08,2025-10-08,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,913.97,SIM-AR,SYNTHETIC - no real customers
+AR000406,2025-09-16,2025-10-16,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,167.85,SIM-AR,SYNTHETIC - no real customers
+AR000407,2025-09-09,2025-10-09,D01,SIM-D01-ACCOUNT-022,Administrative Partner,Billed Government Service,1054.19,SIM-AR,SYNTHETIC - no real customers
+AR000408,2025-09-15,2025-10-15,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,1047.90,SIM-AR,SYNTHETIC - no real customers
+AR000409,2025-09-17,2025-10-17,D01,SIM-D01-ACCOUNT-001,Administrative Partner,Billed Government Service,738.78,SIM-AR,SYNTHETIC - no real customers
+AR000410,2025-09-30,2025-10-30,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,930.15,SIM-AR,SYNTHETIC - no real customers
+AR000411,2025-09-22,2025-10-22,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,424.44,SIM-AR,SYNTHETIC - no real customers
+AR000412,2025-09-17,2025-11-01,D04,SIM-D04-ACCOUNT-027,Intergovernmental Agency,Agency Reimbursement,4344.19,SIM-AR,SYNTHETIC - no real customers
+AR000413,2025-09-17,2025-10-17,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,1335.27,SIM-AR,SYNTHETIC - no real customers
+AR000414,2025-09-19,2025-10-19,D01,SIM-D01-ACCOUNT-001,Administrative Partner,Billed Government Service,590.26,SIM-AR,SYNTHETIC - no real customers
+AR000415,2025-09-11,2025-10-26,D04,SIM-D04-ACCOUNT-014,Intergovernmental Agency,Agency Reimbursement,1312.57,SIM-AR,SYNTHETIC - no real customers
+AR000416,2025-09-15,2025-10-15,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,147.84,SIM-AR,SYNTHETIC - no real customers
+AR000417,2025-09-05,2025-10-05,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,1013.90,SIM-AR,SYNTHETIC - no real customers
+AR000418,2025-09-15,2025-10-15,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,1348.74,SIM-AR,SYNTHETIC - no real customers
+AR000419,2025-09-16,2025-10-16,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,908.53,SIM-AR,SYNTHETIC - no real customers
+AR000420,2025-09-05,2025-10-05,D01,SIM-D01-ACCOUNT-009,Administrative Partner,Billed Government Service,528.07,SIM-AR,SYNTHETIC - no real customers
+AR000421,2025-09-17,2025-10-17,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,936.54,SIM-AR,SYNTHETIC - no real customers
+AR000422,2025-09-15,2025-10-15,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,621.32,SIM-AR,SYNTHETIC - no real customers
+AR000423,2025-09-05,2025-10-05,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,449.13,SIM-AR,SYNTHETIC - no real customers
+AR000424,2025-10-02,2025-11-16,D04,SIM-D04-ACCOUNT-004,Intergovernmental Agency,Agency Reimbursement,8628.04,SIM-AR,SYNTHETIC - no real customers
+AR000425,2025-10-01,2025-10-31,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,1174.93,SIM-AR,SYNTHETIC - no real customers
+AR000426,2025-10-10,2025-11-09,D03,SIM-D03-ACCOUNT-018,Agency Account,Billed Government Service,643.18,SIM-AR,SYNTHETIC - no real customers
+AR000427,2025-10-23,2025-11-22,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,315.68,SIM-AR,SYNTHETIC - no real customers
+AR000428,2025-10-17,2025-11-16,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,826.21,SIM-AR,SYNTHETIC - no real customers
+AR000429,2025-10-17,2025-11-16,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,163.47,SIM-AR,SYNTHETIC - no real customers
+AR000430,2025-10-01,2025-10-31,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,1292.78,SIM-AR,SYNTHETIC - no real customers
+AR000431,2025-10-01,2025-10-31,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,211.83,SIM-AR,SYNTHETIC - no real customers
+AR000432,2025-10-24,2025-11-23,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1454.52,SIM-AR,SYNTHETIC - no real customers
+AR000433,2025-10-21,2025-11-20,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,594.87,SIM-AR,SYNTHETIC - no real customers
+AR000434,2025-10-20,2025-11-19,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,699.82,SIM-AR,SYNTHETIC - no real customers
+AR000435,2025-10-09,2025-11-08,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,1670.72,SIM-AR,SYNTHETIC - no real customers
+AR000436,2025-10-01,2025-10-31,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,213.71,SIM-AR,SYNTHETIC - no real customers
+AR000437,2025-10-22,2025-11-21,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,765.83,SIM-AR,SYNTHETIC - no real customers
+AR000438,2025-10-22,2025-11-21,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,1479.07,SIM-AR,SYNTHETIC - no real customers
+AR000439,2025-10-29,2025-11-28,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,103.48,SIM-AR,SYNTHETIC - no real customers
+AR000440,2025-10-10,2025-11-09,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,818.27,SIM-AR,SYNTHETIC - no real customers
+AR000441,2025-10-07,2025-11-06,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,1559.73,SIM-AR,SYNTHETIC - no real customers
+AR000442,2025-10-20,2025-11-19,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,298.69,SIM-AR,SYNTHETIC - no real customers
+AR000443,2025-10-30,2025-11-29,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,1686.95,SIM-AR,SYNTHETIC - no real customers
+AR000444,2025-10-22,2025-11-21,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,426.42,SIM-AR,SYNTHETIC - no real customers
+AR000445,2025-10-17,2025-11-16,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,1467.66,SIM-AR,SYNTHETIC - no real customers
+AR000446,2025-10-31,2025-12-15,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,12573.69,SIM-AR,SYNTHETIC - no real customers
+AR000447,2025-10-16,2025-11-15,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,624.26,SIM-AR,SYNTHETIC - no real customers
+AR000448,2025-10-21,2025-11-20,D03,SIM-D03-ACCOUNT-016,Agency Account,Billed Government Service,213.39,SIM-AR,SYNTHETIC - no real customers
+AR000449,2025-10-07,2025-11-21,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,13380.77,SIM-AR,SYNTHETIC - no real customers
+AR000450,2025-10-10,2025-11-09,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,604.26,SIM-AR,SYNTHETIC - no real customers
+AR000451,2025-10-14,2025-11-13,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,671.28,SIM-AR,SYNTHETIC - no real customers
+AR000452,2025-10-28,2025-11-27,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,731.22,SIM-AR,SYNTHETIC - no real customers
+AR000453,2025-10-24,2025-11-23,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,671.00,SIM-AR,SYNTHETIC - no real customers
+AR000454,2025-10-17,2025-11-16,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1038.43,SIM-AR,SYNTHETIC - no real customers
+AR000455,2025-10-31,2025-11-30,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,240.72,SIM-AR,SYNTHETIC - no real customers
+AR000456,2025-10-15,2025-11-14,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1051.77,SIM-AR,SYNTHETIC - no real customers
+AR000457,2025-10-24,2025-11-23,D02,SIM-D02-ACCOUNT-021,Recording Business Account,Billed Government Service,983.71,SIM-AR,SYNTHETIC - no real customers
+AR000458,2025-10-31,2025-11-30,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,939.80,SIM-AR,SYNTHETIC - no real customers
+AR000459,2025-10-10,2025-11-09,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,1476.56,SIM-AR,SYNTHETIC - no real customers
+AR000460,2025-10-24,2025-11-23,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,303.89,SIM-AR,SYNTHETIC - no real customers
+AR000461,2025-10-13,2025-11-12,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,1528.63,SIM-AR,SYNTHETIC - no real customers
+AR000462,2025-10-09,2025-11-08,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,483.15,SIM-AR,SYNTHETIC - no real customers
+AR000463,2025-10-06,2025-11-05,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,1292.93,SIM-AR,SYNTHETIC - no real customers
+AR000464,2025-10-24,2025-12-08,D04,SIM-D04-ACCOUNT-019,Intergovernmental Agency,Agency Reimbursement,5923.20,SIM-AR,SYNTHETIC - no real customers
+AR000465,2025-10-16,2025-11-30,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,10955.33,SIM-AR,SYNTHETIC - no real customers
+AR000466,2025-10-30,2025-11-29,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1254.07,SIM-AR,SYNTHETIC - no real customers
+AR000467,2025-10-22,2025-11-21,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1500.55,SIM-AR,SYNTHETIC - no real customers
+AR000468,2025-10-29,2025-11-28,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,1061.11,SIM-AR,SYNTHETIC - no real customers
+AR000469,2025-10-16,2025-11-15,D01,SIM-D01-ACCOUNT-015,Administrative Partner,Billed Government Service,834.42,SIM-AR,SYNTHETIC - no real customers
+AR000470,2025-10-09,2025-11-08,D01,SIM-D01-ACCOUNT-014,Administrative Partner,Billed Government Service,489.35,SIM-AR,SYNTHETIC - no real customers
+AR000471,2025-11-24,2025-12-24,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1048.87,SIM-AR,SYNTHETIC - no real customers
+AR000472,2025-11-07,2025-12-22,D04,SIM-D04-ACCOUNT-008,Intergovernmental Agency,Agency Reimbursement,2125.43,SIM-AR,SYNTHETIC - no real customers
+AR000473,2025-11-25,2025-12-25,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,778.66,SIM-AR,SYNTHETIC - no real customers
+AR000474,2025-11-12,2025-12-12,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,189.81,SIM-AR,SYNTHETIC - no real customers
+AR000475,2025-11-26,2025-12-26,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,627.79,SIM-AR,SYNTHETIC - no real customers
+AR000476,2025-11-05,2025-12-05,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1212.06,SIM-AR,SYNTHETIC - no real customers
+AR000477,2025-11-18,2025-12-18,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,794.67,SIM-AR,SYNTHETIC - no real customers
+AR000478,2025-11-12,2025-12-12,D01,SIM-D01-ACCOUNT-003,Administrative Partner,Billed Government Service,1011.30,SIM-AR,SYNTHETIC - no real customers
+AR000479,2025-11-26,2025-12-26,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,218.05,SIM-AR,SYNTHETIC - no real customers
+AR000480,2025-11-03,2025-12-03,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,1154.51,SIM-AR,SYNTHETIC - no real customers
+AR000481,2025-11-21,2025-12-21,D01,SIM-D01-ACCOUNT-017,Administrative Partner,Billed Government Service,535.70,SIM-AR,SYNTHETIC - no real customers
+AR000482,2025-11-24,2025-12-24,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,247.07,SIM-AR,SYNTHETIC - no real customers
+AR000483,2025-11-11,2025-12-26,D04,SIM-D04-ACCOUNT-013,Intergovernmental Agency,Agency Reimbursement,12198.32,SIM-AR,SYNTHETIC - no real customers
+AR000484,2025-11-07,2025-12-07,D01,SIM-D01-ACCOUNT-011,Administrative Partner,Billed Government Service,1024.26,SIM-AR,SYNTHETIC - no real customers
+AR000485,2025-11-07,2025-12-07,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,591.09,SIM-AR,SYNTHETIC - no real customers
+AR000486,2025-11-06,2025-12-06,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,671.56,SIM-AR,SYNTHETIC - no real customers
+AR000487,2025-11-27,2025-12-27,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,1034.88,SIM-AR,SYNTHETIC - no real customers
+AR000488,2025-11-18,2025-12-18,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1137.28,SIM-AR,SYNTHETIC - no real customers
+AR000489,2025-11-18,2025-12-18,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1433.95,SIM-AR,SYNTHETIC - no real customers
+AR000490,2025-11-27,2026-01-11,D04,SIM-D04-ACCOUNT-030,Intergovernmental Agency,Agency Reimbursement,12975.91,SIM-AR,SYNTHETIC - no real customers
+AR000491,2025-11-07,2025-12-22,D04,SIM-D04-ACCOUNT-029,Intergovernmental Agency,Agency Reimbursement,13143.81,SIM-AR,SYNTHETIC - no real customers
+AR000492,2025-11-06,2025-12-06,D01,SIM-D01-ACCOUNT-013,Administrative Partner,Billed Government Service,1291.82,SIM-AR,SYNTHETIC - no real customers
+AR000493,2025-11-14,2025-12-14,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,1226.67,SIM-AR,SYNTHETIC - no real customers
+AR000494,2025-11-19,2025-12-19,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,341.92,SIM-AR,SYNTHETIC - no real customers
+AR000495,2025-11-07,2025-12-07,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,97.65,SIM-AR,SYNTHETIC - no real customers
+AR000496,2025-11-27,2025-12-27,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,177.37,SIM-AR,SYNTHETIC - no real customers
+AR000497,2025-11-13,2025-12-13,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,445.40,SIM-AR,SYNTHETIC - no real customers
+AR000498,2025-11-21,2025-12-21,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,1176.88,SIM-AR,SYNTHETIC - no real customers
+AR000499,2025-11-27,2025-12-27,D01,SIM-D01-ACCOUNT-014,Administrative Partner,Billed Government Service,1064.28,SIM-AR,SYNTHETIC - no real customers
+AR000500,2025-11-28,2026-01-12,D04,SIM-D04-ACCOUNT-028,Intergovernmental Agency,Agency Reimbursement,13078.55,SIM-AR,SYNTHETIC - no real customers
+AR000501,2025-11-19,2025-12-19,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,614.66,SIM-AR,SYNTHETIC - no real customers
+AR000502,2025-11-19,2025-12-19,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,1189.02,SIM-AR,SYNTHETIC - no real customers
+AR000503,2025-11-18,2025-12-18,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,832.80,SIM-AR,SYNTHETIC - no real customers
+AR000504,2025-11-13,2025-12-13,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,1382.52,SIM-AR,SYNTHETIC - no real customers
+AR000505,2025-11-18,2025-12-18,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,123.33,SIM-AR,SYNTHETIC - no real customers
+AR000506,2025-11-18,2025-12-18,D03,SIM-D03-ACCOUNT-001,Agency Account,Billed Government Service,1159.73,SIM-AR,SYNTHETIC - no real customers
+AR000507,2025-11-17,2025-12-17,D01,SIM-D01-ACCOUNT-028,Administrative Partner,Billed Government Service,403.25,SIM-AR,SYNTHETIC - no real customers
+AR000508,2025-11-17,2026-01-01,D04,SIM-D04-ACCOUNT-029,Intergovernmental Agency,Agency Reimbursement,4499.42,SIM-AR,SYNTHETIC - no real customers
+AR000509,2025-11-11,2025-12-11,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,642.29,SIM-AR,SYNTHETIC - no real customers
+AR000510,2025-11-13,2025-12-13,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,126.22,SIM-AR,SYNTHETIC - no real customers
+AR000511,2025-11-07,2025-12-07,D01,SIM-D01-ACCOUNT-001,Administrative Partner,Billed Government Service,195.29,SIM-AR,SYNTHETIC - no real customers
+AR000512,2025-11-10,2025-12-10,D01,SIM-D01-ACCOUNT-017,Administrative Partner,Billed Government Service,1364.91,SIM-AR,SYNTHETIC - no real customers
+AR000513,2025-11-12,2025-12-27,D04,SIM-D04-ACCOUNT-003,Intergovernmental Agency,Agency Reimbursement,13307.17,SIM-AR,SYNTHETIC - no real customers
+AR000514,2025-11-18,2025-12-18,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,1514.17,SIM-AR,SYNTHETIC - no real customers
+AR000515,2025-11-28,2025-12-28,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,578.11,SIM-AR,SYNTHETIC - no real customers
+AR000516,2025-11-07,2025-12-07,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,983.94,SIM-AR,SYNTHETIC - no real customers
+AR000517,2025-11-24,2025-12-24,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,418.34,SIM-AR,SYNTHETIC - no real customers
+AR000518,2025-12-09,2026-01-08,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,867.36,SIM-AR,SYNTHETIC - no real customers
+AR000519,2025-12-30,2026-01-29,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,1677.53,SIM-AR,SYNTHETIC - no real customers
+AR000520,2025-12-05,2026-01-04,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,700.81,SIM-AR,SYNTHETIC - no real customers
+AR000521,2025-12-31,2026-01-30,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,809.97,SIM-AR,SYNTHETIC - no real customers
+AR000522,2025-12-30,2026-01-29,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,613.24,SIM-AR,SYNTHETIC - no real customers
+AR000523,2025-12-11,2026-01-10,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,446.57,SIM-AR,SYNTHETIC - no real customers
+AR000524,2025-12-03,2026-01-02,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,576.68,SIM-AR,SYNTHETIC - no real customers
+AR000525,2025-12-02,2026-01-01,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,651.85,SIM-AR,SYNTHETIC - no real customers
+AR000526,2025-12-24,2026-01-23,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,219.01,SIM-AR,SYNTHETIC - no real customers
+AR000527,2025-12-30,2026-01-29,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,1296.53,SIM-AR,SYNTHETIC - no real customers
+AR000528,2025-12-08,2026-01-07,D01,SIM-D01-ACCOUNT-029,Administrative Partner,Billed Government Service,862.50,SIM-AR,SYNTHETIC - no real customers
+AR000529,2025-12-23,2026-01-22,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1171.91,SIM-AR,SYNTHETIC - no real customers
+AR000530,2025-12-08,2026-01-07,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,562.93,SIM-AR,SYNTHETIC - no real customers
+AR000531,2025-12-19,2026-01-18,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,1449.60,SIM-AR,SYNTHETIC - no real customers
+AR000532,2025-12-03,2026-01-02,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,1294.83,SIM-AR,SYNTHETIC - no real customers
+AR000533,2025-12-26,2026-01-25,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,524.29,SIM-AR,SYNTHETIC - no real customers
+AR000534,2025-12-08,2026-01-07,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,586.95,SIM-AR,SYNTHETIC - no real customers
+AR000535,2025-12-19,2026-01-18,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,1381.20,SIM-AR,SYNTHETIC - no real customers
+AR000536,2025-12-10,2026-01-09,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,572.21,SIM-AR,SYNTHETIC - no real customers
+AR000537,2025-12-18,2026-01-17,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,743.75,SIM-AR,SYNTHETIC - no real customers
+AR000538,2025-12-15,2026-01-14,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,456.79,SIM-AR,SYNTHETIC - no real customers
+AR000539,2025-12-03,2026-01-02,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,541.78,SIM-AR,SYNTHETIC - no real customers
+AR000540,2025-12-04,2026-01-18,D04,SIM-D04-ACCOUNT-005,Intergovernmental Agency,Agency Reimbursement,7801.21,SIM-AR,SYNTHETIC - no real customers
+AR000541,2025-12-15,2026-01-14,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,530.08,SIM-AR,SYNTHETIC - no real customers
+AR000542,2025-12-22,2026-01-21,D03,SIM-D03-ACCOUNT-007,Agency Account,Billed Government Service,1090.90,SIM-AR,SYNTHETIC - no real customers
+AR000543,2025-12-29,2026-01-28,D03,SIM-D03-ACCOUNT-026,Agency Account,Billed Government Service,1618.35,SIM-AR,SYNTHETIC - no real customers
+AR000544,2025-12-09,2026-01-23,D04,SIM-D04-ACCOUNT-008,Intergovernmental Agency,Agency Reimbursement,11192.89,SIM-AR,SYNTHETIC - no real customers
+AR000545,2025-12-10,2026-01-09,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,800.05,SIM-AR,SYNTHETIC - no real customers
+AR000546,2025-12-25,2026-01-24,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,615.63,SIM-AR,SYNTHETIC - no real customers
+AR000547,2025-12-08,2026-01-07,D03,SIM-D03-ACCOUNT-016,Agency Account,Billed Government Service,398.86,SIM-AR,SYNTHETIC - no real customers
+AR000548,2025-12-23,2026-01-22,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,520.33,SIM-AR,SYNTHETIC - no real customers
+AR000549,2025-12-19,2026-02-02,D04,SIM-D04-ACCOUNT-009,Intergovernmental Agency,Agency Reimbursement,10289.13,SIM-AR,SYNTHETIC - no real customers
+AR000550,2025-12-26,2026-01-25,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,623.04,SIM-AR,SYNTHETIC - no real customers
+AR000551,2025-12-30,2026-01-29,D03,SIM-D03-ACCOUNT-023,Agency Account,Billed Government Service,806.68,SIM-AR,SYNTHETIC - no real customers
+AR000552,2025-12-22,2026-01-21,D06,SIM-D06-ACCOUNT-019,E-Recording Business Account,Billed Government Service,551.19,SIM-AR,SYNTHETIC - no real customers
+AR000553,2025-12-16,2026-01-15,D02,SIM-D02-ACCOUNT-021,Recording Business Account,Billed Government Service,841.85,SIM-AR,SYNTHETIC - no real customers
+AR000554,2025-12-12,2026-01-26,D04,SIM-D04-ACCOUNT-004,Intergovernmental Agency,Agency Reimbursement,5910.46,SIM-AR,SYNTHETIC - no real customers
+AR000555,2025-12-01,2025-12-31,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,397.04,SIM-AR,SYNTHETIC - no real customers
+AR000556,2025-12-11,2026-01-10,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,120.27,SIM-AR,SYNTHETIC - no real customers
+AR000557,2025-12-01,2025-12-31,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,1372.49,SIM-AR,SYNTHETIC - no real customers
+AR000558,2025-12-22,2026-01-21,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1578.34,SIM-AR,SYNTHETIC - no real customers
+AR000559,2025-12-03,2026-01-02,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,379.59,SIM-AR,SYNTHETIC - no real customers
+AR000560,2025-12-05,2026-01-04,D01,SIM-D01-ACCOUNT-015,Administrative Partner,Billed Government Service,1644.44,SIM-AR,SYNTHETIC - no real customers
+AR000561,2025-12-02,2026-01-01,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,480.05,SIM-AR,SYNTHETIC - no real customers
+AR000562,2025-12-19,2026-02-02,D04,SIM-D04-ACCOUNT-022,Intergovernmental Agency,Agency Reimbursement,6512.80,SIM-AR,SYNTHETIC - no real customers
+AR000563,2025-12-26,2026-01-25,D03,SIM-D03-ACCOUNT-024,Agency Account,Billed Government Service,1596.76,SIM-AR,SYNTHETIC - no real customers
+AR000564,2025-12-10,2026-01-09,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,118.19,SIM-AR,SYNTHETIC - no real customers
+AR000565,2026-01-28,2026-02-27,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,329.68,SIM-AR,SYNTHETIC - no real customers
+AR000566,2026-01-21,2026-02-20,D02,SIM-D02-ACCOUNT-021,Recording Business Account,Billed Government Service,370.42,SIM-AR,SYNTHETIC - no real customers
+AR000567,2026-01-02,2026-02-01,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,170.72,SIM-AR,SYNTHETIC - no real customers
+AR000568,2026-01-02,2026-02-01,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,758.05,SIM-AR,SYNTHETIC - no real customers
+AR000569,2026-01-01,2026-01-31,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,359.47,SIM-AR,SYNTHETIC - no real customers
+AR000570,2026-01-08,2026-02-07,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,771.30,SIM-AR,SYNTHETIC - no real customers
+AR000571,2026-01-23,2026-02-22,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,650.30,SIM-AR,SYNTHETIC - no real customers
+AR000572,2026-01-28,2026-02-27,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,345.61,SIM-AR,SYNTHETIC - no real customers
+AR000573,2026-01-06,2026-02-05,D01,SIM-D01-ACCOUNT-022,Administrative Partner,Billed Government Service,738.69,SIM-AR,SYNTHETIC - no real customers
+AR000574,2026-01-21,2026-02-20,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,1302.16,SIM-AR,SYNTHETIC - no real customers
+AR000575,2026-01-05,2026-02-04,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,644.28,SIM-AR,SYNTHETIC - no real customers
+AR000576,2026-01-06,2026-02-05,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,414.95,SIM-AR,SYNTHETIC - no real customers
+AR000577,2026-01-06,2026-02-20,D04,SIM-D04-ACCOUNT-018,Intergovernmental Agency,Agency Reimbursement,5828.43,SIM-AR,SYNTHETIC - no real customers
+AR000578,2026-01-07,2026-02-06,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,601.53,SIM-AR,SYNTHETIC - no real customers
+AR000579,2026-01-01,2026-01-31,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,1493.80,SIM-AR,SYNTHETIC - no real customers
+AR000580,2026-01-05,2026-02-04,D01,SIM-D01-ACCOUNT-017,Administrative Partner,Billed Government Service,586.71,SIM-AR,SYNTHETIC - no real customers
+AR000581,2026-01-09,2026-02-08,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,1159.09,SIM-AR,SYNTHETIC - no real customers
+AR000582,2026-01-12,2026-02-11,D01,SIM-D01-ACCOUNT-009,Administrative Partner,Billed Government Service,554.00,SIM-AR,SYNTHETIC - no real customers
+AR000583,2026-01-12,2026-02-11,D01,SIM-D01-ACCOUNT-021,Administrative Partner,Billed Government Service,484.90,SIM-AR,SYNTHETIC - no real customers
+AR000584,2026-01-15,2026-02-14,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,1515.68,SIM-AR,SYNTHETIC - no real customers
+AR000585,2026-01-15,2026-02-14,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,431.19,SIM-AR,SYNTHETIC - no real customers
+AR000586,2026-01-09,2026-02-08,D01,SIM-D01-ACCOUNT-004,Administrative Partner,Billed Government Service,1013.61,SIM-AR,SYNTHETIC - no real customers
+AR000587,2026-01-15,2026-02-14,D03,SIM-D03-ACCOUNT-013,Agency Account,Billed Government Service,1396.89,SIM-AR,SYNTHETIC - no real customers
+AR000588,2026-01-19,2026-02-18,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,212.43,SIM-AR,SYNTHETIC - no real customers
+AR000589,2026-01-26,2026-03-12,D04,SIM-D04-ACCOUNT-025,Intergovernmental Agency,Agency Reimbursement,7850.64,SIM-AR,SYNTHETIC - no real customers
+AR000590,2026-01-26,2026-02-25,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,786.49,SIM-AR,SYNTHETIC - no real customers
+AR000591,2026-01-15,2026-02-14,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,683.28,SIM-AR,SYNTHETIC - no real customers
+AR000592,2026-01-30,2026-03-16,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,8249.79,SIM-AR,SYNTHETIC - no real customers
+AR000593,2026-01-08,2026-02-22,D04,SIM-D04-ACCOUNT-023,Intergovernmental Agency,Agency Reimbursement,3289.41,SIM-AR,SYNTHETIC - no real customers
+AR000594,2026-01-27,2026-02-26,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,460.87,SIM-AR,SYNTHETIC - no real customers
+AR000595,2026-01-27,2026-03-13,D04,SIM-D04-ACCOUNT-005,Intergovernmental Agency,Agency Reimbursement,10262.35,SIM-AR,SYNTHETIC - no real customers
+AR000596,2026-01-23,2026-02-22,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,506.68,SIM-AR,SYNTHETIC - no real customers
+AR000597,2026-01-21,2026-02-20,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,1226.80,SIM-AR,SYNTHETIC - no real customers
+AR000598,2026-01-09,2026-02-08,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,798.75,SIM-AR,SYNTHETIC - no real customers
+AR000599,2026-01-15,2026-02-14,D03,SIM-D03-ACCOUNT-026,Agency Account,Billed Government Service,1554.48,SIM-AR,SYNTHETIC - no real customers
+AR000600,2026-01-16,2026-02-15,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,249.91,SIM-AR,SYNTHETIC - no real customers
+AR000601,2026-01-16,2026-03-02,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,13013.72,SIM-AR,SYNTHETIC - no real customers
+AR000602,2026-01-01,2026-01-31,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,1682.02,SIM-AR,SYNTHETIC - no real customers
+AR000603,2026-01-26,2026-02-25,D01,SIM-D01-ACCOUNT-012,Administrative Partner,Billed Government Service,916.84,SIM-AR,SYNTHETIC - no real customers
+AR000604,2026-01-02,2026-02-01,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,1458.23,SIM-AR,SYNTHETIC - no real customers
+AR000605,2026-01-19,2026-02-18,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1328.33,SIM-AR,SYNTHETIC - no real customers
+AR000606,2026-01-14,2026-02-13,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,351.17,SIM-AR,SYNTHETIC - no real customers
+AR000607,2026-01-09,2026-02-08,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,608.87,SIM-AR,SYNTHETIC - no real customers
+AR000608,2026-01-21,2026-02-20,D03,SIM-D03-ACCOUNT-022,Agency Account,Billed Government Service,1091.24,SIM-AR,SYNTHETIC - no real customers
+AR000609,2026-01-07,2026-02-06,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,1629.56,SIM-AR,SYNTHETIC - no real customers
+AR000610,2026-01-27,2026-02-26,D03,SIM-D03-ACCOUNT-005,Agency Account,Billed Government Service,429.67,SIM-AR,SYNTHETIC - no real customers
+AR000611,2026-01-08,2026-02-07,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1218.61,SIM-AR,SYNTHETIC - no real customers
+AR000612,2026-01-21,2026-02-20,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,820.69,SIM-AR,SYNTHETIC - no real customers
+AR000613,2026-01-01,2026-02-15,D04,SIM-D04-ACCOUNT-008,Intergovernmental Agency,Agency Reimbursement,5007.63,SIM-AR,SYNTHETIC - no real customers
+AR000614,2026-01-09,2026-02-08,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,1015.28,SIM-AR,SYNTHETIC - no real customers
+AR000615,2026-01-19,2026-03-05,D04,SIM-D04-ACCOUNT-002,Intergovernmental Agency,Agency Reimbursement,13441.18,SIM-AR,SYNTHETIC - no real customers
+AR000616,2026-01-09,2026-02-08,D01,SIM-D01-ACCOUNT-028,Administrative Partner,Billed Government Service,1653.32,SIM-AR,SYNTHETIC - no real customers
+AR000617,2026-01-09,2026-02-08,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,397.47,SIM-AR,SYNTHETIC - no real customers
+AR000618,2026-01-16,2026-03-02,D04,SIM-D04-ACCOUNT-016,Intergovernmental Agency,Agency Reimbursement,10592.49,SIM-AR,SYNTHETIC - no real customers
+AR000619,2026-01-06,2026-02-05,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,404.17,SIM-AR,SYNTHETIC - no real customers
+AR000620,2026-01-12,2026-02-26,D04,SIM-D04-ACCOUNT-025,Intergovernmental Agency,Agency Reimbursement,11161.86,SIM-AR,SYNTHETIC - no real customers
+AR000621,2026-01-19,2026-02-18,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,1695.58,SIM-AR,SYNTHETIC - no real customers
+AR000622,2026-01-20,2026-02-19,D03,SIM-D03-ACCOUNT-017,Agency Account,Billed Government Service,852.72,SIM-AR,SYNTHETIC - no real customers
+AR000623,2026-01-15,2026-03-01,D04,SIM-D04-ACCOUNT-026,Intergovernmental Agency,Agency Reimbursement,9630.30,SIM-AR,SYNTHETIC - no real customers
+AR000624,2026-01-22,2026-02-21,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,1346.39,SIM-AR,SYNTHETIC - no real customers
+AR000625,2026-01-08,2026-02-07,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1441.90,SIM-AR,SYNTHETIC - no real customers
+AR000626,2026-01-26,2026-02-25,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,405.45,SIM-AR,SYNTHETIC - no real customers
+AR000627,2026-01-19,2026-02-18,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,1650.57,SIM-AR,SYNTHETIC - no real customers
+AR000628,2026-01-27,2026-02-26,D03,SIM-D03-ACCOUNT-007,Agency Account,Billed Government Service,934.20,SIM-AR,SYNTHETIC - no real customers
+AR000629,2026-01-06,2026-02-05,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,283.48,SIM-AR,SYNTHETIC - no real customers
+AR000630,2026-01-05,2026-02-04,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,76.49,SIM-AR,SYNTHETIC - no real customers
+AR000631,2026-01-01,2026-01-31,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,129.33,SIM-AR,SYNTHETIC - no real customers
+AR000632,2026-01-26,2026-02-25,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,1236.67,SIM-AR,SYNTHETIC - no real customers
+AR000633,2026-01-19,2026-02-18,D01,SIM-D01-ACCOUNT-015,Administrative Partner,Billed Government Service,1064.22,SIM-AR,SYNTHETIC - no real customers
+AR000634,2026-01-19,2026-02-18,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1052.50,SIM-AR,SYNTHETIC - no real customers
+AR000635,2026-02-09,2026-03-11,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,1255.18,SIM-AR,SYNTHETIC - no real customers
+AR000636,2026-02-20,2026-03-22,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,1493.28,SIM-AR,SYNTHETIC - no real customers
+AR000637,2026-02-17,2026-03-19,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,139.80,SIM-AR,SYNTHETIC - no real customers
+AR000638,2026-02-20,2026-03-22,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,886.04,SIM-AR,SYNTHETIC - no real customers
+AR000639,2026-02-06,2026-03-08,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,1379.37,SIM-AR,SYNTHETIC - no real customers
+AR000640,2026-02-12,2026-03-14,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,442.93,SIM-AR,SYNTHETIC - no real customers
+AR000641,2026-02-20,2026-03-22,D01,SIM-D01-ACCOUNT-016,Administrative Partner,Billed Government Service,472.19,SIM-AR,SYNTHETIC - no real customers
+AR000642,2026-02-18,2026-03-20,D01,SIM-D01-ACCOUNT-018,Administrative Partner,Billed Government Service,795.45,SIM-AR,SYNTHETIC - no real customers
+AR000643,2026-02-13,2026-03-15,D01,SIM-D01-ACCOUNT-025,Administrative Partner,Billed Government Service,437.01,SIM-AR,SYNTHETIC - no real customers
+AR000644,2026-02-27,2026-03-29,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,968.76,SIM-AR,SYNTHETIC - no real customers
+AR000645,2026-02-19,2026-03-21,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,728.14,SIM-AR,SYNTHETIC - no real customers
+AR000646,2026-02-25,2026-03-27,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,788.87,SIM-AR,SYNTHETIC - no real customers
+AR000647,2026-02-16,2026-03-18,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,1033.72,SIM-AR,SYNTHETIC - no real customers
+AR000648,2026-02-25,2026-03-27,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,794.84,SIM-AR,SYNTHETIC - no real customers
+AR000649,2026-02-04,2026-03-06,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,1480.42,SIM-AR,SYNTHETIC - no real customers
+AR000650,2026-02-27,2026-03-29,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,537.13,SIM-AR,SYNTHETIC - no real customers
+AR000651,2026-02-19,2026-03-21,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,1334.27,SIM-AR,SYNTHETIC - no real customers
+AR000652,2026-02-12,2026-03-14,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,222.53,SIM-AR,SYNTHETIC - no real customers
+AR000653,2026-02-24,2026-03-26,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,534.01,SIM-AR,SYNTHETIC - no real customers
+AR000654,2026-02-13,2026-03-15,D06,SIM-D06-ACCOUNT-019,E-Recording Business Account,Billed Government Service,1564.35,SIM-AR,SYNTHETIC - no real customers
+AR000655,2026-02-04,2026-03-06,D03,SIM-D03-ACCOUNT-019,Agency Account,Billed Government Service,990.77,SIM-AR,SYNTHETIC - no real customers
+AR000656,2026-02-13,2026-03-15,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,85.84,SIM-AR,SYNTHETIC - no real customers
+AR000657,2026-02-13,2026-03-15,D01,SIM-D01-ACCOUNT-017,Administrative Partner,Billed Government Service,97.79,SIM-AR,SYNTHETIC - no real customers
+AR000658,2026-02-25,2026-04-11,D04,SIM-D04-ACCOUNT-030,Intergovernmental Agency,Agency Reimbursement,3230.36,SIM-AR,SYNTHETIC - no real customers
+AR000659,2026-02-12,2026-03-14,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,860.71,SIM-AR,SYNTHETIC - no real customers
+AR000660,2026-02-25,2026-03-27,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,234.89,SIM-AR,SYNTHETIC - no real customers
+AR000661,2026-02-26,2026-03-28,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,512.10,SIM-AR,SYNTHETIC - no real customers
+AR000662,2026-02-18,2026-03-20,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,699.50,SIM-AR,SYNTHETIC - no real customers
+AR000663,2026-02-03,2026-03-05,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,554.63,SIM-AR,SYNTHETIC - no real customers
+AR000664,2026-02-20,2026-03-22,D01,SIM-D01-ACCOUNT-008,Administrative Partner,Billed Government Service,1129.02,SIM-AR,SYNTHETIC - no real customers
+AR000665,2026-02-03,2026-03-05,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,547.12,SIM-AR,SYNTHETIC - no real customers
+AR000666,2026-02-20,2026-03-22,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,437.64,SIM-AR,SYNTHETIC - no real customers
+AR000667,2026-02-16,2026-03-18,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,993.69,SIM-AR,SYNTHETIC - no real customers
+AR000668,2026-02-26,2026-04-12,D04,SIM-D04-ACCOUNT-001,Intergovernmental Agency,Agency Reimbursement,8409.53,SIM-AR,SYNTHETIC - no real customers
+AR000669,2026-02-25,2026-03-27,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,499.03,SIM-AR,SYNTHETIC - no real customers
+AR000670,2026-02-06,2026-03-08,D01,SIM-D01-ACCOUNT-004,Administrative Partner,Billed Government Service,445.82,SIM-AR,SYNTHETIC - no real customers
+AR000671,2026-02-20,2026-03-22,D01,SIM-D01-ACCOUNT-030,Administrative Partner,Billed Government Service,1655.60,SIM-AR,SYNTHETIC - no real customers
+AR000672,2026-02-11,2026-03-13,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1217.62,SIM-AR,SYNTHETIC - no real customers
+AR000673,2026-02-09,2026-03-11,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,476.01,SIM-AR,SYNTHETIC - no real customers
+AR000674,2026-02-19,2026-03-21,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,1189.17,SIM-AR,SYNTHETIC - no real customers
+AR000675,2026-02-17,2026-03-19,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,647.84,SIM-AR,SYNTHETIC - no real customers
+AR000676,2026-02-19,2026-03-21,D03,SIM-D03-ACCOUNT-029,Agency Account,Billed Government Service,645.32,SIM-AR,SYNTHETIC - no real customers
+AR000677,2026-02-17,2026-03-19,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1275.64,SIM-AR,SYNTHETIC - no real customers
+AR000678,2026-02-05,2026-03-22,D04,SIM-D04-ACCOUNT-022,Intergovernmental Agency,Agency Reimbursement,1450.10,SIM-AR,SYNTHETIC - no real customers
+AR000679,2026-02-27,2026-03-29,D01,SIM-D01-ACCOUNT-009,Administrative Partner,Billed Government Service,463.41,SIM-AR,SYNTHETIC - no real customers
+AR000680,2026-02-16,2026-03-18,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,651.47,SIM-AR,SYNTHETIC - no real customers
+AR000681,2026-02-24,2026-04-10,D04,SIM-D04-ACCOUNT-025,Intergovernmental Agency,Agency Reimbursement,13757.57,SIM-AR,SYNTHETIC - no real customers
+AR000682,2026-02-10,2026-03-12,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,843.07,SIM-AR,SYNTHETIC - no real customers
+AR000683,2026-02-12,2026-03-14,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,1082.23,SIM-AR,SYNTHETIC - no real customers
+AR000684,2026-02-25,2026-03-27,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1464.67,SIM-AR,SYNTHETIC - no real customers
+AR000685,2026-02-24,2026-03-26,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,1102.01,SIM-AR,SYNTHETIC - no real customers
+AR000686,2026-02-05,2026-03-07,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,1468.75,SIM-AR,SYNTHETIC - no real customers
+AR000687,2026-02-25,2026-03-27,D06,SIM-D06-ACCOUNT-026,E-Recording Business Account,Billed Government Service,1436.38,SIM-AR,SYNTHETIC - no real customers
+AR000688,2026-02-11,2026-03-13,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1666.00,SIM-AR,SYNTHETIC - no real customers
+AR000689,2026-02-02,2026-03-04,D01,SIM-D01-ACCOUNT-009,Administrative Partner,Billed Government Service,107.14,SIM-AR,SYNTHETIC - no real customers
+AR000690,2026-02-09,2026-03-11,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,1239.95,SIM-AR,SYNTHETIC - no real customers
+AR000691,2026-02-20,2026-03-22,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,615.16,SIM-AR,SYNTHETIC - no real customers
+AR000692,2026-02-24,2026-03-26,D01,SIM-D01-ACCOUNT-021,Administrative Partner,Billed Government Service,1218.93,SIM-AR,SYNTHETIC - no real customers
+AR000693,2026-02-10,2026-03-12,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,1460.29,SIM-AR,SYNTHETIC - no real customers
+AR000694,2026-02-24,2026-03-26,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,843.02,SIM-AR,SYNTHETIC - no real customers
+AR000695,2026-02-10,2026-03-12,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,321.90,SIM-AR,SYNTHETIC - no real customers
+AR000696,2026-02-12,2026-03-14,D03,SIM-D03-ACCOUNT-023,Agency Account,Billed Government Service,1409.46,SIM-AR,SYNTHETIC - no real customers
+AR000697,2026-02-09,2026-03-26,D04,SIM-D04-ACCOUNT-019,Intergovernmental Agency,Agency Reimbursement,9009.80,SIM-AR,SYNTHETIC - no real customers
+AR000698,2026-02-13,2026-03-15,D03,SIM-D03-ACCOUNT-030,Agency Account,Billed Government Service,375.67,SIM-AR,SYNTHETIC - no real customers
+AR000699,2026-02-27,2026-03-29,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,611.96,SIM-AR,SYNTHETIC - no real customers
+AR000700,2026-02-05,2026-03-07,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,1130.14,SIM-AR,SYNTHETIC - no real customers
+AR000701,2026-02-05,2026-03-22,D04,SIM-D04-ACCOUNT-001,Intergovernmental Agency,Agency Reimbursement,2991.57,SIM-AR,SYNTHETIC - no real customers
+AR000702,2026-02-25,2026-03-27,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,605.09,SIM-AR,SYNTHETIC - no real customers
+AR000703,2026-02-02,2026-03-04,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,534.27,SIM-AR,SYNTHETIC - no real customers
+AR000704,2026-02-03,2026-03-05,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,677.70,SIM-AR,SYNTHETIC - no real customers
+AR000705,2026-03-16,2026-04-15,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,965.90,SIM-AR,SYNTHETIC - no real customers
+AR000706,2026-03-11,2026-04-25,D04,SIM-D04-ACCOUNT-029,Intergovernmental Agency,Agency Reimbursement,10447.45,SIM-AR,SYNTHETIC - no real customers
+AR000707,2026-03-12,2026-04-11,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,455.88,SIM-AR,SYNTHETIC - no real customers
+AR000708,2026-03-20,2026-04-19,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,1593.35,SIM-AR,SYNTHETIC - no real customers
+AR000709,2026-03-04,2026-04-03,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,1387.08,SIM-AR,SYNTHETIC - no real customers
+AR000710,2026-03-04,2026-04-03,D01,SIM-D01-ACCOUNT-028,Administrative Partner,Billed Government Service,1466.72,SIM-AR,SYNTHETIC - no real customers
+AR000711,2026-03-04,2026-04-03,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1361.06,SIM-AR,SYNTHETIC - no real customers
+AR000712,2026-03-26,2026-04-25,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,627.73,SIM-AR,SYNTHETIC - no real customers
+AR000713,2026-03-20,2026-04-19,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,1613.25,SIM-AR,SYNTHETIC - no real customers
+AR000714,2026-03-04,2026-04-03,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,464.52,SIM-AR,SYNTHETIC - no real customers
+AR000715,2026-03-18,2026-04-17,D03,SIM-D03-ACCOUNT-001,Agency Account,Billed Government Service,1215.31,SIM-AR,SYNTHETIC - no real customers
+AR000716,2026-03-24,2026-05-08,D04,SIM-D04-ACCOUNT-006,Intergovernmental Agency,Agency Reimbursement,3404.14,SIM-AR,SYNTHETIC - no real customers
+AR000717,2026-03-27,2026-04-26,D03,SIM-D03-ACCOUNT-027,Agency Account,Billed Government Service,253.32,SIM-AR,SYNTHETIC - no real customers
+AR000718,2026-03-03,2026-04-02,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,1457.55,SIM-AR,SYNTHETIC - no real customers
+AR000719,2026-03-18,2026-04-17,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,228.83,SIM-AR,SYNTHETIC - no real customers
+AR000720,2026-03-06,2026-04-05,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,197.28,SIM-AR,SYNTHETIC - no real customers
+AR000721,2026-03-18,2026-04-17,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1347.58,SIM-AR,SYNTHETIC - no real customers
+AR000722,2026-03-06,2026-04-05,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,1105.34,SIM-AR,SYNTHETIC - no real customers
+AR000723,2026-03-30,2026-04-29,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,1658.99,SIM-AR,SYNTHETIC - no real customers
+AR000724,2026-03-11,2026-04-25,D04,SIM-D04-ACCOUNT-012,Intergovernmental Agency,Agency Reimbursement,7404.64,SIM-AR,SYNTHETIC - no real customers
+AR000725,2026-03-09,2026-04-08,D01,SIM-D01-ACCOUNT-009,Administrative Partner,Billed Government Service,1570.46,SIM-AR,SYNTHETIC - no real customers
+AR000726,2026-03-23,2026-04-22,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,438.61,SIM-AR,SYNTHETIC - no real customers
+AR000727,2026-03-03,2026-04-02,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,1268.66,SIM-AR,SYNTHETIC - no real customers
+AR000728,2026-03-20,2026-04-19,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,1207.26,SIM-AR,SYNTHETIC - no real customers
+AR000729,2026-03-20,2026-05-04,D04,SIM-D04-ACCOUNT-025,Intergovernmental Agency,Agency Reimbursement,9640.45,SIM-AR,SYNTHETIC - no real customers
+AR000730,2026-03-04,2026-04-03,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1056.08,SIM-AR,SYNTHETIC - no real customers
+AR000731,2026-03-06,2026-04-20,D04,SIM-D04-ACCOUNT-010,Intergovernmental Agency,Agency Reimbursement,12421.09,SIM-AR,SYNTHETIC - no real customers
+AR000732,2026-03-13,2026-04-12,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,1375.93,SIM-AR,SYNTHETIC - no real customers
+AR000733,2026-03-11,2026-04-25,D04,SIM-D04-ACCOUNT-001,Intergovernmental Agency,Agency Reimbursement,4305.03,SIM-AR,SYNTHETIC - no real customers
+AR000734,2026-03-25,2026-04-24,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,77.10,SIM-AR,SYNTHETIC - no real customers
+AR000735,2026-03-30,2026-04-29,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,1127.71,SIM-AR,SYNTHETIC - no real customers
+AR000736,2026-03-04,2026-04-03,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,658.31,SIM-AR,SYNTHETIC - no real customers
+AR000737,2026-03-11,2026-04-10,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,1333.94,SIM-AR,SYNTHETIC - no real customers
+AR000738,2026-03-12,2026-04-11,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,927.53,SIM-AR,SYNTHETIC - no real customers
+AR000739,2026-03-10,2026-04-09,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,193.44,SIM-AR,SYNTHETIC - no real customers
+AR000740,2026-03-16,2026-04-30,D04,SIM-D04-ACCOUNT-017,Intergovernmental Agency,Agency Reimbursement,1921.29,SIM-AR,SYNTHETIC - no real customers
+AR000741,2026-03-26,2026-04-25,D01,SIM-D01-ACCOUNT-019,Administrative Partner,Billed Government Service,904.90,SIM-AR,SYNTHETIC - no real customers
+AR000742,2026-03-27,2026-04-26,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,1216.42,SIM-AR,SYNTHETIC - no real customers
+AR000743,2026-03-17,2026-04-16,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,787.28,SIM-AR,SYNTHETIC - no real customers
+AR000744,2026-03-27,2026-05-11,D04,SIM-D04-ACCOUNT-022,Intergovernmental Agency,Agency Reimbursement,11065.65,SIM-AR,SYNTHETIC - no real customers
+AR000745,2026-03-09,2026-04-08,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1563.12,SIM-AR,SYNTHETIC - no real customers
+AR000746,2026-03-09,2026-04-08,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,615.78,SIM-AR,SYNTHETIC - no real customers
+AR000747,2026-03-18,2026-04-17,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,177.58,SIM-AR,SYNTHETIC - no real customers
+AR000748,2026-03-19,2026-04-18,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1481.75,SIM-AR,SYNTHETIC - no real customers
+AR000749,2026-03-30,2026-04-29,D06,SIM-D06-ACCOUNT-019,E-Recording Business Account,Billed Government Service,888.29,SIM-AR,SYNTHETIC - no real customers
+AR000750,2026-03-04,2026-04-03,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,228.14,SIM-AR,SYNTHETIC - no real customers
+AR000751,2026-03-11,2026-04-10,D03,SIM-D03-ACCOUNT-001,Agency Account,Billed Government Service,1055.51,SIM-AR,SYNTHETIC - no real customers
+AR000752,2026-03-19,2026-04-18,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,84.90,SIM-AR,SYNTHETIC - no real customers
+AR000753,2026-03-02,2026-04-01,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,820.88,SIM-AR,SYNTHETIC - no real customers
+AR000754,2026-03-12,2026-04-26,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,8860.19,SIM-AR,SYNTHETIC - no real customers
+AR000755,2026-03-11,2026-04-10,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1134.23,SIM-AR,SYNTHETIC - no real customers
+AR000756,2026-03-13,2026-04-12,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,872.63,SIM-AR,SYNTHETIC - no real customers
+AR000757,2026-03-30,2026-05-14,D04,SIM-D04-ACCOUNT-020,Intergovernmental Agency,Agency Reimbursement,6834.49,SIM-AR,SYNTHETIC - no real customers
+AR000758,2026-03-19,2026-04-18,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,659.30,SIM-AR,SYNTHETIC - no real customers
+AR000759,2026-03-12,2026-04-11,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,1257.59,SIM-AR,SYNTHETIC - no real customers
+AR000760,2026-03-11,2026-04-10,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,244.30,SIM-AR,SYNTHETIC - no real customers
+AR000761,2026-03-25,2026-04-24,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,368.29,SIM-AR,SYNTHETIC - no real customers
+AR000762,2026-03-06,2026-04-05,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,380.41,SIM-AR,SYNTHETIC - no real customers
+AR000763,2026-03-03,2026-04-02,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1123.11,SIM-AR,SYNTHETIC - no real customers
+AR000764,2026-03-26,2026-04-25,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,141.09,SIM-AR,SYNTHETIC - no real customers
+AR000765,2026-03-26,2026-04-25,D03,SIM-D03-ACCOUNT-003,Agency Account,Billed Government Service,1676.42,SIM-AR,SYNTHETIC - no real customers
+AR000766,2026-03-02,2026-04-01,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,306.28,SIM-AR,SYNTHETIC - no real customers
+AR000767,2026-03-30,2026-05-14,D04,SIM-D04-ACCOUNT-013,Intergovernmental Agency,Agency Reimbursement,3041.56,SIM-AR,SYNTHETIC - no real customers
+AR000768,2026-03-20,2026-04-19,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,467.06,SIM-AR,SYNTHETIC - no real customers
+AR000769,2026-03-05,2026-04-04,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,1009.81,SIM-AR,SYNTHETIC - no real customers
+AR000770,2026-03-23,2026-04-22,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,793.79,SIM-AR,SYNTHETIC - no real customers
+AR000771,2026-03-31,2026-04-30,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,525.93,SIM-AR,SYNTHETIC - no real customers
+AR000772,2026-03-23,2026-04-22,D03,SIM-D03-ACCOUNT-018,Agency Account,Billed Government Service,1220.74,SIM-AR,SYNTHETIC - no real customers
+AR000773,2026-03-12,2026-04-11,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,289.10,SIM-AR,SYNTHETIC - no real customers
+AR000774,2026-03-27,2026-04-26,D02,SIM-D02-ACCOUNT-021,Recording Business Account,Billed Government Service,206.33,SIM-AR,SYNTHETIC - no real customers
+AR000775,2026-04-06,2026-05-06,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,1129.08,SIM-AR,SYNTHETIC - no real customers
+AR000776,2026-04-29,2026-05-29,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1623.21,SIM-AR,SYNTHETIC - no real customers
+AR000777,2026-04-07,2026-05-07,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,1294.59,SIM-AR,SYNTHETIC - no real customers
+AR000778,2026-04-16,2026-05-16,D03,SIM-D03-ACCOUNT-018,Agency Account,Billed Government Service,325.50,SIM-AR,SYNTHETIC - no real customers
+AR000779,2026-04-15,2026-05-30,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,12092.62,SIM-AR,SYNTHETIC - no real customers
+AR000780,2026-04-10,2026-05-10,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,168.87,SIM-AR,SYNTHETIC - no real customers
+AR000781,2026-04-03,2026-05-03,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,705.69,SIM-AR,SYNTHETIC - no real customers
+AR000782,2026-04-10,2026-05-10,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,935.09,SIM-AR,SYNTHETIC - no real customers
+AR000783,2026-04-27,2026-05-27,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,199.83,SIM-AR,SYNTHETIC - no real customers
+AR000784,2026-04-09,2026-05-09,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,96.53,SIM-AR,SYNTHETIC - no real customers
+AR000785,2026-04-24,2026-05-24,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,790.64,SIM-AR,SYNTHETIC - no real customers
+AR000786,2026-04-29,2026-05-29,D01,SIM-D01-ACCOUNT-026,Administrative Partner,Billed Government Service,1284.84,SIM-AR,SYNTHETIC - no real customers
+AR000787,2026-04-03,2026-05-03,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,375.41,SIM-AR,SYNTHETIC - no real customers
+AR000788,2026-04-07,2026-05-07,D01,SIM-D01-ACCOUNT-014,Administrative Partner,Billed Government Service,1581.52,SIM-AR,SYNTHETIC - no real customers
+AR000789,2026-04-01,2026-05-01,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,693.25,SIM-AR,SYNTHETIC - no real customers
+AR000790,2026-04-10,2026-05-10,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,1163.80,SIM-AR,SYNTHETIC - no real customers
+AR000791,2026-04-02,2026-05-02,D03,SIM-D03-ACCOUNT-025,Agency Account,Billed Government Service,175.12,SIM-AR,SYNTHETIC - no real customers
+AR000792,2026-04-28,2026-06-12,D04,SIM-D04-ACCOUNT-008,Intergovernmental Agency,Agency Reimbursement,6403.17,SIM-AR,SYNTHETIC - no real customers
+AR000793,2026-04-15,2026-05-15,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,1481.41,SIM-AR,SYNTHETIC - no real customers
+AR000794,2026-04-17,2026-05-17,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,474.29,SIM-AR,SYNTHETIC - no real customers
+AR000795,2026-04-16,2026-05-16,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,507.62,SIM-AR,SYNTHETIC - no real customers
+AR000796,2026-04-02,2026-05-02,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,167.23,SIM-AR,SYNTHETIC - no real customers
+AR000797,2026-04-01,2026-05-01,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,536.50,SIM-AR,SYNTHETIC - no real customers
+AR000798,2026-04-29,2026-05-29,D01,SIM-D01-ACCOUNT-006,Administrative Partner,Billed Government Service,1078.73,SIM-AR,SYNTHETIC - no real customers
+AR000799,2026-04-07,2026-05-07,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1684.13,SIM-AR,SYNTHETIC - no real customers
+AR000800,2026-04-01,2026-05-01,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,99.84,SIM-AR,SYNTHETIC - no real customers
+AR000801,2026-04-20,2026-05-20,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,911.01,SIM-AR,SYNTHETIC - no real customers
+AR000802,2026-04-06,2026-05-06,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,478.07,SIM-AR,SYNTHETIC - no real customers
+AR000803,2026-04-01,2026-05-01,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,298.38,SIM-AR,SYNTHETIC - no real customers
+AR000804,2026-04-23,2026-05-23,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,1628.90,SIM-AR,SYNTHETIC - no real customers
+AR000805,2026-04-17,2026-05-17,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1668.14,SIM-AR,SYNTHETIC - no real customers
+AR000806,2026-04-28,2026-05-28,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,210.49,SIM-AR,SYNTHETIC - no real customers
+AR000807,2026-04-20,2026-05-20,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,639.85,SIM-AR,SYNTHETIC - no real customers
+AR000808,2026-04-27,2026-05-27,D01,SIM-D01-ACCOUNT-011,Administrative Partner,Billed Government Service,1082.58,SIM-AR,SYNTHETIC - no real customers
+AR000809,2026-04-27,2026-05-27,D03,SIM-D03-ACCOUNT-023,Agency Account,Billed Government Service,851.22,SIM-AR,SYNTHETIC - no real customers
+AR000810,2026-04-27,2026-05-27,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,1216.37,SIM-AR,SYNTHETIC - no real customers
+AR000811,2026-04-01,2026-05-01,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,84.33,SIM-AR,SYNTHETIC - no real customers
+AR000812,2026-04-15,2026-05-15,D01,SIM-D01-ACCOUNT-030,Administrative Partner,Billed Government Service,638.88,SIM-AR,SYNTHETIC - no real customers
+AR000813,2026-04-13,2026-05-13,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,1044.05,SIM-AR,SYNTHETIC - no real customers
+AR000814,2026-04-24,2026-05-24,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,507.60,SIM-AR,SYNTHETIC - no real customers
+AR000815,2026-04-27,2026-05-27,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,1001.61,SIM-AR,SYNTHETIC - no real customers
+AR000816,2026-04-17,2026-05-17,D01,SIM-D01-ACCOUNT-023,Administrative Partner,Billed Government Service,1037.65,SIM-AR,SYNTHETIC - no real customers
+AR000817,2026-04-21,2026-05-21,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,324.17,SIM-AR,SYNTHETIC - no real customers
+AR000818,2026-04-16,2026-05-16,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,180.02,SIM-AR,SYNTHETIC - no real customers
+AR000819,2026-04-03,2026-05-03,D03,SIM-D03-ACCOUNT-001,Agency Account,Billed Government Service,539.30,SIM-AR,SYNTHETIC - no real customers
+AR000820,2026-04-21,2026-05-21,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,768.41,SIM-AR,SYNTHETIC - no real customers
+AR000821,2026-04-09,2026-05-09,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,1098.41,SIM-AR,SYNTHETIC - no real customers
+AR000822,2026-04-28,2026-05-28,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,108.46,SIM-AR,SYNTHETIC - no real customers
+AR000823,2026-04-27,2026-05-27,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,572.93,SIM-AR,SYNTHETIC - no real customers
+AR000824,2026-04-22,2026-06-06,D04,SIM-D04-ACCOUNT-006,Intergovernmental Agency,Agency Reimbursement,14508.28,SIM-AR,SYNTHETIC - no real customers
+AR000825,2026-04-01,2026-05-01,D01,SIM-D01-ACCOUNT-003,Administrative Partner,Billed Government Service,560.25,SIM-AR,SYNTHETIC - no real customers
+AR000826,2026-04-09,2026-05-09,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,547.48,SIM-AR,SYNTHETIC - no real customers
+AR000827,2026-04-06,2026-05-06,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,1352.43,SIM-AR,SYNTHETIC - no real customers
+AR000828,2026-04-17,2026-05-17,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1453.23,SIM-AR,SYNTHETIC - no real customers
+AR000829,2026-04-01,2026-05-01,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,1416.74,SIM-AR,SYNTHETIC - no real customers
+AR000830,2026-04-07,2026-05-07,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,1127.76,SIM-AR,SYNTHETIC - no real customers
+AR000831,2026-04-24,2026-05-24,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,1558.58,SIM-AR,SYNTHETIC - no real customers
+AR000832,2026-04-29,2026-05-29,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,90.28,SIM-AR,SYNTHETIC - no real customers
+AR000833,2026-04-14,2026-05-14,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,1195.30,SIM-AR,SYNTHETIC - no real customers
+AR000834,2026-04-06,2026-05-06,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,310.74,SIM-AR,SYNTHETIC - no real customers
+AR000835,2026-04-20,2026-05-20,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,892.90,SIM-AR,SYNTHETIC - no real customers
+AR000836,2026-04-24,2026-05-24,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,1531.88,SIM-AR,SYNTHETIC - no real customers
+AR000837,2026-04-17,2026-05-17,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,982.58,SIM-AR,SYNTHETIC - no real customers
+AR000838,2026-04-30,2026-05-30,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,85.44,SIM-AR,SYNTHETIC - no real customers
+AR000839,2026-04-01,2026-05-01,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,669.06,SIM-AR,SYNTHETIC - no real customers
+AR000840,2026-04-20,2026-05-20,D01,SIM-D01-ACCOUNT-018,Administrative Partner,Billed Government Service,799.48,SIM-AR,SYNTHETIC - no real customers
+AR000841,2026-04-23,2026-06-07,D04,SIM-D04-ACCOUNT-012,Intergovernmental Agency,Agency Reimbursement,12413.13,SIM-AR,SYNTHETIC - no real customers
+AR000842,2026-04-06,2026-05-06,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,1431.79,SIM-AR,SYNTHETIC - no real customers
+AR000843,2026-04-15,2026-05-15,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1584.80,SIM-AR,SYNTHETIC - no real customers
+AR000844,2026-04-17,2026-05-17,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,680.28,SIM-AR,SYNTHETIC - no real customers
+AR000845,2026-05-25,2026-06-24,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1103.18,SIM-AR,SYNTHETIC - no real customers
+AR000846,2026-05-15,2026-06-29,D04,SIM-D04-ACCOUNT-019,Intergovernmental Agency,Agency Reimbursement,10787.06,SIM-AR,SYNTHETIC - no real customers
+AR000847,2026-05-20,2026-06-19,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,1256.00,SIM-AR,SYNTHETIC - no real customers
+AR000848,2026-05-28,2026-06-27,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,265.69,SIM-AR,SYNTHETIC - no real customers
+AR000849,2026-05-22,2026-06-21,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,1536.25,SIM-AR,SYNTHETIC - no real customers
+AR000850,2026-05-01,2026-05-31,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1342.06,SIM-AR,SYNTHETIC - no real customers
+AR000851,2026-05-12,2026-06-11,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,1670.91,SIM-AR,SYNTHETIC - no real customers
+AR000852,2026-05-15,2026-06-14,D06,SIM-D06-ACCOUNT-009,E-Recording Business Account,Billed Government Service,936.84,SIM-AR,SYNTHETIC - no real customers
+AR000853,2026-05-06,2026-06-20,D04,SIM-D04-ACCOUNT-018,Intergovernmental Agency,Agency Reimbursement,1496.07,SIM-AR,SYNTHETIC - no real customers
+AR000854,2026-05-08,2026-06-22,D04,SIM-D04-ACCOUNT-013,Intergovernmental Agency,Agency Reimbursement,11570.57,SIM-AR,SYNTHETIC - no real customers
+AR000855,2026-05-07,2026-06-06,D03,SIM-D03-ACCOUNT-027,Agency Account,Billed Government Service,1145.02,SIM-AR,SYNTHETIC - no real customers
+AR000856,2026-05-18,2026-06-17,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,105.36,SIM-AR,SYNTHETIC - no real customers
+AR000857,2026-05-08,2026-06-07,D01,SIM-D01-ACCOUNT-028,Administrative Partner,Billed Government Service,1677.84,SIM-AR,SYNTHETIC - no real customers
+AR000858,2026-05-13,2026-06-12,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,295.45,SIM-AR,SYNTHETIC - no real customers
+AR000859,2026-05-12,2026-06-26,D04,SIM-D04-ACCOUNT-011,Intergovernmental Agency,Agency Reimbursement,11988.26,SIM-AR,SYNTHETIC - no real customers
+AR000860,2026-05-12,2026-06-11,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1598.72,SIM-AR,SYNTHETIC - no real customers
+AR000861,2026-05-19,2026-06-18,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,1407.02,SIM-AR,SYNTHETIC - no real customers
+AR000862,2026-05-07,2026-06-06,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,490.72,SIM-AR,SYNTHETIC - no real customers
+AR000863,2026-05-18,2026-06-17,D01,SIM-D01-ACCOUNT-013,Administrative Partner,Billed Government Service,896.91,SIM-AR,SYNTHETIC - no real customers
+AR000864,2026-05-22,2026-06-21,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,421.88,SIM-AR,SYNTHETIC - no real customers
+AR000865,2026-05-28,2026-06-27,D01,SIM-D01-ACCOUNT-002,Administrative Partner,Billed Government Service,1400.92,SIM-AR,SYNTHETIC - no real customers
+AR000866,2026-05-11,2026-06-10,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,821.07,SIM-AR,SYNTHETIC - no real customers
+AR000867,2026-05-26,2026-06-25,D01,SIM-D01-ACCOUNT-013,Administrative Partner,Billed Government Service,756.74,SIM-AR,SYNTHETIC - no real customers
+AR000868,2026-05-01,2026-06-15,D04,SIM-D04-ACCOUNT-010,Intergovernmental Agency,Agency Reimbursement,11923.72,SIM-AR,SYNTHETIC - no real customers
+AR000869,2026-05-20,2026-06-19,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,850.58,SIM-AR,SYNTHETIC - no real customers
+AR000870,2026-05-21,2026-06-20,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,1058.54,SIM-AR,SYNTHETIC - no real customers
+AR000871,2026-05-18,2026-06-17,D03,SIM-D03-ACCOUNT-018,Agency Account,Billed Government Service,404.00,SIM-AR,SYNTHETIC - no real customers
+AR000872,2026-05-08,2026-06-07,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,1641.39,SIM-AR,SYNTHETIC - no real customers
+AR000873,2026-05-01,2026-05-31,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,865.83,SIM-AR,SYNTHETIC - no real customers
+AR000874,2026-05-15,2026-06-14,D03,SIM-D03-ACCOUNT-007,Agency Account,Billed Government Service,1357.73,SIM-AR,SYNTHETIC - no real customers
+AR000875,2026-05-19,2026-06-18,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1250.52,SIM-AR,SYNTHETIC - no real customers
+AR000876,2026-05-13,2026-06-12,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,445.41,SIM-AR,SYNTHETIC - no real customers
+AR000877,2026-05-13,2026-06-27,D04,SIM-D04-ACCOUNT-028,Intergovernmental Agency,Agency Reimbursement,2284.86,SIM-AR,SYNTHETIC - no real customers
+AR000878,2026-05-06,2026-06-05,D03,SIM-D03-ACCOUNT-021,Agency Account,Billed Government Service,1234.32,SIM-AR,SYNTHETIC - no real customers
+AR000879,2026-05-26,2026-06-25,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,386.74,SIM-AR,SYNTHETIC - no real customers
+AR000880,2026-05-13,2026-06-12,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1149.01,SIM-AR,SYNTHETIC - no real customers
+AR000881,2026-05-26,2026-06-25,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,1020.99,SIM-AR,SYNTHETIC - no real customers
+AR000882,2026-05-22,2026-06-21,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,310.36,SIM-AR,SYNTHETIC - no real customers
+AR000883,2026-05-28,2026-06-27,D03,SIM-D03-ACCOUNT-030,Agency Account,Billed Government Service,263.52,SIM-AR,SYNTHETIC - no real customers
+AR000884,2026-05-15,2026-06-14,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,1263.54,SIM-AR,SYNTHETIC - no real customers
+AR000885,2026-05-25,2026-06-24,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,393.82,SIM-AR,SYNTHETIC - no real customers
+AR000886,2026-05-29,2026-07-13,D04,SIM-D04-ACCOUNT-024,Intergovernmental Agency,Agency Reimbursement,8108.58,SIM-AR,SYNTHETIC - no real customers
+AR000887,2026-05-22,2026-06-21,D01,SIM-D01-ACCOUNT-005,Administrative Partner,Billed Government Service,783.40,SIM-AR,SYNTHETIC - no real customers
+AR000888,2026-05-22,2026-06-21,D01,SIM-D01-ACCOUNT-028,Administrative Partner,Billed Government Service,1425.75,SIM-AR,SYNTHETIC - no real customers
+AR000889,2026-05-11,2026-06-10,D01,SIM-D01-ACCOUNT-005,Administrative Partner,Billed Government Service,410.39,SIM-AR,SYNTHETIC - no real customers
+AR000890,2026-05-04,2026-06-03,D01,SIM-D01-ACCOUNT-005,Administrative Partner,Billed Government Service,1683.94,SIM-AR,SYNTHETIC - no real customers
+AR000891,2026-05-14,2026-06-13,D03,SIM-D03-ACCOUNT-008,Agency Account,Billed Government Service,1215.95,SIM-AR,SYNTHETIC - no real customers
+AR000892,2026-05-07,2026-06-06,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,1108.36,SIM-AR,SYNTHETIC - no real customers
+AR000893,2026-05-11,2026-06-10,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,193.12,SIM-AR,SYNTHETIC - no real customers
+AR000894,2026-05-05,2026-06-04,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,1008.84,SIM-AR,SYNTHETIC - no real customers
+AR000895,2026-05-21,2026-06-20,D01,SIM-D01-ACCOUNT-010,Administrative Partner,Billed Government Service,968.69,SIM-AR,SYNTHETIC - no real customers
+AR000896,2026-05-20,2026-06-19,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,170.48,SIM-AR,SYNTHETIC - no real customers
+AR000897,2026-05-19,2026-06-18,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1279.04,SIM-AR,SYNTHETIC - no real customers
+AR000898,2026-05-20,2026-06-19,D03,SIM-D03-ACCOUNT-015,Agency Account,Billed Government Service,211.41,SIM-AR,SYNTHETIC - no real customers
+AR000899,2026-05-20,2026-06-19,D06,SIM-D06-ACCOUNT-014,E-Recording Business Account,Billed Government Service,694.86,SIM-AR,SYNTHETIC - no real customers
+AR000900,2026-05-01,2026-05-31,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1437.34,SIM-AR,SYNTHETIC - no real customers
+AR000901,2026-05-11,2026-06-10,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,446.02,SIM-AR,SYNTHETIC - no real customers
+AR000902,2026-05-19,2026-06-18,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,1197.16,SIM-AR,SYNTHETIC - no real customers
+AR000903,2026-05-08,2026-06-07,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,1222.42,SIM-AR,SYNTHETIC - no real customers
+AR000904,2026-05-22,2026-06-21,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,1498.17,SIM-AR,SYNTHETIC - no real customers
+AR000905,2026-05-27,2026-06-26,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1030.12,SIM-AR,SYNTHETIC - no real customers
+AR000906,2026-05-18,2026-06-17,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1571.04,SIM-AR,SYNTHETIC - no real customers
+AR000907,2026-05-25,2026-06-24,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,295.70,SIM-AR,SYNTHETIC - no real customers
+AR000908,2026-05-01,2026-05-31,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,690.36,SIM-AR,SYNTHETIC - no real customers
+AR000909,2026-05-05,2026-06-04,D06,SIM-D06-ACCOUNT-024,E-Recording Business Account,Billed Government Service,618.78,SIM-AR,SYNTHETIC - no real customers
+AR000910,2026-05-07,2026-06-06,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,501.23,SIM-AR,SYNTHETIC - no real customers
+AR000911,2026-05-26,2026-06-25,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,1223.58,SIM-AR,SYNTHETIC - no real customers
+AR000912,2026-05-15,2026-06-14,D06,SIM-D06-ACCOUNT-011,E-Recording Business Account,Billed Government Service,415.80,SIM-AR,SYNTHETIC - no real customers
+AR000913,2026-05-21,2026-06-20,D01,SIM-D01-ACCOUNT-012,Administrative Partner,Billed Government Service,1340.60,SIM-AR,SYNTHETIC - no real customers
+AR000914,2026-05-06,2026-06-05,D03,SIM-D03-ACCOUNT-005,Agency Account,Billed Government Service,892.34,SIM-AR,SYNTHETIC - no real customers
+AR000915,2026-06-25,2026-07-25,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,173.92,SIM-AR,SYNTHETIC - no real customers
+AR000916,2026-06-01,2026-07-01,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1605.79,SIM-AR,SYNTHETIC - no real customers
+AR000917,2026-06-30,2026-08-14,D04,SIM-D04-ACCOUNT-002,Intergovernmental Agency,Agency Reimbursement,8575.29,SIM-AR,SYNTHETIC - no real customers
+AR000918,2026-06-16,2026-07-31,D04,SIM-D04-ACCOUNT-011,Intergovernmental Agency,Agency Reimbursement,4312.92,SIM-AR,SYNTHETIC - no real customers
+AR000919,2026-06-29,2026-07-29,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,616.00,SIM-AR,SYNTHETIC - no real customers
+AR000920,2026-06-05,2026-07-20,D04,SIM-D04-ACCOUNT-001,Intergovernmental Agency,Agency Reimbursement,13891.32,SIM-AR,SYNTHETIC - no real customers
+AR000921,2026-06-03,2026-07-03,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,360.20,SIM-AR,SYNTHETIC - no real customers
+AR000922,2026-06-16,2026-07-16,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1413.40,SIM-AR,SYNTHETIC - no real customers
+AR000923,2026-06-10,2026-07-10,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,1434.83,SIM-AR,SYNTHETIC - no real customers
+AR000924,2026-06-24,2026-07-24,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,1661.79,SIM-AR,SYNTHETIC - no real customers
+AR000925,2026-06-15,2026-07-15,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,980.85,SIM-AR,SYNTHETIC - no real customers
+AR000926,2026-06-15,2026-07-15,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,1653.59,SIM-AR,SYNTHETIC - no real customers
+AR000927,2026-06-19,2026-08-03,D04,SIM-D04-ACCOUNT-022,Intergovernmental Agency,Agency Reimbursement,1337.46,SIM-AR,SYNTHETIC - no real customers
+AR000928,2026-06-15,2026-07-15,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,1320.35,SIM-AR,SYNTHETIC - no real customers
+AR000929,2026-06-15,2026-07-15,D03,SIM-D03-ACCOUNT-002,Agency Account,Billed Government Service,654.54,SIM-AR,SYNTHETIC - no real customers
+AR000930,2026-06-22,2026-08-06,D04,SIM-D04-ACCOUNT-011,Intergovernmental Agency,Agency Reimbursement,6202.18,SIM-AR,SYNTHETIC - no real customers
+AR000931,2026-06-10,2026-07-10,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,1619.28,SIM-AR,SYNTHETIC - no real customers
+AR000932,2026-06-09,2026-07-09,D01,SIM-D01-ACCOUNT-008,Administrative Partner,Billed Government Service,759.26,SIM-AR,SYNTHETIC - no real customers
+AR000933,2026-06-04,2026-07-04,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1220.41,SIM-AR,SYNTHETIC - no real customers
+AR000934,2026-06-12,2026-07-12,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,1351.09,SIM-AR,SYNTHETIC - no real customers
+AR000935,2026-06-23,2026-08-07,D04,SIM-D04-ACCOUNT-007,Intergovernmental Agency,Agency Reimbursement,10131.43,SIM-AR,SYNTHETIC - no real customers
+AR000936,2026-06-08,2026-07-08,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,390.08,SIM-AR,SYNTHETIC - no real customers
+AR000937,2026-06-04,2026-07-04,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,762.53,SIM-AR,SYNTHETIC - no real customers
+AR000938,2026-06-16,2026-07-16,D01,SIM-D01-ACCOUNT-013,Administrative Partner,Billed Government Service,1324.14,SIM-AR,SYNTHETIC - no real customers
+AR000939,2026-06-29,2026-07-29,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,217.05,SIM-AR,SYNTHETIC - no real customers
+AR000940,2026-06-26,2026-07-26,D03,SIM-D03-ACCOUNT-001,Agency Account,Billed Government Service,479.01,SIM-AR,SYNTHETIC - no real customers
+AR000941,2026-06-11,2026-07-26,D04,SIM-D04-ACCOUNT-011,Intergovernmental Agency,Agency Reimbursement,3843.88,SIM-AR,SYNTHETIC - no real customers
+AR000942,2026-06-30,2026-07-30,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,1433.92,SIM-AR,SYNTHETIC - no real customers
+AR000943,2026-06-26,2026-08-10,D04,SIM-D04-ACCOUNT-012,Intergovernmental Agency,Agency Reimbursement,6654.77,SIM-AR,SYNTHETIC - no real customers
+AR000944,2026-06-30,2026-07-30,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,565.75,SIM-AR,SYNTHETIC - no real customers
+AR000945,2026-06-02,2026-07-17,D04,SIM-D04-ACCOUNT-001,Intergovernmental Agency,Agency Reimbursement,8029.58,SIM-AR,SYNTHETIC - no real customers
+AR000946,2026-06-18,2026-07-18,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,615.77,SIM-AR,SYNTHETIC - no real customers
+AR000947,2026-06-17,2026-07-17,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,1571.23,SIM-AR,SYNTHETIC - no real customers
+AR000948,2026-06-02,2026-07-02,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,440.68,SIM-AR,SYNTHETIC - no real customers
+AR000949,2026-06-29,2026-07-29,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,513.09,SIM-AR,SYNTHETIC - no real customers
+AR000950,2026-06-11,2026-07-26,D04,SIM-D04-ACCOUNT-009,Intergovernmental Agency,Agency Reimbursement,5516.62,SIM-AR,SYNTHETIC - no real customers
+AR000951,2026-06-10,2026-07-10,D06,SIM-D06-ACCOUNT-016,E-Recording Business Account,Billed Government Service,305.21,SIM-AR,SYNTHETIC - no real customers
+AR000952,2026-06-26,2026-07-26,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,805.68,SIM-AR,SYNTHETIC - no real customers
+AR000953,2026-06-19,2026-07-19,D01,SIM-D01-ACCOUNT-029,Administrative Partner,Billed Government Service,276.52,SIM-AR,SYNTHETIC - no real customers
+AR000954,2026-06-24,2026-07-24,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,746.76,SIM-AR,SYNTHETIC - no real customers
+AR000955,2026-06-25,2026-07-25,D03,SIM-D03-ACCOUNT-013,Agency Account,Billed Government Service,763.74,SIM-AR,SYNTHETIC - no real customers
+AR000956,2026-06-15,2026-07-15,D03,SIM-D03-ACCOUNT-009,Agency Account,Billed Government Service,1007.67,SIM-AR,SYNTHETIC - no real customers
+AR000957,2026-06-04,2026-07-04,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,362.61,SIM-AR,SYNTHETIC - no real customers
+AR000958,2026-06-29,2026-07-29,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1400.37,SIM-AR,SYNTHETIC - no real customers
+AR000959,2026-06-02,2026-07-02,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,415.02,SIM-AR,SYNTHETIC - no real customers
+AR000960,2026-06-12,2026-07-12,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,201.25,SIM-AR,SYNTHETIC - no real customers
+AR000961,2026-06-30,2026-07-30,D01,SIM-D01-ACCOUNT-002,Administrative Partner,Billed Government Service,730.17,SIM-AR,SYNTHETIC - no real customers
+AR000962,2026-06-03,2026-07-18,D04,SIM-D04-ACCOUNT-027,Intergovernmental Agency,Agency Reimbursement,2988.72,SIM-AR,SYNTHETIC - no real customers
+AR000963,2026-06-26,2026-07-26,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,895.65,SIM-AR,SYNTHETIC - no real customers
+AR000964,2026-06-18,2026-07-18,D03,SIM-D03-ACCOUNT-013,Agency Account,Billed Government Service,1209.16,SIM-AR,SYNTHETIC - no real customers
+AR000965,2026-06-12,2026-07-12,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1157.19,SIM-AR,SYNTHETIC - no real customers
+AR000966,2026-06-12,2026-07-12,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,1099.50,SIM-AR,SYNTHETIC - no real customers
+AR000967,2026-06-05,2026-07-05,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,541.71,SIM-AR,SYNTHETIC - no real customers
+AR000968,2026-06-08,2026-07-08,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1545.25,SIM-AR,SYNTHETIC - no real customers
+AR000969,2026-06-10,2026-07-10,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,1591.74,SIM-AR,SYNTHETIC - no real customers
+AR000970,2026-06-03,2026-07-03,D06,SIM-D06-ACCOUNT-026,E-Recording Business Account,Billed Government Service,1364.24,SIM-AR,SYNTHETIC - no real customers
+AR000971,2026-06-02,2026-07-02,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1478.94,SIM-AR,SYNTHETIC - no real customers
+AR000972,2026-06-26,2026-07-26,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,732.96,SIM-AR,SYNTHETIC - no real customers
+AR000973,2026-06-29,2026-07-29,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,1553.50,SIM-AR,SYNTHETIC - no real customers
+AR000974,2026-06-23,2026-07-23,D02,SIM-D02-ACCOUNT-009,Recording Business Account,Billed Government Service,173.43,SIM-AR,SYNTHETIC - no real customers
+AR000975,2026-06-17,2026-07-17,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,86.88,SIM-AR,SYNTHETIC - no real customers
+AR000976,2026-06-30,2026-07-30,D06,SIM-D06-ACCOUNT-013,E-Recording Business Account,Billed Government Service,1588.81,SIM-AR,SYNTHETIC - no real customers
+AR000977,2026-06-30,2026-07-30,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,1006.83,SIM-AR,SYNTHETIC - no real customers
+AR000978,2026-06-22,2026-08-06,D04,SIM-D04-ACCOUNT-029,Intergovernmental Agency,Agency Reimbursement,13537.95,SIM-AR,SYNTHETIC - no real customers
+AR000979,2026-06-22,2026-08-06,D04,SIM-D04-ACCOUNT-007,Intergovernmental Agency,Agency Reimbursement,1721.94,SIM-AR,SYNTHETIC - no real customers
+AR000980,2026-06-19,2026-07-19,D01,SIM-D01-ACCOUNT-010,Administrative Partner,Billed Government Service,1122.95,SIM-AR,SYNTHETIC - no real customers
+AR000981,2026-06-01,2026-07-01,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,1475.86,SIM-AR,SYNTHETIC - no real customers
+AR000982,2026-06-23,2026-07-23,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1407.12,SIM-AR,SYNTHETIC - no real customers
+AR000983,2026-06-26,2026-07-26,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1453.75,SIM-AR,SYNTHETIC - no real customers
+AR000984,2026-06-22,2026-07-22,D03,SIM-D03-ACCOUNT-030,Agency Account,Billed Government Service,995.74,SIM-AR,SYNTHETIC - no real customers
+AR000985,2026-07-07,2026-08-06,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1661.43,SIM-AR,SYNTHETIC - no real customers
+AR000986,2026-07-22,2026-08-21,D03,SIM-D03-ACCOUNT-003,Agency Account,Billed Government Service,1163.57,SIM-AR,SYNTHETIC - no real customers
+AR000987,2026-07-30,2026-08-29,D06,SIM-D06-ACCOUNT-010,E-Recording Business Account,Billed Government Service,490.34,SIM-AR,SYNTHETIC - no real customers
+AR000988,2026-07-01,2026-07-31,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,1368.49,SIM-AR,SYNTHETIC - no real customers
+AR000989,2026-07-16,2026-08-15,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1418.44,SIM-AR,SYNTHETIC - no real customers
+AR000990,2026-07-28,2026-08-27,D01,SIM-D01-ACCOUNT-028,Administrative Partner,Billed Government Service,1150.98,SIM-AR,SYNTHETIC - no real customers
+AR000991,2026-07-20,2026-08-19,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,1287.90,SIM-AR,SYNTHETIC - no real customers
+AR000992,2026-07-17,2026-08-16,D01,SIM-D01-ACCOUNT-007,Administrative Partner,Billed Government Service,1129.96,SIM-AR,SYNTHETIC - no real customers
+AR000993,2026-07-17,2026-08-16,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,1604.50,SIM-AR,SYNTHETIC - no real customers
+AR000994,2026-07-27,2026-08-26,D03,SIM-D03-ACCOUNT-008,Agency Account,Billed Government Service,114.80,SIM-AR,SYNTHETIC - no real customers
+AR000995,2026-07-10,2026-08-09,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,1435.42,SIM-AR,SYNTHETIC - no real customers
+AR000996,2026-07-07,2026-08-06,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,835.67,SIM-AR,SYNTHETIC - no real customers
+AR000997,2026-07-27,2026-08-26,D01,SIM-D01-ACCOUNT-021,Administrative Partner,Billed Government Service,1526.55,SIM-AR,SYNTHETIC - no real customers
+AR000998,2026-07-13,2026-08-12,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,933.28,SIM-AR,SYNTHETIC - no real customers
+AR000999,2026-07-10,2026-08-09,D01,SIM-D01-ACCOUNT-024,Administrative Partner,Billed Government Service,512.71,SIM-AR,SYNTHETIC - no real customers
+AR001000,2026-07-28,2026-08-27,D03,SIM-D03-ACCOUNT-009,Agency Account,Billed Government Service,222.67,SIM-AR,SYNTHETIC - no real customers
+AR001001,2026-07-10,2026-08-09,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,128.04,SIM-AR,SYNTHETIC - no real customers
+AR001002,2026-07-01,2026-07-31,D06,SIM-D06-ACCOUNT-004,E-Recording Business Account,Billed Government Service,177.37,SIM-AR,SYNTHETIC - no real customers
+AR001003,2026-07-09,2026-08-08,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,354.46,SIM-AR,SYNTHETIC - no real customers
+AR001004,2026-07-29,2026-08-28,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1256.18,SIM-AR,SYNTHETIC - no real customers
+AR001005,2026-07-07,2026-08-06,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,877.00,SIM-AR,SYNTHETIC - no real customers
+AR001006,2026-07-01,2026-07-31,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,397.62,SIM-AR,SYNTHETIC - no real customers
+AR001007,2026-07-03,2026-08-02,D03,SIM-D03-ACCOUNT-008,Agency Account,Billed Government Service,1171.05,SIM-AR,SYNTHETIC - no real customers
+AR001008,2026-07-28,2026-08-27,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,85.61,SIM-AR,SYNTHETIC - no real customers
+AR001009,2026-07-29,2026-08-28,D02,SIM-D02-ACCOUNT-028,Recording Business Account,Billed Government Service,1390.38,SIM-AR,SYNTHETIC - no real customers
+AR001010,2026-07-24,2026-08-23,D06,SIM-D06-ACCOUNT-030,E-Recording Business Account,Billed Government Service,1505.74,SIM-AR,SYNTHETIC - no real customers
+AR001011,2026-07-29,2026-08-28,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,220.12,SIM-AR,SYNTHETIC - no real customers
+AR001012,2026-07-29,2026-08-28,D01,SIM-D01-ACCOUNT-003,Administrative Partner,Billed Government Service,293.58,SIM-AR,SYNTHETIC - no real customers
+AR001013,2026-07-10,2026-08-09,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,286.62,SIM-AR,SYNTHETIC - no real customers
+AR001014,2026-07-06,2026-08-20,D04,SIM-D04-ACCOUNT-013,Intergovernmental Agency,Agency Reimbursement,13825.70,SIM-AR,SYNTHETIC - no real customers
+AR001015,2026-07-21,2026-08-20,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1103.97,SIM-AR,SYNTHETIC - no real customers
+AR001016,2026-07-30,2026-08-29,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,120.12,SIM-AR,SYNTHETIC - no real customers
+AR001017,2026-07-28,2026-08-27,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,286.00,SIM-AR,SYNTHETIC - no real customers
+AR001018,2026-07-31,2026-08-30,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,316.48,SIM-AR,SYNTHETIC - no real customers
+AR001019,2026-07-13,2026-08-12,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,395.19,SIM-AR,SYNTHETIC - no real customers
+AR001020,2026-07-09,2026-08-08,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,343.59,SIM-AR,SYNTHETIC - no real customers
+AR001021,2026-07-24,2026-08-23,D03,SIM-D03-ACCOUNT-012,Agency Account,Billed Government Service,873.86,SIM-AR,SYNTHETIC - no real customers
+AR001022,2026-07-14,2026-08-13,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,1367.93,SIM-AR,SYNTHETIC - no real customers
+AR001023,2026-07-07,2026-08-06,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,1552.64,SIM-AR,SYNTHETIC - no real customers
+AR001024,2026-07-30,2026-08-29,D06,SIM-D06-ACCOUNT-007,E-Recording Business Account,Billed Government Service,97.61,SIM-AR,SYNTHETIC - no real customers
+AR001025,2026-07-17,2026-08-16,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,908.51,SIM-AR,SYNTHETIC - no real customers
+AR001026,2026-07-15,2026-08-14,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,699.93,SIM-AR,SYNTHETIC - no real customers
+AR001027,2026-07-27,2026-08-26,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,514.37,SIM-AR,SYNTHETIC - no real customers
+AR001028,2026-07-28,2026-08-27,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,251.49,SIM-AR,SYNTHETIC - no real customers
+AR001029,2026-07-06,2026-08-05,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,811.45,SIM-AR,SYNTHETIC - no real customers
+AR001030,2026-07-13,2026-08-12,D06,SIM-D06-ACCOUNT-021,E-Recording Business Account,Billed Government Service,138.05,SIM-AR,SYNTHETIC - no real customers
+AR001031,2026-07-01,2026-08-15,D04,SIM-D04-ACCOUNT-019,Intergovernmental Agency,Agency Reimbursement,3170.81,SIM-AR,SYNTHETIC - no real customers
+AR001032,2026-07-31,2026-08-30,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,1061.40,SIM-AR,SYNTHETIC - no real customers
+AR001033,2026-07-16,2026-08-15,D06,SIM-D06-ACCOUNT-003,E-Recording Business Account,Billed Government Service,86.10,SIM-AR,SYNTHETIC - no real customers
+AR001034,2026-07-30,2026-08-29,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,600.19,SIM-AR,SYNTHETIC - no real customers
+AR001035,2026-07-21,2026-08-20,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,676.65,SIM-AR,SYNTHETIC - no real customers
+AR001036,2026-07-22,2026-08-21,D01,SIM-D01-ACCOUNT-003,Administrative Partner,Billed Government Service,99.20,SIM-AR,SYNTHETIC - no real customers
+AR001037,2026-07-20,2026-08-19,D01,SIM-D01-ACCOUNT-020,Administrative Partner,Billed Government Service,206.12,SIM-AR,SYNTHETIC - no real customers
+AR001038,2026-07-13,2026-08-12,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,603.66,SIM-AR,SYNTHETIC - no real customers
+AR001039,2026-07-09,2026-08-23,D04,SIM-D04-ACCOUNT-025,Intergovernmental Agency,Agency Reimbursement,9672.01,SIM-AR,SYNTHETIC - no real customers
+AR001040,2026-07-14,2026-08-13,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,1642.63,SIM-AR,SYNTHETIC - no real customers
+AR001041,2026-07-27,2026-08-26,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,1698.73,SIM-AR,SYNTHETIC - no real customers
+AR001042,2026-07-24,2026-09-07,D04,SIM-D04-ACCOUNT-016,Intergovernmental Agency,Agency Reimbursement,7218.08,SIM-AR,SYNTHETIC - no real customers
+AR001043,2026-07-13,2026-08-12,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,383.96,SIM-AR,SYNTHETIC - no real customers
+AR001044,2026-07-22,2026-08-21,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,180.78,SIM-AR,SYNTHETIC - no real customers
+AR001045,2026-07-22,2026-08-21,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,732.37,SIM-AR,SYNTHETIC - no real customers
+AR001046,2026-07-09,2026-08-08,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,978.77,SIM-AR,SYNTHETIC - no real customers
+AR001047,2026-07-09,2026-08-08,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,309.01,SIM-AR,SYNTHETIC - no real customers
+AR001048,2026-07-31,2026-08-30,D06,SIM-D06-ACCOUNT-029,E-Recording Business Account,Billed Government Service,1298.21,SIM-AR,SYNTHETIC - no real customers
+AR001049,2026-07-02,2026-08-01,D02,SIM-D02-ACCOUNT-027,Recording Business Account,Billed Government Service,1359.55,SIM-AR,SYNTHETIC - no real customers
+AR001050,2026-07-08,2026-08-07,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,571.59,SIM-AR,SYNTHETIC - no real customers
+AR001051,2026-07-01,2026-07-31,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,839.15,SIM-AR,SYNTHETIC - no real customers
+AR001052,2026-07-17,2026-08-16,D03,SIM-D03-ACCOUNT-023,Agency Account,Billed Government Service,936.20,SIM-AR,SYNTHETIC - no real customers
+AR001053,2026-07-30,2026-09-13,D04,SIM-D04-ACCOUNT-029,Intergovernmental Agency,Agency Reimbursement,10040.20,SIM-AR,SYNTHETIC - no real customers
+AR001054,2026-07-17,2026-08-16,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,913.68,SIM-AR,SYNTHETIC - no real customers
+AR001055,2026-08-24,2026-09-23,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,1182.99,SIM-AR,SYNTHETIC - no real customers
+AR001056,2026-08-19,2026-10-03,D04,SIM-D04-ACCOUNT-007,Intergovernmental Agency,Agency Reimbursement,1662.04,SIM-AR,SYNTHETIC - no real customers
+AR001057,2026-08-26,2026-10-10,D04,SIM-D04-ACCOUNT-012,Intergovernmental Agency,Agency Reimbursement,7378.03,SIM-AR,SYNTHETIC - no real customers
+AR001058,2026-08-04,2026-09-03,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,579.07,SIM-AR,SYNTHETIC - no real customers
+AR001059,2026-08-27,2026-09-26,D01,SIM-D01-ACCOUNT-013,Administrative Partner,Billed Government Service,145.75,SIM-AR,SYNTHETIC - no real customers
+AR001060,2026-08-28,2026-09-27,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,1294.79,SIM-AR,SYNTHETIC - no real customers
+AR001061,2026-08-05,2026-09-04,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,529.81,SIM-AR,SYNTHETIC - no real customers
+AR001062,2026-08-27,2026-09-26,D06,SIM-D06-ACCOUNT-027,E-Recording Business Account,Billed Government Service,161.07,SIM-AR,SYNTHETIC - no real customers
+AR001063,2026-08-07,2026-09-06,D03,SIM-D03-ACCOUNT-003,Agency Account,Billed Government Service,1351.88,SIM-AR,SYNTHETIC - no real customers
+AR001064,2026-08-28,2026-09-27,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,956.40,SIM-AR,SYNTHETIC - no real customers
+AR001065,2026-08-03,2026-09-02,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,349.39,SIM-AR,SYNTHETIC - no real customers
+AR001066,2026-08-13,2026-09-12,D03,SIM-D03-ACCOUNT-021,Agency Account,Billed Government Service,1124.20,SIM-AR,SYNTHETIC - no real customers
+AR001067,2026-08-17,2026-09-16,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,1277.41,SIM-AR,SYNTHETIC - no real customers
+AR001068,2026-08-17,2026-09-16,D01,SIM-D01-ACCOUNT-001,Administrative Partner,Billed Government Service,372.84,SIM-AR,SYNTHETIC - no real customers
+AR001069,2026-08-04,2026-09-03,D01,SIM-D01-ACCOUNT-022,Administrative Partner,Billed Government Service,556.87,SIM-AR,SYNTHETIC - no real customers
+AR001070,2026-08-21,2026-09-20,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,580.92,SIM-AR,SYNTHETIC - no real customers
+AR001071,2026-08-13,2026-09-12,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,687.42,SIM-AR,SYNTHETIC - no real customers
+AR001072,2026-08-12,2026-09-11,D01,SIM-D01-ACCOUNT-015,Administrative Partner,Billed Government Service,1211.06,SIM-AR,SYNTHETIC - no real customers
+AR001073,2026-08-11,2026-09-10,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,547.18,SIM-AR,SYNTHETIC - no real customers
+AR001074,2026-08-06,2026-09-20,D04,SIM-D04-ACCOUNT-007,Intergovernmental Agency,Agency Reimbursement,2753.03,SIM-AR,SYNTHETIC - no real customers
+AR001075,2026-08-20,2026-09-19,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,835.05,SIM-AR,SYNTHETIC - no real customers
+AR001076,2026-08-03,2026-09-02,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,166.39,SIM-AR,SYNTHETIC - no real customers
+AR001077,2026-08-10,2026-09-24,D04,SIM-D04-ACCOUNT-002,Intergovernmental Agency,Agency Reimbursement,14129.27,SIM-AR,SYNTHETIC - no real customers
+AR001078,2026-08-14,2026-09-28,D04,SIM-D04-ACCOUNT-019,Intergovernmental Agency,Agency Reimbursement,4941.83,SIM-AR,SYNTHETIC - no real customers
+AR001079,2026-08-27,2026-09-26,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,1355.05,SIM-AR,SYNTHETIC - no real customers
+AR001080,2026-08-28,2026-09-27,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,1280.90,SIM-AR,SYNTHETIC - no real customers
+AR001081,2026-08-13,2026-09-27,D04,SIM-D04-ACCOUNT-014,Intergovernmental Agency,Agency Reimbursement,10830.76,SIM-AR,SYNTHETIC - no real customers
+AR001082,2026-08-14,2026-09-13,D06,SIM-D06-ACCOUNT-025,E-Recording Business Account,Billed Government Service,1551.43,SIM-AR,SYNTHETIC - no real customers
+AR001083,2026-08-26,2026-09-25,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,1250.61,SIM-AR,SYNTHETIC - no real customers
+AR001084,2026-08-21,2026-09-20,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,1294.49,SIM-AR,SYNTHETIC - no real customers
+AR001085,2026-08-13,2026-09-27,D04,SIM-D04-ACCOUNT-007,Intergovernmental Agency,Agency Reimbursement,1589.15,SIM-AR,SYNTHETIC - no real customers
+AR001086,2026-08-06,2026-09-05,D06,SIM-D06-ACCOUNT-028,E-Recording Business Account,Billed Government Service,1146.20,SIM-AR,SYNTHETIC - no real customers
+AR001087,2026-08-12,2026-09-11,D02,SIM-D02-ACCOUNT-008,Recording Business Account,Billed Government Service,1382.23,SIM-AR,SYNTHETIC - no real customers
+AR001088,2026-08-18,2026-09-17,D03,SIM-D03-ACCOUNT-012,Agency Account,Billed Government Service,898.67,SIM-AR,SYNTHETIC - no real customers
+AR001089,2026-08-31,2026-09-30,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,734.51,SIM-AR,SYNTHETIC - no real customers
+AR001090,2026-08-03,2026-09-02,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,714.74,SIM-AR,SYNTHETIC - no real customers
+AR001091,2026-08-25,2026-09-24,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,842.36,SIM-AR,SYNTHETIC - no real customers
+AR001092,2026-08-18,2026-09-17,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1066.55,SIM-AR,SYNTHETIC - no real customers
+AR001093,2026-08-11,2026-09-10,D02,SIM-D02-ACCOUNT-017,Recording Business Account,Billed Government Service,878.92,SIM-AR,SYNTHETIC - no real customers
+AR001094,2026-08-21,2026-09-20,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,357.25,SIM-AR,SYNTHETIC - no real customers
+AR001095,2026-08-21,2026-09-20,D02,SIM-D02-ACCOUNT-004,Recording Business Account,Billed Government Service,1190.30,SIM-AR,SYNTHETIC - no real customers
+AR001096,2026-08-13,2026-09-27,D04,SIM-D04-ACCOUNT-001,Intergovernmental Agency,Agency Reimbursement,12535.47,SIM-AR,SYNTHETIC - no real customers
+AR001097,2026-08-26,2026-09-25,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,1068.68,SIM-AR,SYNTHETIC - no real customers
+AR001098,2026-08-03,2026-09-02,D06,SIM-D06-ACCOUNT-008,E-Recording Business Account,Billed Government Service,992.84,SIM-AR,SYNTHETIC - no real customers
+AR001099,2026-08-12,2026-09-11,D03,SIM-D03-ACCOUNT-023,Agency Account,Billed Government Service,1595.06,SIM-AR,SYNTHETIC - no real customers
+AR001100,2026-08-25,2026-09-24,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,1650.07,SIM-AR,SYNTHETIC - no real customers
+AR001101,2026-08-24,2026-09-23,D02,SIM-D02-ACCOUNT-007,Recording Business Account,Billed Government Service,1678.70,SIM-AR,SYNTHETIC - no real customers
+AR001102,2026-08-31,2026-09-30,D02,SIM-D02-ACCOUNT-011,Recording Business Account,Billed Government Service,91.31,SIM-AR,SYNTHETIC - no real customers
+AR001103,2026-08-13,2026-09-12,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,1285.44,SIM-AR,SYNTHETIC - no real customers
+AR001104,2026-08-31,2026-09-30,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,688.07,SIM-AR,SYNTHETIC - no real customers
+AR001105,2026-08-28,2026-09-27,D01,SIM-D01-ACCOUNT-011,Administrative Partner,Billed Government Service,1216.44,SIM-AR,SYNTHETIC - no real customers
+AR001106,2026-08-05,2026-09-19,D04,SIM-D04-ACCOUNT-027,Intergovernmental Agency,Agency Reimbursement,2830.48,SIM-AR,SYNTHETIC - no real customers
+AR001107,2026-08-21,2026-09-20,D03,SIM-D03-ACCOUNT-022,Agency Account,Billed Government Service,1495.27,SIM-AR,SYNTHETIC - no real customers
+AR001108,2026-08-25,2026-09-24,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,704.07,SIM-AR,SYNTHETIC - no real customers
+AR001109,2026-08-25,2026-09-24,D01,SIM-D01-ACCOUNT-018,Administrative Partner,Billed Government Service,1084.06,SIM-AR,SYNTHETIC - no real customers
+AR001110,2026-08-13,2026-09-12,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,698.37,SIM-AR,SYNTHETIC - no real customers
+AR001111,2026-08-07,2026-09-21,D04,SIM-D04-ACCOUNT-008,Intergovernmental Agency,Agency Reimbursement,7163.72,SIM-AR,SYNTHETIC - no real customers
+AR001112,2026-08-07,2026-09-06,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,962.93,SIM-AR,SYNTHETIC - no real customers
+AR001113,2026-08-10,2026-09-09,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,288.44,SIM-AR,SYNTHETIC - no real customers
+AR001114,2026-08-27,2026-09-26,D06,SIM-D06-ACCOUNT-005,E-Recording Business Account,Billed Government Service,761.80,SIM-AR,SYNTHETIC - no real customers
+AR001115,2026-08-04,2026-09-03,D02,SIM-D02-ACCOUNT-029,Recording Business Account,Billed Government Service,1448.30,SIM-AR,SYNTHETIC - no real customers
+AR001116,2026-08-24,2026-10-08,D04,SIM-D04-ACCOUNT-018,Intergovernmental Agency,Agency Reimbursement,12615.29,SIM-AR,SYNTHETIC - no real customers
+AR001117,2026-08-10,2026-09-09,D02,SIM-D02-ACCOUNT-020,Recording Business Account,Billed Government Service,1371.96,SIM-AR,SYNTHETIC - no real customers
+AR001118,2026-08-04,2026-09-03,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,1029.81,SIM-AR,SYNTHETIC - no real customers
+AR001119,2026-08-20,2026-09-19,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,996.14,SIM-AR,SYNTHETIC - no real customers
+AR001120,2026-08-14,2026-09-28,D04,SIM-D04-ACCOUNT-030,Intergovernmental Agency,Agency Reimbursement,13111.76,SIM-AR,SYNTHETIC - no real customers
+AR001121,2026-08-25,2026-09-24,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,1048.09,SIM-AR,SYNTHETIC - no real customers
+AR001122,2026-08-26,2026-09-25,D01,SIM-D01-ACCOUNT-013,Administrative Partner,Billed Government Service,1681.90,SIM-AR,SYNTHETIC - no real customers
+AR001123,2026-08-05,2026-09-04,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,1546.11,SIM-AR,SYNTHETIC - no real customers
+AR001124,2026-08-06,2026-09-05,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,1278.23,SIM-AR,SYNTHETIC - no real customers
+AR001125,2026-09-29,2026-11-13,D04,SIM-D04-ACCOUNT-020,Intergovernmental Agency,Agency Reimbursement,8886.70,SIM-AR,SYNTHETIC - no real customers
+AR001126,2026-09-15,2026-10-15,D03,SIM-D03-ACCOUNT-007,Agency Account,Billed Government Service,1498.55,SIM-AR,SYNTHETIC - no real customers
+AR001127,2026-09-21,2026-10-21,D03,SIM-D03-ACCOUNT-029,Agency Account,Billed Government Service,184.72,SIM-AR,SYNTHETIC - no real customers
+AR001128,2026-09-17,2026-10-17,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,308.53,SIM-AR,SYNTHETIC - no real customers
+AR001129,2026-09-10,2026-10-25,D04,SIM-D04-ACCOUNT-022,Intergovernmental Agency,Agency Reimbursement,9832.92,SIM-AR,SYNTHETIC - no real customers
+AR001130,2026-09-04,2026-10-04,D02,SIM-D02-ACCOUNT-024,Recording Business Account,Billed Government Service,1175.92,SIM-AR,SYNTHETIC - no real customers
+AR001131,2026-09-30,2026-10-30,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,1698.68,SIM-AR,SYNTHETIC - no real customers
+AR001132,2026-09-11,2026-10-11,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,689.34,SIM-AR,SYNTHETIC - no real customers
+AR001133,2026-09-11,2026-10-11,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,719.81,SIM-AR,SYNTHETIC - no real customers
+AR001134,2026-09-18,2026-10-18,D03,SIM-D03-ACCOUNT-014,Agency Account,Billed Government Service,165.59,SIM-AR,SYNTHETIC - no real customers
+AR001135,2026-09-30,2026-10-30,D06,SIM-D06-ACCOUNT-015,E-Recording Business Account,Billed Government Service,1624.56,SIM-AR,SYNTHETIC - no real customers
+AR001136,2026-09-03,2026-10-03,D06,SIM-D06-ACCOUNT-012,E-Recording Business Account,Billed Government Service,992.02,SIM-AR,SYNTHETIC - no real customers
+AR001137,2026-09-11,2026-10-11,D06,SIM-D06-ACCOUNT-020,E-Recording Business Account,Billed Government Service,910.60,SIM-AR,SYNTHETIC - no real customers
+AR001138,2026-09-10,2026-10-25,D04,SIM-D04-ACCOUNT-009,Intergovernmental Agency,Agency Reimbursement,14912.91,SIM-AR,SYNTHETIC - no real customers
+AR001139,2026-09-11,2026-10-11,D02,SIM-D02-ACCOUNT-018,Recording Business Account,Billed Government Service,662.86,SIM-AR,SYNTHETIC - no real customers
+AR001140,2026-09-04,2026-10-04,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,257.22,SIM-AR,SYNTHETIC - no real customers
+AR001141,2026-09-07,2026-10-07,D02,SIM-D02-ACCOUNT-026,Recording Business Account,Billed Government Service,1136.20,SIM-AR,SYNTHETIC - no real customers
+AR001142,2026-09-23,2026-10-23,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,370.86,SIM-AR,SYNTHETIC - no real customers
+AR001143,2026-09-14,2026-10-14,D02,SIM-D02-ACCOUNT-021,Recording Business Account,Billed Government Service,425.62,SIM-AR,SYNTHETIC - no real customers
+AR001144,2026-09-24,2026-10-24,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1458.67,SIM-AR,SYNTHETIC - no real customers
+AR001145,2026-09-11,2026-10-11,D06,SIM-D06-ACCOUNT-026,E-Recording Business Account,Billed Government Service,863.88,SIM-AR,SYNTHETIC - no real customers
+AR001146,2026-09-28,2026-10-28,D06,SIM-D06-ACCOUNT-018,E-Recording Business Account,Billed Government Service,1368.28,SIM-AR,SYNTHETIC - no real customers
+AR001147,2026-09-02,2026-10-02,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1489.33,SIM-AR,SYNTHETIC - no real customers
+AR001148,2026-09-21,2026-11-05,D04,SIM-D04-ACCOUNT-028,Intergovernmental Agency,Agency Reimbursement,6448.24,SIM-AR,SYNTHETIC - no real customers
+AR001149,2026-09-25,2026-10-25,D02,SIM-D02-ACCOUNT-006,Recording Business Account,Billed Government Service,1063.36,SIM-AR,SYNTHETIC - no real customers
+AR001150,2026-09-10,2026-10-10,D06,SIM-D06-ACCOUNT-026,E-Recording Business Account,Billed Government Service,576.27,SIM-AR,SYNTHETIC - no real customers
+AR001151,2026-09-21,2026-10-21,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,952.68,SIM-AR,SYNTHETIC - no real customers
+AR001152,2026-09-16,2026-10-16,D02,SIM-D02-ACCOUNT-021,Recording Business Account,Billed Government Service,616.80,SIM-AR,SYNTHETIC - no real customers
+AR001153,2026-09-08,2026-10-23,D04,SIM-D04-ACCOUNT-015,Intergovernmental Agency,Agency Reimbursement,9298.98,SIM-AR,SYNTHETIC - no real customers
+AR001154,2026-09-14,2026-10-29,D04,SIM-D04-ACCOUNT-008,Intergovernmental Agency,Agency Reimbursement,1447.68,SIM-AR,SYNTHETIC - no real customers
+AR001155,2026-09-07,2026-10-07,D02,SIM-D02-ACCOUNT-019,Recording Business Account,Billed Government Service,287.93,SIM-AR,SYNTHETIC - no real customers
+AR001156,2026-09-23,2026-10-23,D06,SIM-D06-ACCOUNT-002,E-Recording Business Account,Billed Government Service,342.49,SIM-AR,SYNTHETIC - no real customers
+AR001157,2026-09-07,2026-10-07,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,1250.79,SIM-AR,SYNTHETIC - no real customers
+AR001158,2026-09-23,2026-11-07,D04,SIM-D04-ACCOUNT-021,Intergovernmental Agency,Agency Reimbursement,10139.56,SIM-AR,SYNTHETIC - no real customers
+AR001159,2026-09-09,2026-10-09,D01,SIM-D01-ACCOUNT-003,Administrative Partner,Billed Government Service,377.34,SIM-AR,SYNTHETIC - no real customers
+AR001160,2026-09-11,2026-10-11,D02,SIM-D02-ACCOUNT-010,Recording Business Account,Billed Government Service,1106.98,SIM-AR,SYNTHETIC - no real customers
+AR001161,2026-09-01,2026-10-01,D03,SIM-D03-ACCOUNT-030,Agency Account,Billed Government Service,1596.24,SIM-AR,SYNTHETIC - no real customers
+AR001162,2026-09-07,2026-10-07,D03,SIM-D03-ACCOUNT-010,Agency Account,Billed Government Service,1054.08,SIM-AR,SYNTHETIC - no real customers
+AR001163,2026-09-01,2026-10-01,D02,SIM-D02-ACCOUNT-022,Recording Business Account,Billed Government Service,528.80,SIM-AR,SYNTHETIC - no real customers
+AR001164,2026-09-02,2026-10-02,D01,SIM-D01-ACCOUNT-005,Administrative Partner,Billed Government Service,734.23,SIM-AR,SYNTHETIC - no real customers
+AR001165,2026-09-01,2026-10-01,D01,SIM-D01-ACCOUNT-017,Administrative Partner,Billed Government Service,1652.58,SIM-AR,SYNTHETIC - no real customers
+AR001166,2026-09-08,2026-10-08,D02,SIM-D02-ACCOUNT-023,Recording Business Account,Billed Government Service,583.57,SIM-AR,SYNTHETIC - no real customers
+AR001167,2026-09-03,2026-10-03,D02,SIM-D02-ACCOUNT-003,Recording Business Account,Billed Government Service,292.26,SIM-AR,SYNTHETIC - no real customers
+AR001168,2026-09-21,2026-10-21,D06,SIM-D06-ACCOUNT-022,E-Recording Business Account,Billed Government Service,245.88,SIM-AR,SYNTHETIC - no real customers
+AR001169,2026-09-15,2026-10-15,D02,SIM-D02-ACCOUNT-025,Recording Business Account,Billed Government Service,413.84,SIM-AR,SYNTHETIC - no real customers
+AR001170,2026-09-10,2026-10-10,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,1673.27,SIM-AR,SYNTHETIC - no real customers
+AR001171,2026-09-29,2026-10-29,D02,SIM-D02-ACCOUNT-002,Recording Business Account,Billed Government Service,1296.48,SIM-AR,SYNTHETIC - no real customers
+AR001172,2026-09-03,2026-10-03,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,901.89,SIM-AR,SYNTHETIC - no real customers
+AR001173,2026-09-07,2026-10-07,D02,SIM-D02-ACCOUNT-016,Recording Business Account,Billed Government Service,195.87,SIM-AR,SYNTHETIC - no real customers
+AR001174,2026-09-25,2026-10-25,D02,SIM-D02-ACCOUNT-005,Recording Business Account,Billed Government Service,409.15,SIM-AR,SYNTHETIC - no real customers
+AR001175,2026-09-16,2026-10-16,D06,SIM-D06-ACCOUNT-006,E-Recording Business Account,Billed Government Service,994.49,SIM-AR,SYNTHETIC - no real customers
+AR001176,2026-09-30,2026-10-30,D01,SIM-D01-ACCOUNT-009,Administrative Partner,Billed Government Service,1130.22,SIM-AR,SYNTHETIC - no real customers
+AR001177,2026-09-01,2026-10-01,D02,SIM-D02-ACCOUNT-014,Recording Business Account,Billed Government Service,630.81,SIM-AR,SYNTHETIC - no real customers
+AR001178,2026-09-09,2026-10-09,D01,SIM-D01-ACCOUNT-002,Administrative Partner,Billed Government Service,139.52,SIM-AR,SYNTHETIC - no real customers
+AR001179,2026-09-14,2026-10-14,D01,SIM-D01-ACCOUNT-028,Administrative Partner,Billed Government Service,1490.68,SIM-AR,SYNTHETIC - no real customers
+AR001180,2026-09-14,2026-10-29,D04,SIM-D04-ACCOUNT-027,Intergovernmental Agency,Agency Reimbursement,13107.67,SIM-AR,SYNTHETIC - no real customers
+AR001181,2026-09-10,2026-10-10,D06,SIM-D06-ACCOUNT-023,E-Recording Business Account,Billed Government Service,1067.55,SIM-AR,SYNTHETIC - no real customers
+AR001182,2026-09-24,2026-10-24,D03,SIM-D03-ACCOUNT-027,Agency Account,Billed Government Service,1527.09,SIM-AR,SYNTHETIC - no real customers
+AR001183,2026-09-17,2026-10-17,D01,SIM-D01-ACCOUNT-026,Administrative Partner,Billed Government Service,1015.75,SIM-AR,SYNTHETIC - no real customers
+AR001184,2026-09-15,2026-10-15,D02,SIM-D02-ACCOUNT-015,Recording Business Account,Billed Government Service,360.26,SIM-AR,SYNTHETIC - no real customers
+AR001185,2026-09-15,2026-10-15,D01,SIM-D01-ACCOUNT-010,Administrative Partner,Billed Government Service,95.65,SIM-AR,SYNTHETIC - no real customers
+AR001186,2026-09-29,2026-10-29,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,961.05,SIM-AR,SYNTHETIC - no real customers
+AR001187,2026-09-30,2026-11-14,D04,SIM-D04-ACCOUNT-006,Intergovernmental Agency,Agency Reimbursement,11872.31,SIM-AR,SYNTHETIC - no real customers
+AR001188,2026-09-08,2026-10-08,D02,SIM-D02-ACCOUNT-030,Recording Business Account,Billed Government Service,313.36,SIM-AR,SYNTHETIC - no real customers
+AR001189,2026-09-29,2026-10-29,D02,SIM-D02-ACCOUNT-012,Recording Business Account,Billed Government Service,1311.85,SIM-AR,SYNTHETIC - no real customers
+AR001190,2026-09-07,2026-10-07,D02,SIM-D02-ACCOUNT-001,Recording Business Account,Billed Government Service,792.03,SIM-AR,SYNTHETIC - no real customers
+AR001191,2026-09-24,2026-10-24,D02,SIM-D02-ACCOUNT-013,Recording Business Account,Billed Government Service,317.14,SIM-AR,SYNTHETIC - no real customers
+AR001192,2026-09-11,2026-10-26,D04,SIM-D04-ACCOUNT-006,Intergovernmental Agency,Agency Reimbursement,13953.64,SIM-AR,SYNTHETIC - no real customers
+AR001193,2026-09-18,2026-10-18,D06,SIM-D06-ACCOUNT-017,E-Recording Business Account,Billed Government Service,1681.43,SIM-AR,SYNTHETIC - no real customers
+AR001194,2026-09-02,2026-10-02,D06,SIM-D06-ACCOUNT-001,E-Recording Business Account,Billed Government Service,1060.63,SIM-AR,SYNTHETIC - no real customers
+AR-SPECIAL-001,2026-05-12,2026-06-11,D04,SIM-D04-ACCOUNT-995,Intergovernmental Agency,Agency Reimbursement,12500.00,SIM-AR,SYNTHETIC - seeded A/R collection case
+AR-SPECIAL-002,2026-04-15,2026-05-15,D06,SIM-D06-ACCOUNT-996,E-Recording Business Account,Billed Government Service,8940.00,SIM-AR,SYNTHETIC - seeded A/R collection case
+AR-SPECIAL-003,2026-07-09,2026-08-08,D02,SIM-D02-ACCOUNT-997,Recording Business Account,Billed Government Service,4650.00,SIM-AR,SYNTHETIC - seeded A/R collection case

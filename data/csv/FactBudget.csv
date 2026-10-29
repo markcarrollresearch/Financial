@@ -1,0 +1,721 @@
+﻿BudgetLineID,MonthStart,FiscalYear,DivisionID,ExpenseCategoryID,BudgetAmount,BudgetBasis,RecordClass
+B202501D01E5100,2025-01-01,2025,D01,E5100,71827.57,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D01E5100,2025-02-01,2025,D01,E5100,70248.95,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D01E5100,2025-03-01,2025,D01,E5100,78931.40,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D01E5100,2025-04-01,2025,D01,E5100,79720.71,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D01E5100,2025-05-01,2025,D01,E5100,82088.65,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D01E5100,2025-06-01,2025,D01,E5100,81299.34,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D01E5100,2025-07-01,2025,D01,E5100,80510.03,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D01E5100,2025-08-01,2025,D01,E5100,82877.97,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D01E5100,2025-09-01,2025,D01,E5100,82877.97,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D01E5100,2025-10-01,2025,D01,E5100,82088.65,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D01E5100,2025-11-01,2025,D01,E5100,80510.03,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D01E5100,2025-12-01,2025,D01,E5100,74195.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D01E5200,2025-01-01,2025,D01,E5200,5792.55,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D01E5200,2025-02-01,2025,D01,E5200,5665.24,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D01E5200,2025-03-01,2025,D01,E5200,6365.44,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D01E5200,2025-04-01,2025,D01,E5200,6429.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D01E5200,2025-05-01,2025,D01,E5200,6620.05,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D01E5200,2025-06-01,2025,D01,E5200,6556.40,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D01E5200,2025-07-01,2025,D01,E5200,6492.74,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D01E5200,2025-08-01,2025,D01,E5200,6683.71,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D01E5200,2025-09-01,2025,D01,E5200,6683.71,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D01E5200,2025-10-01,2025,D01,E5200,6620.05,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D01E5200,2025-11-01,2025,D01,E5200,6492.74,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D01E5200,2025-12-01,2025,D01,E5200,5983.51,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D01E5300,2025-01-01,2025,D01,E5300,13902.11,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D01E5300,2025-02-01,2025,D01,E5300,13596.57,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D01E5300,2025-03-01,2025,D01,E5300,15277.04,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D01E5300,2025-04-01,2025,D01,E5300,15429.81,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D01E5300,2025-05-01,2025,D01,E5300,15888.13,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D01E5300,2025-06-01,2025,D01,E5300,15735.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D01E5300,2025-07-01,2025,D01,E5300,15582.59,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D01E5300,2025-08-01,2025,D01,E5300,16040.90,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D01E5300,2025-09-01,2025,D01,E5300,16040.90,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D01E5300,2025-10-01,2025,D01,E5300,15888.13,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D01E5300,2025-11-01,2025,D01,E5300,15582.58,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D01E5300,2025-12-01,2025,D01,E5300,14360.42,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D01E5400,2025-01-01,2025,D01,E5400,18536.15,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D01E5400,2025-02-01,2025,D01,E5400,18128.76,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D01E5400,2025-03-01,2025,D01,E5400,20369.39,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D01E5400,2025-04-01,2025,D01,E5400,20573.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D01E5400,2025-05-01,2025,D01,E5400,21184.17,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D01E5400,2025-06-01,2025,D01,E5400,20980.48,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D01E5400,2025-07-01,2025,D01,E5400,20776.78,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D01E5400,2025-08-01,2025,D01,E5400,21387.86,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D01E5400,2025-09-01,2025,D01,E5400,21387.86,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D01E5400,2025-10-01,2025,D01,E5400,21184.17,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D01E5400,2025-11-01,2025,D01,E5400,20776.78,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D01E5400,2025-12-01,2025,D01,E5400,19147.23,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D01E5500,2025-01-01,2025,D01,E5500,5792.55,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D01E5500,2025-02-01,2025,D01,E5500,5665.24,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D01E5500,2025-03-01,2025,D01,E5500,6365.43,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D01E5500,2025-04-01,2025,D01,E5500,6429.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D01E5500,2025-05-01,2025,D01,E5500,6620.05,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D01E5500,2025-06-01,2025,D01,E5500,6556.40,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D01E5500,2025-07-01,2025,D01,E5500,6492.74,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D01E5500,2025-08-01,2025,D01,E5500,6683.71,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D01E5500,2025-09-01,2025,D01,E5500,6683.71,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D01E5500,2025-10-01,2025,D01,E5500,6620.05,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D01E5500,2025-11-01,2025,D01,E5500,6492.74,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D01E5500,2025-12-01,2025,D01,E5500,5983.51,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D02E5100,2025-01-01,2025,D02,E5100,66428.49,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D02E5100,2025-02-01,2025,D02,E5100,64968.53,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D02E5100,2025-03-01,2025,D02,E5100,72998.34,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D02E5100,2025-04-01,2025,D02,E5100,73728.33,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D02E5100,2025-05-01,2025,D02,E5100,75918.28,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D02E5100,2025-06-01,2025,D02,E5100,75188.30,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D02E5100,2025-07-01,2025,D02,E5100,74458.31,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D02E5100,2025-08-01,2025,D02,E5100,76648.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D02E5100,2025-09-01,2025,D02,E5100,76648.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D02E5100,2025-10-01,2025,D02,E5100,75918.28,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D02E5100,2025-11-01,2025,D02,E5100,74458.31,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D02E5100,2025-12-01,2025,D02,E5100,68618.44,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D02E5200,2025-01-01,2025,D02,E5200,4884.45,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D02E5200,2025-02-01,2025,D02,E5200,4777.10,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D02E5200,2025-03-01,2025,D02,E5200,5367.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D02E5200,2025-04-01,2025,D02,E5200,5421.20,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D02E5200,2025-05-01,2025,D02,E5200,5582.23,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D02E5200,2025-06-01,2025,D02,E5200,5528.55,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D02E5200,2025-07-01,2025,D02,E5200,5474.88,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D02E5200,2025-08-01,2025,D02,E5200,5635.90,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D02E5200,2025-09-01,2025,D02,E5200,5635.90,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D02E5200,2025-10-01,2025,D02,E5200,5582.23,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D02E5200,2025-11-01,2025,D02,E5200,5474.87,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D02E5200,2025-12-01,2025,D02,E5200,5045.47,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D02E5300,2025-01-01,2025,D02,E5300,7815.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D02E5300,2025-02-01,2025,D02,E5300,7643.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D02E5300,2025-03-01,2025,D02,E5300,8588.04,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D02E5300,2025-04-01,2025,D02,E5300,8673.92,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D02E5300,2025-05-01,2025,D02,E5300,8931.56,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D02E5300,2025-06-01,2025,D02,E5300,8845.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D02E5300,2025-07-01,2025,D02,E5300,8759.80,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D02E5300,2025-08-01,2025,D02,E5300,9017.45,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D02E5300,2025-09-01,2025,D02,E5300,9017.44,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D02E5300,2025-10-01,2025,D02,E5300,8931.56,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D02E5300,2025-11-01,2025,D02,E5300,8759.80,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D02E5300,2025-12-01,2025,D02,E5300,8072.76,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D02E5400,2025-01-01,2025,D02,E5400,11722.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D02E5400,2025-02-01,2025,D02,E5400,11465.04,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D02E5400,2025-03-01,2025,D02,E5400,12882.06,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D02E5400,2025-04-01,2025,D02,E5400,13010.88,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D02E5400,2025-05-01,2025,D02,E5400,13397.34,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D02E5400,2025-06-01,2025,D02,E5400,13268.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D02E5400,2025-07-01,2025,D02,E5400,13139.70,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D02E5400,2025-08-01,2025,D02,E5400,13526.17,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D02E5400,2025-09-01,2025,D02,E5400,13526.16,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D02E5400,2025-10-01,2025,D02,E5400,13397.34,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D02E5400,2025-11-01,2025,D02,E5400,13139.70,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D02E5400,2025-12-01,2025,D02,E5400,12109.14,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D02E5500,2025-01-01,2025,D02,E5500,6838.23,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D02E5500,2025-02-01,2025,D02,E5500,6687.94,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D02E5500,2025-03-01,2025,D02,E5500,7514.53,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D02E5500,2025-04-01,2025,D02,E5500,7589.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D02E5500,2025-05-01,2025,D02,E5500,7815.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D02E5500,2025-06-01,2025,D02,E5500,7739.97,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D02E5500,2025-07-01,2025,D02,E5500,7664.83,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D02E5500,2025-08-01,2025,D02,E5500,7890.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D02E5500,2025-09-01,2025,D02,E5500,7890.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D02E5500,2025-10-01,2025,D02,E5500,7815.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D02E5500,2025-11-01,2025,D02,E5500,7664.82,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D02E5500,2025-12-01,2025,D02,E5500,7063.66,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D03E5100,2025-01-01,2025,D03,E5100,314048.31,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D03E5100,2025-02-01,2025,D03,E5100,307146.15,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D03E5100,2025-03-01,2025,D03,E5100,345108.03,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D03E5100,2025-04-01,2025,D03,E5100,348559.11,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D03E5100,2025-05-01,2025,D03,E5100,358912.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D03E5100,2025-06-01,2025,D03,E5100,355461.28,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D03E5100,2025-07-01,2025,D03,E5100,352010.20,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D03E5100,2025-08-01,2025,D03,E5100,362363.44,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D03E5100,2025-09-01,2025,D03,E5100,362363.44,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D03E5100,2025-10-01,2025,D03,E5100,358912.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D03E5100,2025-11-01,2025,D03,E5100,352010.20,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D03E5100,2025-12-01,2025,D03,E5100,324401.55,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D03E5200,2025-01-01,2025,D03,E5200,12235.65,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D03E5200,2025-02-01,2025,D03,E5200,11966.73,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D03E5200,2025-03-01,2025,D03,E5200,13445.77,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D03E5200,2025-04-01,2025,D03,E5200,13580.22,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D03E5200,2025-05-01,2025,D03,E5200,13983.60,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D03E5200,2025-06-01,2025,D03,E5200,13849.14,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D03E5200,2025-07-01,2025,D03,E5200,13714.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D03E5200,2025-08-01,2025,D03,E5200,14118.06,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D03E5200,2025-09-01,2025,D03,E5200,14118.06,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D03E5200,2025-10-01,2025,D03,E5200,13983.60,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D03E5200,2025-11-01,2025,D03,E5200,13714.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D03E5200,2025-12-01,2025,D03,E5200,12639.02,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D03E5300,2025-01-01,2025,D03,E5300,28549.85,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D03E5300,2025-02-01,2025,D03,E5300,27922.38,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D03E5300,2025-03-01,2025,D03,E5300,31373.46,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D03E5300,2025-04-01,2025,D03,E5300,31687.19,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D03E5300,2025-05-01,2025,D03,E5300,32628.39,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D03E5300,2025-06-01,2025,D03,E5300,32314.66,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D03E5300,2025-07-01,2025,D03,E5300,32000.93,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D03E5300,2025-08-01,2025,D03,E5300,32942.13,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D03E5300,2025-09-01,2025,D03,E5300,32942.13,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D03E5300,2025-10-01,2025,D03,E5300,32628.39,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D03E5300,2025-11-01,2025,D03,E5300,32000.93,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D03E5300,2025-12-01,2025,D03,E5300,29491.05,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D03E5400,2025-01-01,2025,D03,E5400,32628.40,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D03E5400,2025-02-01,2025,D03,E5400,31911.29,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D03E5400,2025-03-01,2025,D03,E5400,35855.38,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D03E5400,2025-04-01,2025,D03,E5400,36213.93,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D03E5400,2025-05-01,2025,D03,E5400,37289.60,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D03E5400,2025-06-01,2025,D03,E5400,36931.04,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D03E5400,2025-07-01,2025,D03,E5400,36572.49,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D03E5400,2025-08-01,2025,D03,E5400,37648.15,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D03E5400,2025-09-01,2025,D03,E5400,37648.15,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D03E5400,2025-10-01,2025,D03,E5400,37289.59,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D03E5400,2025-11-01,2025,D03,E5400,36572.49,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D03E5400,2025-12-01,2025,D03,E5400,33704.06,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D03E5500,2025-01-01,2025,D03,E5500,20392.75,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D03E5500,2025-02-01,2025,D03,E5500,19944.56,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D03E5500,2025-03-01,2025,D03,E5500,22409.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D03E5500,2025-04-01,2025,D03,E5500,22633.71,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D03E5500,2025-05-01,2025,D03,E5500,23306.00,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D03E5500,2025-06-01,2025,D03,E5500,23081.90,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D03E5500,2025-07-01,2025,D03,E5500,22857.80,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D03E5500,2025-08-01,2025,D03,E5500,23530.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D03E5500,2025-09-01,2025,D03,E5500,23530.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D03E5500,2025-10-01,2025,D03,E5500,23306.00,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D03E5500,2025-11-01,2025,D03,E5500,22857.80,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D03E5500,2025-12-01,2025,D03,E5500,21065.04,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D04E5100,2025-01-01,2025,D04,E5100,78183.19,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D04E5100,2025-02-01,2025,D04,E5100,71667.92,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D04E5100,2025-03-01,2025,D04,E5100,78183.19,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D04E5100,2025-04-01,2025,D04,E5100,91213.72,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D04E5100,2025-05-01,2025,D04,E5100,149851.11,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D04E5100,2025-06-01,2025,D04,E5100,260610.62,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D04E5100,2025-07-01,2025,D04,E5100,97728.98,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D04E5100,2025-08-01,2025,D04,E5100,110759.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D04E5100,2025-09-01,2025,D04,E5100,149851.11,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D04E5100,2025-10-01,2025,D04,E5100,136820.58,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D04E5100,2025-11-01,2025,D04,E5100,286671.69,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D04E5100,2025-12-01,2025,D04,E5100,91213.72,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D04E5200,2025-01-01,2025,D04,E5200,14215.13,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D04E5200,2025-02-01,2025,D04,E5200,13030.53,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D04E5200,2025-03-01,2025,D04,E5200,14215.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D04E5200,2025-04-01,2025,D04,E5200,16584.31,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D04E5200,2025-05-01,2025,D04,E5200,27245.66,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D04E5200,2025-06-01,2025,D04,E5200,47383.75,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D04E5200,2025-07-01,2025,D04,E5200,17768.91,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D04E5200,2025-08-01,2025,D04,E5200,20138.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D04E5200,2025-09-01,2025,D04,E5200,27245.66,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D04E5200,2025-10-01,2025,D04,E5200,24876.47,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D04E5200,2025-11-01,2025,D04,E5200,52122.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D04E5200,2025-12-01,2025,D04,E5200,16584.31,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D04E5300,2025-01-01,2025,D04,E5300,21322.69,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D04E5300,2025-02-01,2025,D04,E5300,19545.80,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D04E5300,2025-03-01,2025,D04,E5300,21322.69,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D04E5300,2025-04-01,2025,D04,E5300,24876.47,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D04E5300,2025-05-01,2025,D04,E5300,40868.48,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D04E5300,2025-06-01,2025,D04,E5300,71075.63,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D04E5300,2025-07-01,2025,D04,E5300,26653.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D04E5300,2025-08-01,2025,D04,E5300,30207.14,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D04E5300,2025-09-01,2025,D04,E5300,40868.48,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D04E5300,2025-10-01,2025,D04,E5300,37314.70,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D04E5300,2025-11-01,2025,D04,E5300,78183.19,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D04E5300,2025-12-01,2025,D04,E5300,24876.47,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D04E5400,2025-01-01,2025,D04,E5400,56860.50,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D04E5400,2025-02-01,2025,D04,E5400,52122.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D04E5400,2025-03-01,2025,D04,E5400,56860.50,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D04E5400,2025-04-01,2025,D04,E5400,66337.25,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D04E5400,2025-05-01,2025,D04,E5400,108982.63,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D04E5400,2025-06-01,2025,D04,E5400,189535.00,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D04E5400,2025-07-01,2025,D04,E5400,71075.62,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D04E5400,2025-08-01,2025,D04,E5400,80552.38,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D04E5400,2025-09-01,2025,D04,E5400,108982.63,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D04E5400,2025-10-01,2025,D04,E5400,99505.88,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D04E5400,2025-11-01,2025,D04,E5400,208488.50,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D04E5400,2025-12-01,2025,D04,E5400,66337.25,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D04E5500,2025-01-01,2025,D04,E5500,7107.56,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D04E5500,2025-02-01,2025,D04,E5500,6515.27,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D04E5500,2025-03-01,2025,D04,E5500,7107.56,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D04E5500,2025-04-01,2025,D04,E5500,8292.16,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D04E5500,2025-05-01,2025,D04,E5500,13622.83,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D04E5500,2025-06-01,2025,D04,E5500,23691.87,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D04E5500,2025-07-01,2025,D04,E5500,8884.45,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D04E5500,2025-08-01,2025,D04,E5500,10069.05,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D04E5500,2025-09-01,2025,D04,E5500,13622.83,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D04E5500,2025-10-01,2025,D04,E5500,12438.23,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D04E5500,2025-11-01,2025,D04,E5500,26061.06,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D04E5500,2025-12-01,2025,D04,E5500,8292.16,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D05E5100,2025-01-01,2025,D05,E5100,12769.48,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D05E5100,2025-02-01,2025,D05,E5100,12488.83,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D05E5100,2025-03-01,2025,D05,E5100,14032.39,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D05E5100,2025-04-01,2025,D05,E5100,14172.71,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D05E5100,2025-05-01,2025,D05,E5100,14593.69,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D05E5100,2025-06-01,2025,D05,E5100,14453.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D05E5100,2025-07-01,2025,D05,E5100,14313.04,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D05E5100,2025-08-01,2025,D05,E5100,14734.01,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D05E5100,2025-09-01,2025,D05,E5100,14734.01,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D05E5100,2025-10-01,2025,D05,E5100,14593.69,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D05E5100,2025-11-01,2025,D05,E5100,14313.04,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D05E5100,2025-12-01,2025,D05,E5100,13190.45,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D05E5200,2025-01-01,2025,D05,E5200,690.24,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D05E5200,2025-02-01,2025,D05,E5200,675.07,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D05E5200,2025-03-01,2025,D05,E5200,758.51,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D05E5200,2025-04-01,2025,D05,E5200,766.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D05E5200,2025-05-01,2025,D05,E5200,788.85,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D05E5200,2025-06-01,2025,D05,E5200,781.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D05E5200,2025-07-01,2025,D05,E5200,773.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D05E5200,2025-08-01,2025,D05,E5200,796.43,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D05E5200,2025-09-01,2025,D05,E5200,796.43,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D05E5200,2025-10-01,2025,D05,E5200,788.85,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D05E5200,2025-11-01,2025,D05,E5200,773.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D05E5200,2025-12-01,2025,D05,E5200,713.00,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D05E5300,2025-01-01,2025,D05,E5300,1725.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D05E5300,2025-02-01,2025,D05,E5300,1687.68,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D05E5300,2025-03-01,2025,D05,E5300,1896.27,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D05E5300,2025-04-01,2025,D05,E5300,1915.23,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D05E5300,2025-05-01,2025,D05,E5300,1972.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D05E5300,2025-06-01,2025,D05,E5300,1953.16,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D05E5300,2025-07-01,2025,D05,E5300,1934.20,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D05E5300,2025-08-01,2025,D05,E5300,1991.08,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D05E5300,2025-09-01,2025,D05,E5300,1991.08,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D05E5300,2025-10-01,2025,D05,E5300,1972.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D05E5300,2025-11-01,2025,D05,E5300,1934.19,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D05E5300,2025-12-01,2025,D05,E5300,1782.49,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D05E5400,2025-01-01,2025,D05,E5400,1035.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D05E5400,2025-02-01,2025,D05,E5400,1012.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D05E5400,2025-03-01,2025,D05,E5400,1137.76,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D05E5400,2025-04-01,2025,D05,E5400,1149.14,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D05E5400,2025-05-01,2025,D05,E5400,1183.27,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D05E5400,2025-06-01,2025,D05,E5400,1171.89,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D05E5400,2025-07-01,2025,D05,E5400,1160.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D05E5400,2025-08-01,2025,D05,E5400,1194.65,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D05E5400,2025-09-01,2025,D05,E5400,1194.65,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D05E5400,2025-10-01,2025,D05,E5400,1183.27,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D05E5400,2025-11-01,2025,D05,E5400,1160.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D05E5400,2025-12-01,2025,D05,E5400,1069.50,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D05E5500,2025-01-01,2025,D05,E5500,1035.36,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D05E5500,2025-02-01,2025,D05,E5500,1012.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D05E5500,2025-03-01,2025,D05,E5500,1137.76,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D05E5500,2025-04-01,2025,D05,E5500,1149.14,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D05E5500,2025-05-01,2025,D05,E5500,1183.27,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D05E5500,2025-06-01,2025,D05,E5500,1171.89,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D05E5500,2025-07-01,2025,D05,E5500,1160.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D05E5500,2025-08-01,2025,D05,E5500,1194.65,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D05E5500,2025-09-01,2025,D05,E5500,1194.65,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D05E5500,2025-10-01,2025,D05,E5500,1183.27,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D05E5500,2025-11-01,2025,D05,E5500,1160.52,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D05E5500,2025-12-01,2025,D05,E5500,1069.50,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D06E5100,2025-01-01,2025,D06,E5100,10818.16,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D06E5100,2025-02-01,2025,D06,E5100,10580.39,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D06E5100,2025-03-01,2025,D06,E5100,11888.08,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D06E5100,2025-04-01,2025,D06,E5100,12006.97,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D06E5100,2025-05-01,2025,D06,E5100,12363.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D06E5100,2025-06-01,2025,D06,E5100,12244.73,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D06E5100,2025-07-01,2025,D06,E5100,12125.85,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D06E5100,2025-08-01,2025,D06,E5100,12482.49,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D06E5100,2025-09-01,2025,D06,E5100,12482.49,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D06E5100,2025-10-01,2025,D06,E5100,12363.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D06E5100,2025-11-01,2025,D06,E5100,12125.85,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D06E5100,2025-12-01,2025,D06,E5100,11174.80,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D06E5200,2025-01-01,2025,D06,E5200,772.73,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D06E5200,2025-02-01,2025,D06,E5200,755.74,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D06E5200,2025-03-01,2025,D06,E5200,849.15,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D06E5200,2025-04-01,2025,D06,E5200,857.64,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D06E5200,2025-05-01,2025,D06,E5200,883.12,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D06E5200,2025-06-01,2025,D06,E5200,874.62,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D06E5200,2025-07-01,2025,D06,E5200,866.13,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D06E5200,2025-08-01,2025,D06,E5200,891.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D06E5200,2025-09-01,2025,D06,E5200,891.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D06E5200,2025-10-01,2025,D06,E5200,883.11,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D06E5200,2025-11-01,2025,D06,E5200,866.13,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D06E5200,2025-12-01,2025,D06,E5200,798.20,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D06E5300,2025-01-01,2025,D06,E5300,18545.41,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D06E5300,2025-02-01,2025,D06,E5300,18137.82,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D06E5300,2025-03-01,2025,D06,E5300,20379.58,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D06E5300,2025-04-01,2025,D06,E5300,20583.37,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D06E5300,2025-05-01,2025,D06,E5300,21194.76,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D06E5300,2025-06-01,2025,D06,E5300,20990.96,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D06E5300,2025-07-01,2025,D06,E5300,20787.17,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D06E5300,2025-08-01,2025,D06,E5300,21398.56,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D06E5300,2025-09-01,2025,D06,E5300,21398.55,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D06E5300,2025-10-01,2025,D06,E5300,21194.76,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D06E5300,2025-11-01,2025,D06,E5300,20787.17,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D06E5300,2025-12-01,2025,D06,E5300,19156.80,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D06E5400,2025-01-01,2025,D06,E5400,7340.89,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D06E5400,2025-02-01,2025,D06,E5400,7179.56,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D06E5400,2025-03-01,2025,D06,E5400,8066.92,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D06E5400,2025-04-01,2025,D06,E5400,8147.59,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D06E5400,2025-05-01,2025,D06,E5400,8389.59,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D06E5400,2025-06-01,2025,D06,E5400,8308.92,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D06E5400,2025-07-01,2025,D06,E5400,8228.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D06E5400,2025-08-01,2025,D06,E5400,8470.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D06E5400,2025-09-01,2025,D06,E5400,8470.26,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D06E5400,2025-10-01,2025,D06,E5400,8389.59,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D06E5400,2025-11-01,2025,D06,E5400,8228.25,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D06E5400,2025-12-01,2025,D06,E5400,7582.90,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202501D06E5500,2025-01-01,2025,D06,E5500,1159.09,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202502D06E5500,2025-02-01,2025,D06,E5500,1133.61,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202503D06E5500,2025-03-01,2025,D06,E5500,1273.72,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202504D06E5500,2025-04-01,2025,D06,E5500,1286.46,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202505D06E5500,2025-05-01,2025,D06,E5500,1324.67,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202506D06E5500,2025-06-01,2025,D06,E5500,1311.94,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202507D06E5500,2025-07-01,2025,D06,E5500,1299.20,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202508D06E5500,2025-08-01,2025,D06,E5500,1337.41,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202509D06E5500,2025-09-01,2025,D06,E5500,1337.41,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202510D06E5500,2025-10-01,2025,D06,E5500,1324.67,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202511D06E5500,2025-11-01,2025,D06,E5500,1299.20,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202512D06E5500,2025-12-01,2025,D06,E5500,1197.30,Fully synthetic comparative budget,DEMO - budget category and monthly allocations simulated
+B202601D01E5100,2026-01-01,2026,D01,E5100,75607.97,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D01E5100,2026-02-01,2026,D01,E5100,73946.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D01E5100,2026-03-01,2026,D01,E5100,83085.68,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D01E5100,2026-04-01,2026,D01,E5100,83916.54,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D01E5100,2026-05-01,2026,D01,E5100,86409.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D01E5100,2026-06-01,2026,D01,E5100,85578.25,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D01E5100,2026-07-01,2026,D01,E5100,84747.40,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D01E5100,2026-08-01,2026,D01,E5100,87239.97,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D01E5100,2026-09-01,2026,D01,E5100,87239.97,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D01E5100,2026-10-01,2026,D01,E5100,86409.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D01E5100,2026-11-01,2026,D01,E5100,84747.40,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D01E5100,2026-12-01,2026,D01,E5100,78100.54,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D01E5200,2026-01-01,2026,D01,E5200,6097.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D01E5200,2026-02-01,2026,D01,E5200,5963.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D01E5200,2026-03-01,2026,D01,E5200,6700.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D01E5200,2026-04-01,2026,D01,E5200,6767.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D01E5200,2026-05-01,2026,D01,E5200,6968.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D01E5200,2026-06-01,2026,D01,E5200,6901.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D01E5200,2026-07-01,2026,D01,E5200,6834.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D01E5200,2026-08-01,2026,D01,E5200,7035.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D01E5200,2026-09-01,2026,D01,E5200,7035.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D01E5200,2026-10-01,2026,D01,E5200,6968.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D01E5200,2026-11-01,2026,D01,E5200,6834.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D01E5200,2026-12-01,2026,D01,E5200,6298.43,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D01E5300,2026-01-01,2026,D01,E5300,14633.80,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D01E5300,2026-02-01,2026,D01,E5300,14312.18,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D01E5300,2026-03-01,2026,D01,E5300,16081.10,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D01E5300,2026-04-01,2026,D01,E5300,16241.91,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D01E5300,2026-05-01,2026,D01,E5300,16724.35,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D01E5300,2026-06-01,2026,D01,E5300,16563.53,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D01E5300,2026-07-01,2026,D01,E5300,16402.72,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D01E5300,2026-08-01,2026,D01,E5300,16885.16,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D01E5300,2026-09-01,2026,D01,E5300,16885.16,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D01E5300,2026-10-01,2026,D01,E5300,16724.34,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D01E5300,2026-11-01,2026,D01,E5300,16402.72,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D01E5300,2026-12-01,2026,D01,E5300,15116.23,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D01E5400,2026-01-01,2026,D01,E5400,19511.73,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D01E5400,2026-02-01,2026,D01,E5400,19082.90,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D01E5400,2026-03-01,2026,D01,E5400,21441.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D01E5400,2026-04-01,2026,D01,E5400,21655.88,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D01E5400,2026-05-01,2026,D01,E5400,22299.13,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D01E5400,2026-06-01,2026,D01,E5400,22084.71,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D01E5400,2026-07-01,2026,D01,E5400,21870.30,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D01E5400,2026-08-01,2026,D01,E5400,22513.54,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D01E5400,2026-09-01,2026,D01,E5400,22513.54,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D01E5400,2026-10-01,2026,D01,E5400,22299.12,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D01E5400,2026-11-01,2026,D01,E5400,21870.30,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D01E5400,2026-12-01,2026,D01,E5400,20154.98,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D01E5500,2026-01-01,2026,D01,E5500,6097.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D01E5500,2026-02-01,2026,D01,E5500,5963.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D01E5500,2026-03-01,2026,D01,E5500,6700.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D01E5500,2026-04-01,2026,D01,E5500,6767.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D01E5500,2026-05-01,2026,D01,E5500,6968.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D01E5500,2026-06-01,2026,D01,E5500,6901.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D01E5500,2026-07-01,2026,D01,E5500,6834.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D01E5500,2026-08-01,2026,D01,E5500,7035.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D01E5500,2026-09-01,2026,D01,E5500,7035.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D01E5500,2026-10-01,2026,D01,E5500,6968.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D01E5500,2026-11-01,2026,D01,E5500,6834.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D01E5500,2026-12-01,2026,D01,E5500,6298.43,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D02E5100,2026-01-01,2026,D02,E5100,68131.79,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D02E5100,2026-02-01,2026,D02,E5100,66634.38,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D02E5100,2026-03-01,2026,D02,E5100,74870.10,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D02E5100,2026-04-01,2026,D02,E5100,75618.80,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D02E5100,2026-05-01,2026,D02,E5100,77864.90,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D02E5100,2026-06-01,2026,D02,E5100,77116.20,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D02E5100,2026-07-01,2026,D02,E5100,76367.50,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D02E5100,2026-08-01,2026,D02,E5100,78613.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D02E5100,2026-09-01,2026,D02,E5100,78613.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D02E5100,2026-10-01,2026,D02,E5100,77864.90,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D02E5100,2026-11-01,2026,D02,E5100,76367.50,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D02E5100,2026-12-01,2026,D02,E5100,70377.89,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D02E5200,2026-01-01,2026,D02,E5200,5009.69,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D02E5200,2026-02-01,2026,D02,E5200,4899.59,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D02E5200,2026-03-01,2026,D02,E5200,5505.15,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D02E5200,2026-04-01,2026,D02,E5200,5560.21,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D02E5200,2026-05-01,2026,D02,E5200,5725.36,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D02E5200,2026-06-01,2026,D02,E5200,5670.31,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D02E5200,2026-07-01,2026,D02,E5200,5615.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D02E5200,2026-08-01,2026,D02,E5200,5780.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D02E5200,2026-09-01,2026,D02,E5200,5780.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D02E5200,2026-10-01,2026,D02,E5200,5725.36,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D02E5200,2026-11-01,2026,D02,E5200,5615.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D02E5200,2026-12-01,2026,D02,E5200,5174.84,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D02E5300,2026-01-01,2026,D02,E5300,8015.50,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D02E5300,2026-02-01,2026,D02,E5300,7839.34,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D02E5300,2026-03-01,2026,D02,E5300,8808.25,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D02E5300,2026-04-01,2026,D02,E5300,8896.33,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D02E5300,2026-05-01,2026,D02,E5300,9160.58,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D02E5300,2026-06-01,2026,D02,E5300,9072.49,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D02E5300,2026-07-01,2026,D02,E5300,8984.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D02E5300,2026-08-01,2026,D02,E5300,9248.66,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D02E5300,2026-09-01,2026,D02,E5300,9248.66,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D02E5300,2026-10-01,2026,D02,E5300,9160.58,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D02E5300,2026-11-01,2026,D02,E5300,8984.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D02E5300,2026-12-01,2026,D02,E5300,8279.75,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D02E5400,2026-01-01,2026,D02,E5400,12023.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D02E5400,2026-02-01,2026,D02,E5400,11759.01,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D02E5400,2026-03-01,2026,D02,E5400,13212.37,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D02E5400,2026-04-01,2026,D02,E5400,13344.49,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D02E5400,2026-05-01,2026,D02,E5400,13740.86,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D02E5400,2026-06-01,2026,D02,E5400,13608.74,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D02E5400,2026-07-01,2026,D02,E5400,13476.62,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D02E5400,2026-08-01,2026,D02,E5400,13872.99,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D02E5400,2026-09-01,2026,D02,E5400,13872.99,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D02E5400,2026-10-01,2026,D02,E5400,13740.86,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D02E5400,2026-11-01,2026,D02,E5400,13476.62,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D02E5400,2026-12-01,2026,D02,E5400,12419.63,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D02E5500,2026-01-01,2026,D02,E5500,7013.57,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D02E5500,2026-02-01,2026,D02,E5500,6859.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D02E5500,2026-03-01,2026,D02,E5500,7707.22,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D02E5500,2026-04-01,2026,D02,E5500,7784.29,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D02E5500,2026-05-01,2026,D02,E5500,8015.50,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D02E5500,2026-06-01,2026,D02,E5500,7938.43,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D02E5500,2026-07-01,2026,D02,E5500,7861.36,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D02E5500,2026-08-01,2026,D02,E5500,8092.58,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D02E5500,2026-09-01,2026,D02,E5500,8092.58,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D02E5500,2026-10-01,2026,D02,E5500,8015.50,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D02E5500,2026-11-01,2026,D02,E5500,7861.36,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D02E5500,2026-12-01,2026,D02,E5500,7244.78,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D03E5100,2026-01-01,2026,D03,E5100,339511.69,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D03E5100,2026-02-01,2026,D03,E5100,332049.89,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D03E5100,2026-03-01,2026,D03,E5100,373089.77,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D03E5100,2026-04-01,2026,D03,E5100,376820.67,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D03E5100,2026-05-01,2026,D03,E5100,388013.36,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D03E5100,2026-06-01,2026,D03,E5100,384282.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D03E5100,2026-07-01,2026,D03,E5100,380551.56,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D03E5100,2026-08-01,2026,D03,E5100,391744.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D03E5100,2026-09-01,2026,D03,E5100,391744.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D03E5100,2026-10-01,2026,D03,E5100,388013.36,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D03E5100,2026-11-01,2026,D03,E5100,380551.56,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D03E5100,2026-12-01,2026,D03,E5100,350704.38,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D03E5200,2026-01-01,2026,D03,E5200,13227.73,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D03E5200,2026-02-01,2026,D03,E5200,12937.01,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D03E5200,2026-03-01,2026,D03,E5200,14535.97,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D03E5200,2026-04-01,2026,D03,E5200,14681.33,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D03E5200,2026-05-01,2026,D03,E5200,15117.40,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D03E5200,2026-06-01,2026,D03,E5200,14972.04,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D03E5200,2026-07-01,2026,D03,E5200,14826.69,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D03E5200,2026-08-01,2026,D03,E5200,15262.76,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D03E5200,2026-09-01,2026,D03,E5200,15262.76,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D03E5200,2026-10-01,2026,D03,E5200,15117.40,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D03E5200,2026-11-01,2026,D03,E5200,14826.68,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D03E5200,2026-12-01,2026,D03,E5200,13663.81,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D03E5300,2026-01-01,2026,D03,E5300,30864.70,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D03E5300,2026-02-01,2026,D03,E5300,30186.35,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D03E5300,2026-03-01,2026,D03,E5300,33917.25,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D03E5300,2026-04-01,2026,D03,E5300,34256.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D03E5300,2026-05-01,2026,D03,E5300,35273.94,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D03E5300,2026-06-01,2026,D03,E5300,34934.77,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D03E5300,2026-07-01,2026,D03,E5300,34595.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D03E5300,2026-08-01,2026,D03,E5300,35613.12,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D03E5300,2026-09-01,2026,D03,E5300,35613.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D03E5300,2026-10-01,2026,D03,E5300,35273.94,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D03E5300,2026-11-01,2026,D03,E5300,34595.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D03E5300,2026-12-01,2026,D03,E5300,31882.22,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D03E5400,2026-01-01,2026,D03,E5400,35273.94,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D03E5400,2026-02-01,2026,D03,E5400,34498.69,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D03E5400,2026-03-01,2026,D03,E5400,38762.57,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D03E5400,2026-04-01,2026,D03,E5400,39150.20,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D03E5400,2026-05-01,2026,D03,E5400,40313.08,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D03E5400,2026-06-01,2026,D03,E5400,39925.45,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D03E5400,2026-07-01,2026,D03,E5400,39537.83,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D03E5400,2026-08-01,2026,D03,E5400,40700.70,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D03E5400,2026-09-01,2026,D03,E5400,40700.70,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D03E5400,2026-10-01,2026,D03,E5400,40313.08,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D03E5400,2026-11-01,2026,D03,E5400,39537.82,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D03E5400,2026-12-01,2026,D03,E5400,36436.82,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D03E5500,2026-01-01,2026,D03,E5500,22046.21,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D03E5500,2026-02-01,2026,D03,E5500,21561.68,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D03E5500,2026-03-01,2026,D03,E5500,24226.61,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D03E5500,2026-04-01,2026,D03,E5500,24468.88,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D03E5500,2026-05-01,2026,D03,E5500,25195.67,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D03E5500,2026-06-01,2026,D03,E5500,24953.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D03E5500,2026-07-01,2026,D03,E5500,24711.14,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D03E5500,2026-08-01,2026,D03,E5500,25437.94,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D03E5500,2026-09-01,2026,D03,E5500,25437.94,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D03E5500,2026-10-01,2026,D03,E5500,25195.67,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D03E5500,2026-11-01,2026,D03,E5500,24711.14,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D03E5500,2026-12-01,2026,D03,E5500,22773.01,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D04E5100,2026-01-01,2026,D04,E5100,95891.35,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D04E5100,2026-02-01,2026,D04,E5100,89041.96,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D04E5100,2026-03-01,2026,D04,E5100,109590.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D04E5100,2026-04-01,2026,D04,E5100,109590.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D04E5100,2026-05-01,2026,D04,E5100,123288.87,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D04E5100,2026-06-01,2026,D04,E5100,130138.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D04E5100,2026-07-01,2026,D04,E5100,130138.25,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D04E5100,2026-08-01,2026,D04,E5100,136987.64,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D04E5100,2026-09-01,2026,D04,E5100,164385.16,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D04E5100,2026-10-01,2026,D04,E5100,246577.75,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D04E5100,2026-11-01,2026,D04,E5100,342469.09,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D04E5100,2026-12-01,2026,D04,E5100,102740.73,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D04E5200,2026-01-01,2026,D04,E5200,17434.79,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D04E5200,2026-02-01,2026,D04,E5200,16189.45,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D04E5200,2026-03-01,2026,D04,E5200,19925.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D04E5200,2026-04-01,2026,D04,E5200,19925.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D04E5200,2026-05-01,2026,D04,E5200,22416.16,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D04E5200,2026-06-01,2026,D04,E5200,23661.50,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D04E5200,2026-07-01,2026,D04,E5200,23661.50,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D04E5200,2026-08-01,2026,D04,E5200,24906.84,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D04E5200,2026-09-01,2026,D04,E5200,29888.21,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D04E5200,2026-10-01,2026,D04,E5200,44832.32,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D04E5200,2026-11-01,2026,D04,E5200,62267.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D04E5200,2026-12-01,2026,D04,E5200,18680.13,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D04E5300,2026-01-01,2026,D04,E5300,26152.19,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D04E5300,2026-02-01,2026,D04,E5300,24284.17,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D04E5300,2026-03-01,2026,D04,E5300,29888.21,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D04E5300,2026-04-01,2026,D04,E5300,29888.21,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D04E5300,2026-05-01,2026,D04,E5300,33624.24,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D04E5300,2026-06-01,2026,D04,E5300,35492.25,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D04E5300,2026-07-01,2026,D04,E5300,35492.25,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D04E5300,2026-08-01,2026,D04,E5300,37360.26,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D04E5300,2026-09-01,2026,D04,E5300,44832.32,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D04E5300,2026-10-01,2026,D04,E5300,67248.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D04E5300,2026-11-01,2026,D04,E5300,93400.66,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D04E5300,2026-12-01,2026,D04,E5300,28020.20,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D04E5400,2026-01-01,2026,D04,E5400,69739.16,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D04E5400,2026-02-01,2026,D04,E5400,64757.79,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D04E5400,2026-03-01,2026,D04,E5400,79701.90,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D04E5400,2026-04-01,2026,D04,E5400,79701.90,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D04E5400,2026-05-01,2026,D04,E5400,89664.64,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D04E5400,2026-06-01,2026,D04,E5400,94646.00,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D04E5400,2026-07-01,2026,D04,E5400,94646.00,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D04E5400,2026-08-01,2026,D04,E5400,99627.37,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D04E5400,2026-09-01,2026,D04,E5400,119552.85,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D04E5400,2026-10-01,2026,D04,E5400,179329.27,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D04E5400,2026-11-01,2026,D04,E5400,249068.43,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D04E5400,2026-12-01,2026,D04,E5400,74720.53,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D04E5500,2026-01-01,2026,D04,E5500,8717.39,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D04E5500,2026-02-01,2026,D04,E5500,8094.72,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D04E5500,2026-03-01,2026,D04,E5500,9962.74,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D04E5500,2026-04-01,2026,D04,E5500,9962.74,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D04E5500,2026-05-01,2026,D04,E5500,11208.08,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D04E5500,2026-06-01,2026,D04,E5500,11830.75,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D04E5500,2026-07-01,2026,D04,E5500,11830.75,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D04E5500,2026-08-01,2026,D04,E5500,12453.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D04E5500,2026-09-01,2026,D04,E5500,14944.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D04E5500,2026-10-01,2026,D04,E5500,22416.16,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D04E5500,2026-11-01,2026,D04,E5500,31133.55,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D04E5500,2026-12-01,2026,D04,E5500,9340.07,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D05E5100,2026-01-01,2026,D05,E5100,13164.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D05E5100,2026-02-01,2026,D05,E5100,12875.08,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D05E5100,2026-03-01,2026,D05,E5100,14466.38,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D05E5100,2026-04-01,2026,D05,E5100,14611.05,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D05E5100,2026-05-01,2026,D05,E5100,15045.04,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D05E5100,2026-06-01,2026,D05,E5100,14900.38,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D05E5100,2026-07-01,2026,D05,E5100,14755.71,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D05E5100,2026-08-01,2026,D05,E5100,15189.70,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D05E5100,2026-09-01,2026,D05,E5100,15189.70,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D05E5100,2026-10-01,2026,D05,E5100,15045.04,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D05E5100,2026-11-01,2026,D05,E5100,14755.71,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D05E5100,2026-12-01,2026,D05,E5100,13598.40,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D05E5200,2026-01-01,2026,D05,E5200,711.59,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D05E5200,2026-02-01,2026,D05,E5200,695.95,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D05E5200,2026-03-01,2026,D05,E5200,781.97,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D05E5200,2026-04-01,2026,D05,E5200,789.79,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D05E5200,2026-05-01,2026,D05,E5200,813.24,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D05E5200,2026-06-01,2026,D05,E5200,805.43,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D05E5200,2026-07-01,2026,D05,E5200,797.61,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D05E5200,2026-08-01,2026,D05,E5200,821.06,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D05E5200,2026-09-01,2026,D05,E5200,821.06,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D05E5200,2026-10-01,2026,D05,E5200,813.24,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D05E5200,2026-11-01,2026,D05,E5200,797.61,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D05E5200,2026-12-01,2026,D05,E5200,735.05,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D05E5300,2026-01-01,2026,D05,E5300,1778.97,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D05E5300,2026-02-01,2026,D05,E5300,1739.88,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D05E5300,2026-03-01,2026,D05,E5300,1954.92,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D05E5300,2026-04-01,2026,D05,E5300,1974.47,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D05E5300,2026-05-01,2026,D05,E5300,2033.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D05E5300,2026-06-01,2026,D05,E5300,2013.56,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D05E5300,2026-07-01,2026,D05,E5300,1994.02,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D05E5300,2026-08-01,2026,D05,E5300,2052.66,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D05E5300,2026-09-01,2026,D05,E5300,2052.66,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D05E5300,2026-10-01,2026,D05,E5300,2033.11,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D05E5300,2026-11-01,2026,D05,E5300,1994.02,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D05E5300,2026-12-01,2026,D05,E5300,1837.62,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D05E5400,2026-01-01,2026,D05,E5400,1067.38,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D05E5400,2026-02-01,2026,D05,E5400,1043.92,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D05E5400,2026-03-01,2026,D05,E5400,1172.95,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D05E5400,2026-04-01,2026,D05,E5400,1184.68,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D05E5400,2026-05-01,2026,D05,E5400,1219.87,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D05E5400,2026-06-01,2026,D05,E5400,1208.14,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D05E5400,2026-07-01,2026,D05,E5400,1196.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D05E5400,2026-08-01,2026,D05,E5400,1231.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D05E5400,2026-09-01,2026,D05,E5400,1231.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D05E5400,2026-10-01,2026,D05,E5400,1219.87,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D05E5400,2026-11-01,2026,D05,E5400,1196.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D05E5400,2026-12-01,2026,D05,E5400,1102.57,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D05E5500,2026-01-01,2026,D05,E5500,1067.38,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D05E5500,2026-02-01,2026,D05,E5500,1043.92,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D05E5500,2026-03-01,2026,D05,E5500,1172.95,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D05E5500,2026-04-01,2026,D05,E5500,1184.68,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D05E5500,2026-05-01,2026,D05,E5500,1219.87,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D05E5500,2026-06-01,2026,D05,E5500,1208.14,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D05E5500,2026-07-01,2026,D05,E5500,1196.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D05E5500,2026-08-01,2026,D05,E5500,1231.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D05E5500,2026-09-01,2026,D05,E5500,1231.60,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D05E5500,2026-10-01,2026,D05,E5500,1219.87,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D05E5500,2026-11-01,2026,D05,E5500,1196.41,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D05E5500,2026-12-01,2026,D05,E5500,1102.57,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D06E5100,2026-01-01,2026,D06,E5100,11508.68,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D06E5100,2026-02-01,2026,D06,E5100,11255.74,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D06E5100,2026-03-01,2026,D06,E5100,12646.90,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D06E5100,2026-04-01,2026,D06,E5100,12773.37,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D06E5100,2026-05-01,2026,D06,E5100,13152.78,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D06E5100,2026-06-01,2026,D06,E5100,13026.31,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D06E5100,2026-07-01,2026,D06,E5100,12899.84,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D06E5100,2026-08-01,2026,D06,E5100,13279.24,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D06E5100,2026-09-01,2026,D06,E5100,13279.24,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D06E5100,2026-10-01,2026,D06,E5100,13152.78,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D06E5100,2026-11-01,2026,D06,E5100,12899.84,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D06E5100,2026-12-01,2026,D06,E5100,11888.08,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D06E5200,2026-01-01,2026,D06,E5200,822.05,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D06E5200,2026-02-01,2026,D06,E5200,803.98,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D06E5200,2026-03-01,2026,D06,E5200,903.35,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D06E5200,2026-04-01,2026,D06,E5200,912.38,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D06E5200,2026-05-01,2026,D06,E5200,939.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D06E5200,2026-06-01,2026,D06,E5200,930.45,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D06E5200,2026-07-01,2026,D06,E5200,921.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D06E5200,2026-08-01,2026,D06,E5200,948.52,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D06E5200,2026-09-01,2026,D06,E5200,948.52,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D06E5200,2026-10-01,2026,D06,E5200,939.48,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D06E5200,2026-11-01,2026,D06,E5200,921.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D06E5200,2026-12-01,2026,D06,E5200,849.15,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D06E5300,2026-01-01,2026,D06,E5300,19729.16,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D06E5300,2026-02-01,2026,D06,E5300,19295.56,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D06E5300,2026-03-01,2026,D06,E5300,21680.40,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D06E5300,2026-04-01,2026,D06,E5300,21897.20,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D06E5300,2026-05-01,2026,D06,E5300,22547.62,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D06E5300,2026-06-01,2026,D06,E5300,22330.81,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D06E5300,2026-07-01,2026,D06,E5300,22114.01,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D06E5300,2026-08-01,2026,D06,E5300,22764.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D06E5300,2026-09-01,2026,D06,E5300,22764.42,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D06E5300,2026-10-01,2026,D06,E5300,22547.62,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D06E5300,2026-11-01,2026,D06,E5300,22114.01,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D06E5300,2026-12-01,2026,D06,E5300,20379.57,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D06E5400,2026-01-01,2026,D06,E5400,7809.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D06E5400,2026-02-01,2026,D06,E5400,7637.82,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D06E5400,2026-03-01,2026,D06,E5400,8581.82,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D06E5400,2026-04-01,2026,D06,E5400,8667.64,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D06E5400,2026-05-01,2026,D06,E5400,8925.10,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D06E5400,2026-06-01,2026,D06,E5400,8839.28,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D06E5400,2026-07-01,2026,D06,E5400,8753.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D06E5400,2026-08-01,2026,D06,E5400,9010.92,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D06E5400,2026-09-01,2026,D06,E5400,9010.92,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D06E5400,2026-10-01,2026,D06,E5400,8925.10,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D06E5400,2026-11-01,2026,D06,E5400,8753.46,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D06E5400,2026-12-01,2026,D06,E5400,8066.92,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202601D06E5500,2026-01-01,2026,D06,E5500,1233.07,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202602D06E5500,2026-02-01,2026,D06,E5500,1205.97,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202603D06E5500,2026-03-01,2026,D06,E5500,1355.02,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202604D06E5500,2026-04-01,2026,D06,E5500,1368.57,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202605D06E5500,2026-05-01,2026,D06,E5500,1409.23,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202606D06E5500,2026-06-01,2026,D06,E5500,1395.68,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202607D06E5500,2026-07-01,2026,D06,E5500,1382.13,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202608D06E5500,2026-08-01,2026,D06,E5500,1422.78,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202609D06E5500,2026-09-01,2026,D06,E5500,1422.78,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202610D06E5500,2026-10-01,2026,D06,E5500,1409.23,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202611D06E5500,2026-11-01,2026,D06,E5500,1382.12,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated
+B202612D06E5500,2026-12-01,2026,D06,E5500,1273.72,Published division baseline / synthetic allocation,DEMO - budget category and monthly allocations simulated

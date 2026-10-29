@@ -1,0 +1,226 @@
+{
+  "disclosure": "Synthetic demonstration data, except separately attributed published annual public benchmarks.",
+  "as_of": "2026-09-30",
+  "tables": [
+    {
+      "name": "DimDate",
+      "rows": 730,
+      "columns": [
+        "Date",
+        "Year",
+        "MonthNumber",
+        "MonthName",
+        "MonthStart",
+        "YearMonth",
+        "Quarter",
+        "YearQuarter",
+        "IsModelActualPeriod",
+        "IsWeekday"
+      ]
+    },
+    {
+      "name": "DimDivision",
+      "rows": 6,
+      "columns": [
+        "DivisionID",
+        "DivisionName",
+        "Description",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "DimExpenseCategory",
+      "rows": 5,
+      "columns": [
+        "ExpenseCategoryID",
+        "ExpenseCategory",
+        "Grouping",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "DimServiceMetric",
+      "rows": 7,
+      "columns": [
+        "ServiceMetricID",
+        "ServiceMetric",
+        "DivisionID",
+        "Unit",
+        "MetricFamily",
+        "AdditiveAcrossMetrics",
+        "DataOrigin"
+      ]
+    },
+    {
+      "name": "FactARInvoices",
+      "rows": 1197,
+      "columns": [
+        "InvoiceID",
+        "InvoiceDate",
+        "DueDate",
+        "DivisionID",
+        "CustomerCode",
+        "CustomerClass",
+        "InvoiceType",
+        "InvoiceAmount",
+        "SourceSystem",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactARPaymentApplications",
+      "rows": 1243,
+      "columns": [
+        "ApplicationID",
+        "InvoiceID",
+        "ReceiptID",
+        "AppliedDate",
+        "AppliedAmount",
+        "ApplicationType",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactAgencyRemittances",
+      "rows": 368,
+      "columns": [
+        "RemittanceID",
+        "DivisionID",
+        "CollectionWeekEnd",
+        "RemittanceDueDate",
+        "RemittedDate",
+        "PassThroughLiability",
+        "AmountRemitted",
+        "RemitStatus",
+        "PayeeClass",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactBudget",
+      "rows": 720,
+      "columns": [
+        "BudgetLineID",
+        "MonthStart",
+        "FiscalYear",
+        "DivisionID",
+        "ExpenseCategoryID",
+        "BudgetAmount",
+        "BudgetBasis",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactCashReceipts",
+      "rows": 4636,
+      "columns": [
+        "ReceiptID",
+        "ReceiptDate",
+        "DepositBatchID",
+        "DivisionID",
+        "ReceiptChannel",
+        "ServiceStream",
+        "ReceiptOrigin",
+        "InvoiceID",
+        "GrossAmount",
+        "CountyRetainedAmount",
+        "AgencyPassThroughAmount",
+        "SourceSystem",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactDepositBatches",
+      "rows": 2218,
+      "columns": [
+        "DepositBatchID",
+        "DivisionID",
+        "ReceiptDate",
+        "ExpectedBankDate",
+        "BankPostedDate",
+        "ExpectedFromReceipts",
+        "BankAmount",
+        "BankReference",
+        "BankStatus",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactExceptions",
+      "rows": 12,
+      "columns": [
+        "ExceptionID",
+        "DetectedDate",
+        "DivisionID",
+        "SourceTable",
+        "SourceRecordID",
+        "ExceptionType",
+        "Priority",
+        "AmountUnderReview",
+        "ConfirmedLoss",
+        "OwnerRole",
+        "Status",
+        "RequiredAction",
+        "InvestigationNote",
+        "ResolvedDate",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactGLCashPostings",
+      "rows": 2208,
+      "columns": [
+        "GLCashPostingID",
+        "DepositBatchID",
+        "PostingDate",
+        "PostedAmount",
+        "GLAccount",
+        "SourceSystem",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactGLExpenses",
+      "rows": 3490,
+      "columns": [
+        "ExpenseEntryID",
+        "PostingDate",
+        "DivisionID",
+        "ExpenseCategoryID",
+        "ExpenseAmount",
+        "VendorCode",
+        "InvoiceReference",
+        "SourceSystem",
+        "RecordClass"
+      ]
+    },
+    {
+      "name": "FactPublishedBenchmarks",
+      "rows": 13,
+      "columns": [
+        "BenchmarkID",
+        "ReportYear",
+        "Category",
+        "DivisionID",
+        "Metric",
+        "Value",
+        "Unit",
+        "SourceURL",
+        "Interpretation"
+      ]
+    },
+    {
+      "name": "FactServiceVolumes",
+      "rows": 147,
+      "columns": [
+        "VolumeID",
+        "MonthStart",
+        "DivisionID",
+        "ServiceMetricID",
+        "Volume",
+        "VolumeBasis",
+        "RecordClass"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source_folder": "/mnt/data/Douglas_County_Codex_App_Starter_Kit/data",
+  "tables": 15,
+  "source_rows": 17000,
+  "passed": 43,
+  "checks": 43,
+  "fails": [],
+  "warnings": [
+    "Exception source table reference does not match a table name: EX012: FactRemittances"
+  ],
+  "reference_values": {
+    "annual_2026_budget": "13567695.00",
+    "2026_ytd_budget": "9615367.31",
+    "2026_ytd_expenses": "9686931.97",
+    "ar_open_sep30": "407695.96",
+    "ar_overdue_sep30": "242507.80",
+    "open_exceptions": 10,
+    "open_exception_amount": "188892.83",
+    "pending_not_due_bank": "130191.33",
+    "matured_bank_abs_gap": "12446.44",
+    "matured_gl_abs_gap": "145006.39"
+  }
+}
