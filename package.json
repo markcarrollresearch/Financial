@@ -14,8 +14,12 @@
     "test": "npm run data && vitest run",
     "test:source": "python qa/validate_source_data.py data",
     "test:e2e": "playwright test",
-    "format": "prettier --write src tests *.ts *.json index.html README.md docs/AI_DEVELOPMENT_LOG.md docs/DEMO_SCRIPT.md docs/VALIDATION.md",
-    "format:check": "prettier --check src tests *.ts *.json index.html README.md docs/AI_DEVELOPMENT_LOG.md docs/DEMO_SCRIPT.md docs/VALIDATION.md"
+    "format": "prettier --write src tests scripts/*.mjs *.ts *.json index.html README.md docs/AI_DEVELOPMENT_LOG.md docs/DEMO_SCRIPT.md docs/VALIDATION.md",
+    "format:check": "prettier --check src tests scripts/*.mjs *.ts *.json index.html README.md docs/AI_DEVELOPMENT_LOG.md docs/DEMO_SCRIPT.md docs/VALIDATION.md",
+    "build:portable": "npm run build && node scripts/build-portable.mjs && python scripts/package-portable.py",
+    "build:windows": "npm run build:portable && node scripts/build-windows.mjs && python scripts/package-portable.py",
+    "test:portable": "playwright test --config playwright.portable.config.ts",
+    "package:source": "python scripts/package-source.py"
   },
   "dependencies": {
     "lucide-react": "^0.577.0",
@@ -30,6 +34,7 @@
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^5.1.0",
+    "esbuild": "0.28.2",
     "prettier": "^3.9.10",
     "typescript": "~5.9.3",
     "vite": "^7.3.1",

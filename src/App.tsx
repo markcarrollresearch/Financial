@@ -16,6 +16,7 @@ import {
 import { AppContext, type Detail } from "./data/context";
 import { metrics, type Dataset } from "./finance/model";
 import Details from "./components/Details";
+import { loadDataset } from "./data/load";
 import Executive from "./pages/Executive";
 import Revenue from "./pages/Revenue";
 import Receivables from "./pages/Receivables";
@@ -65,14 +66,7 @@ export default function App() {
   const heading = useRef<HTMLHeadingElement>(null);
   useEffect(() => {
     const controller = new AbortController();
-    fetch(`${import.meta.env.BASE_URL}data.json`, { signal: controller.signal })
-      .then((r) => {
-        if (!r.ok)
-          throw new Error(
-            "The local data package could not be loaded. Run npm run data and restart the application.",
-          );
-        return r.json();
-      })
+    loadDataset(controller.signal)
       .then((value: Dataset) => {
         if (value.asOf !== "2026-09-30" || !value.tables?.FactBudget)
           throw new Error(
@@ -158,7 +152,10 @@ export default function App() {
             aria-label="Douglas County, executive overview"
           >
             <img
-              src={`${import.meta.env.BASE_URL}douglas_county_logo.png`}
+              src={
+                data.logoDataUrl ||
+                `${import.meta.env.BASE_URL}douglas_county_logo.png`
+              }
               alt="Douglas County Colorado"
             />
           </a>

@@ -2,15 +2,23 @@
 
 A standalone, local React + TypeScript application for an independent interview demonstration. All financial transactions and customer records are synthetic. **Not produced by, endorsed by, or an official report of Douglas County.** No Power BI files are read or modified. No online API, AI model, Microsoft account, database, or credentials are required at runtime.
 
-## Open the finished application
+## Open the portable application — recommended
 
-The delivery ZIP includes the prebuilt `dist/` folder. After extracting it, open a terminal in the project folder and run:
+[Download the portable ZIP](https://github.com/markcarrollresearch/Financial/raw/refs/heads/financial-lab-delivery/downloads/financial-lab-portable.zip).
 
-```sh
-python -m http.server 8000 --bind 127.0.0.1 --directory dist
-```
+1. Right-click the downloaded ZIP → **Extract All**.
+2. Open the extracted **Financial Lab Portable** folder.
+3. Double-click **OPEN FINANCIAL LAB.html**. The complete application opens in your usual browser.
 
-Open **http://127.0.0.1:8000** in a browser on the same computer. On Windows, `py` can replace `python`. Keep the terminal open; press Ctrl+C to stop. Internet is unnecessary for this prebuilt version. Serve the directory rather than double-clicking `index.html`: browsers restrict loading local JSON over `file://`.
+That single HTML file includes the app, source-derived data, charts and unchanged County logo. Copy it to a USB drive if useful. It needs no Python, Node, installation, terminal, local server, internet, or administrator access. Close the browser tab when finished. F11 enters full screen on Windows.
+
+The same folder also includes **Financial Lab.exe**, a portable Windows 10/11 x64 launcher. Double-click it to open the same application in your default browser. It extracts a content-addressed HTML copy to `%LOCALAPPDATA%\DouglasCountyFinancialLab` and exits, leaving no server running. The EXE is unsigned; if Windows blocks it, use the HTML file instead without changing Windows security settings. To remove the generated copy, delete only that application cache folder.
+
+The EXE was cross-compiled and structurally checked in Linux, and its extraction/error-handling logic was tested. Actual Windows execution is not available in this cloud workspace. The HTML's complete functionality was tested with networking disabled using an offline Chromium document harness. Managed cloud Chromium prohibits direct `file:` navigation, so that policy was left unchanged; physical Windows, default-browser association and Samsung testing remain for the presenter. The portable package is a desktop browser application, not an Android installer.
+
+## Develop or serve the web version
+
+The original developer delivery retains its prebuilt `dist/` folder. Developers may run `python -m http.server 8000 --bind 127.0.0.1 --directory dist` to serve it locally. This is optional; the portable HTML above needs no server.
 
 For development or a source checkout (requires Node.js 22.12+ and Python 3.10+):
 
@@ -76,4 +84,10 @@ requirements/       Original user prompt and starter-kit instructions
 docs/               AI work log, demo script, validation and screenshots
 ```
 
-Generated `dist/`, `public/data.json`, caches and dependencies are ignored by Git. `npm ci` + `npm run build` reproduces the application from source. The compiled delivery is supplied for offline local use; no public hosting or repository push has occurred.
+Generated `dist/`, `public/data.json`, caches and dependencies are ignored by Git. `npm ci` + `npm run build` reproduces the application from source. The compiled delivery is supplied for offline local use. The source and downloads were uploaded to the existing GitHub repository with the user’s approval; no website hosting has been deployed.
+
+## Rebuild the portable editions
+
+`npm run build:portable` builds and packages the single-file HTML edition. `npm run build:windows` additionally builds the optional Windows launcher; it requires the Go programming-language compiler (1.22+) on the build machine. Set `FINANCIAL_GO_BINARY` if the compiler is not on PATH. End users need none of these build tools.
+
+`npm run test:portable` runs five offline browser checks against the built document. In an unrestricted test browser, set `FINANCIAL_TEST_FILE_URL=1` to exercise direct file navigation. `go test ./...` from `desktop/` tests launcher extraction, cache reuse/repair, browser hand-off and failure handling after building the portable HTML. See `desktop/README.md` for build details.

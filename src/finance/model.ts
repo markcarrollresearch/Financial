@@ -2,6 +2,7 @@
 export type Row = Record<string, string>;
 export interface Dataset {
   asOf: string;
+  logoDataUrl?: string;
   tables: Record<string, Row[]>;
   hashes: Record<string, string>;
   rowCount: number;

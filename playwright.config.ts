@@ -3,6 +3,7 @@ import { existsSync } from "node:fs";
 export default defineConfig({
   testDir: "tests/browser",
   fullyParallel: false,
+  testIgnore: "**/portable.spec.ts",
   workers: 1,
   reporter: "list",
   use: {

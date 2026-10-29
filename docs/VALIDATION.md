@@ -52,3 +52,9 @@ Actual screenshots are in `docs/screenshots/`: each page has `-1280.png`, `-1600
 ## Practical limits
 
 A physical Samsung tablet, its browser rendering, touch behavior and local-network connectivity were not directly tested. Chromium viewport tests are the available evidence. Rehearse on the actual presentation device. Workbenches scroll vertically; horizontal scrolling is confined to data tables on narrow screens. There is no public deployment, external data integration, saved case management, AI forecast or service worker/PWA install. Runtime assets and financial records are local static files.
+
+## Portable edition
+
+The portable release embeds the exact same React application, original synthetic source records and unchanged PNG into one HTML file. Five offline browser tests passed, exercising all screens, exact financial metrics, source drawers, payment applications, filtering, collection scenarios, CSV export, accessibility and original logo hash. Networking is disabled in these tests. Managed cloud Chromium blocks direct `file:` navigation; the exact release HTML is rendered using Playwright's document-content harness without changing that managed policy. Direct file navigation and Windows default-browser associations remain device checks.
+
+Four Go launcher tests passed on Linux: embedded content validation, cache behavior with Unicode/spaces and corruption recovery, browser hand-off/failure propagation, and invalid cache-path reporting. The Windows x64 EXE cross-compiles successfully and its PE architecture and GUI subsystem are verified. Actual Windows shell execution, code-signing trust and physical Samsung operation have not been verified here. The EXE is unsigned; the standalone HTML is the equivalent fallback. This release uses no local server process.

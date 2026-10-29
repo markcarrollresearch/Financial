@@ -50,3 +50,16 @@ The runtime is a static analytical application over fixed synthetic records; it 
 ## Delivery retry
 
 Chat download links did not deliver the cloud ZIP to the user. After the GitHub delivery option was discussed and the user requested another attempt, the agent prepared a `financial-lab-delivery` branch in the existing `markcarrollresearch/Financial` repository. It includes the application source and `downloads/financial-lab.zip` (the verified compiled application, data and documentation). No website deployment is part of this delivery. The actual GitHub upload outcome is reported in chat.
+
+## Portable edition requested after the Windows launch problem
+
+The user showed Windows reporting that `py` was not installed and requested an installable or portable application. The agent implemented a self-contained HTML release and an optional Windows x64 GUI launcher. This work reuses the same React screens and financial model; it does not substitute a simplified dashboard or invented figures.
+
+- Added a dataset loader that reads embedded JSON in the portable edition and retains normal fetch behavior for development. The logo is embedded as a data URL using its original PNG bytes.
+- Added an esbuild-based IIFE bundle with inline styles and source records, plus a restrictive no-network content policy. The release works without an HTTP server, Python, Node or online services.
+- Added a Go launcher that embeds compressed HTML, verifies/reuses a content-addressed per-user cache copy, invokes the Windows default browser and exits. No background server or installer is required. Go was obtained from official HTTPS release metadata and its SHA-256 and size were verified before use; the recorded toolchain is in `desktop/toolchain.json`.
+- Added a portable ZIP packager and short end-user instructions. Refreshed the original source ZIP so the earlier download link also contains the easy-open HTML and EXE at its top level. The optional EXE is unsigned, and the HTML is offered as the equivalent fallback if Windows blocks it.
+- Added five offline browser checks covering all four views, exact values, source evidence, payment applications, filtering, scenario changes, CSV export, accessible controls and logo-byte integrity. Direct file navigation initially failed because cloud Chromium's managed policy blocks `file:` URLs. That policy was not altered. The harness renders the exact release HTML with networking disabled; direct navigation can be enabled in an unrestricted test browser with `FINANCIAL_TEST_FILE_URL=1`.
+- Added four launcher tests for embedded content, spaces/Unicode paths, cache reuse/repair, browser hand-off and error propagation. Native Windows execution and actual Samsung device testing remain unverified; a Linux cross-compiled PE file is not represented as a Windows-tested installer.
+
+The user had already authorized uploading the application and ZIP to the existing GitHub delivery branch. The portable release is a continuation of that approved delivery; no website deployment is involved.
